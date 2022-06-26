@@ -1,0 +1,22 @@
+@startuml componetns_backend
+
+title Диаграмма компонентов "Сервер приложения"
+
+
+' Клиентское приложение
+package "application server" as source {
+    ' Объявление компонентов
+    [nginx] <<proxy server>>
+    [gunicorn] <<python http server>>
+    [backend site university] <<django aplication>>
+    ' Объявление отношений
+    [backend site university] <..> [gunicorn]
+    [gunicorn] <..> [nginx]
+}
+
+' Объявление отношений компонентов системы
+[nginx] <.up.> users
+[DB] <<postgres server>>
+[backend site university] <..> [DB]
+
+@enduml

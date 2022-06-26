@@ -1,0 +1,58 @@
+@startuml Social
+
+title "Диаграмма классов "Социальный модуль – Social""
+
+class TypeNotice {
+    '
+    id: Integer
+    title: String
+    icon: String
+    body: Json
+}
+
+class Notice {
+    '
+    id: Integer
+    type_notice_id: Integer
+    user_id: Integer
+    date: String
+    title: String
+    icon: String
+    body: Json
+}
+
+class GroupNews {
+    '
+    id: Integer
+    title: String
+    order: Integer
+}
+
+class News {
+    '
+    id: Integer
+    title: String
+    date: String
+    body: Json
+    group_news_id: Integer
+}
+
+class Albums {
+    '
+    id: Integer
+    name: String
+}
+
+class Picture {
+    '
+    id: Integer
+    id_album: Integer
+    description: String
+}
+
+
+Notice *-right- TypeNotice
+GroupNews *-left- News
+Albums *-left- Picture
+
+@enduml

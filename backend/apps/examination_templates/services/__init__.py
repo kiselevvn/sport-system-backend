@@ -1,4 +1,5 @@
-from .utils import DICT_OF_INDIACTOR_SCHEMES
-from .indicator import CreateIndicator
+from .get_indicator_scheme import get_indicator_scheme
 
-__all__ = ["DICT_OF_INDIACTOR_SCHEMES", "CreateIndicator"]
+__all__ = [
+    "get_indicator_scheme",
+]

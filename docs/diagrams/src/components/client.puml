@@ -1,0 +1,52 @@
+@startuml componetns_client
+
+title Диаграмма компонентов №2 "Клиентское приложение"
+
+
+'Сборщик js модулей
+[webpack] <<module bundler>>
+
+
+' Клиентское приложение
+package "client aplication" as source <<quasar aplication>> {
+    ' Объявление компонентов
+    [qusar client] <<Vue js aplication>>
+    [server entry] <<Express js aplication>>
+    [client entry] <<Vue js App component>>
+    ' Объявление отношений
+    [qusar client] <-- [server entry]
+    [qusar client] <-- [client entry]
+}
+
+
+' Node js сервер
+package "node js server" as node_js_server {
+    ' Объявление компонентов
+    [server bundle] <<vue ssr server>>
+    [bundle renderer] <<vue server render>>
+    ' Объявление отношений
+    [bundle renderer] <-- [server bundle]
+}
+
+
+' Браузер пользователя
+package "user browser" as user_browser {
+    ' Объявление компонентов
+    [client bundle] <<html, js, css>>
+    [page browser] <<browser component>>
+    ' Объявление отношений
+    [page browser] <-- [client bundle]
+}
+
+
+' Объявление отношений компонентов подсистем
+
+' Сборка исходного кода клиентского приложения
+[webpack] <.. [qusar client] : build
+' Возвращение скомпилированых исходников
+[webpack] ..> [server bundle] : returned bundle
+[webpack] ..> [client bundle] : returned bundle
+' Серверный рендеринг
+[bundle renderer] .right.> [page browser] : returned page
+
+@enduml

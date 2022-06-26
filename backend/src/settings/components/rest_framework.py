@@ -17,11 +17,9 @@ DATE_INPUT_FORMATS = [
 ]
 
 REST_FRAMEWORK = {
-    "DEFAULT_PERMISSION_CLASSES": (
-        # "rest_framework.permissions.IsAuthenticated",
-    ),
+    "DEFAULT_PERMISSION_CLASSES": ("rest_framework.permissions.IsAdminUser",),
     "DEFAULT_AUTHENTICATION_CLASSES": (
-        # "rest_framework_simplejwt.authentication.JWTAuthentication",
+        "rest_framework_simplejwt.authentication.JWTAuthentication",
     ),
     "DEFAULT_RENDERER_CLASSES": (
         "djangorestframework_camel_case.render.CamelCaseJSONRenderer",
@@ -37,6 +35,9 @@ REST_FRAMEWORK = {
     "DATE_FORMAT": "%d/%m/%Y",
     "DATE_INPUT_FORMATS": DATE_INPUT_FORMATS,
     "DATETIME_FORMAT": "%d/%m/%Y %H:%M",
+    "DEFAULT_FILTER_BACKENDS": (
+        "django_filters.rest_framework.DjangoFilterBackend",
+    ),
 }
 
 CORS_ORIGIN_ALLOW_ALL = True
@@ -44,13 +45,15 @@ CORS_ORIGIN_ALLOW_ALL = True
 JWT_ALGORITHM = env("JWT_ALGORITHM", default="HS256")
 
 SIMPLE_JWT = {
-    "ACCESS_TOKEN_LIFETIME": timedelta(minutes=15),
-    "REFRESH_TOKEN_LIFETIME": timedelta(minutes=25),
-    "ROTATE_REFRESH_TOKENS": True,
-    "BLACKLIST_AFTER_ROTATION": True,
-    "ALGORITHM": JWT_ALGORITHM,
-    "AUTH_COOKIE": "auth_token",
-    "AUTH_COOKIE_SECURE": False,
+    "AUTH_HEADER_TYPES": ("JWT",),
+    "ACCESS_TOKEN_LIFETIME": timedelta(minutes=3),
+    "REFRESH_TOKEN_LIFETIME": timedelta(minutes=10),
+    "JWT_AUTH_HEADER_PREFIX": "JWT",
+    # "ROTATE_REFRESH_TOKENS": True,
+    # "BLACKLIST_AFTER_ROTATION": True,
+    # "ALGORITHM": JWT_ALGORITHM,
+    # "AUTH_COOKIE": "auth_token",
+    # "AUTH_COOKIE_SECURE": False,
     # "AUTH_REFRESH_COOKIE_PATH": reverse_lazy("api:v1:auth:token_refresh"),
 }
 

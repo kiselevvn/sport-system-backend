@@ -1,0 +1,51 @@
+@startuml ExaminationTemplates
+
+title "Диаграмма классов "Шаблоны обследований – Examination Templates""
+
+
+enum EnumTypesIndiactor {
+    ' Тип значения атрибута
+    id: Integer
+    name: String
+}
+
+class Unit {
+    ' Еденица измерения
+    id: Integer
+    name: String
+    short_name: String
+}
+
+class ExaminationTemplate {
+    ' Шаблон медицинского обследования
+    id: Integer
+    name: String
+    description: String
+    scheme: Json
+}
+
+class GroupIndicators {
+    ' Группа медецинских показателей
+    id: Integer
+    short_name: String
+    name: String
+    description: String
+    Examination_Template_id: Integer
+}
+
+class Indicator {
+    ' Показатель
+    id: Integer
+    name: String
+    description: String
+    type_indicator: Integer
+    unit: Integer
+
+}
+
+GroupIndicators *-left- ExaminationTemplate
+GroupIndicators *-right-* Indicator
+Indicator *-right- Unit
+Indicator *-- EnumTypesIndiactor
+
+@enduml

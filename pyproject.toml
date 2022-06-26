@@ -7,7 +7,7 @@ authors = ["Kiselev Vladimir <wsxxx2016@yandex.ru>"]
 
 [tool.taskipy.tasks]
 manage = "python ./backend/manage.py"
-runserver = "python ./backend/manage.py runserver"
+devserver = "python ./backend/manage.py runserver"
 migrate = "python ./backend/manage.py migrate"
 makemigrations = "python ./backend/manage.py makemigrations"
 
@@ -38,6 +38,15 @@ djangorestframework-simplejwt = "^4.6.0"
 psycopg2 = "^2.8.6"
 pydantic = "^1.8.1"
 django-rest-swagger = "^2.2.0"
+transliterate = "^1.10.2"
+django-click = "^2.2.0"
+tqdm = "^4.62.2"
+django-filter = "^2.4.0"
+Pillow = "^8.3.2"
+django-extensions = "^3.1.3"
+pyparsing = "^2.4.7"
+pydot = "^1.4.2"
+psycopg2-binary = "^2.9.3"
 
 
 [tool.poetry.dev-dependencies]

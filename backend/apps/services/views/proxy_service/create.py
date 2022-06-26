@@ -1,5 +1,5 @@
-from rest_framework.generics import CreateAPIView
 from rest_framework import status
+from rest_framework.generics import CreateAPIView
 from rest_framework.response import Response
 
 
@@ -25,6 +25,3 @@ class ProxyServiceCreateAPIView(CreateAPIView):
         return Response(
             serializer.data, status=status.HTTP_201_CREATED, headers=headers
         )
-
-    # def perform_create(self, serializer):
-    #     serializer.save()

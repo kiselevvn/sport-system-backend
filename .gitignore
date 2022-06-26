@@ -24,6 +24,7 @@ media
 .idea/**/libraries
 *.iws /out/
 .vscode
+.vs
 
 # Python #
 *.py[cod]
@@ -115,3 +116,4 @@ GitHub.sublime-settings
 !.vscode/launch.json
 !.vscode/extensions.json
 .history
+

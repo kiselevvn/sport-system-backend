@@ -1,0 +1,34 @@
+@startuml Users
+
+title "Диаграмма классов "Пользователи - Users""
+
+
+enum Role {
+    '
+    id: Integer
+    name: String
+}
+
+enum GroupPermission {
+    '
+    id: Integer
+    name: String
+}
+
+class User {
+    '
+    id: Integer
+    username: String
+    email: String
+    last_name: String
+    first_name: String
+    second_name: String
+    date_of_birth: Date
+    role_id: String
+}
+
+
+User *-right- Role
+User *-left- GroupPermission
+
+@enduml

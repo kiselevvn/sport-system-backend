@@ -6,16 +6,36 @@ DEFAULT_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "django.contrib.humanize",
-    "djoser",
     "corsheaders",
     "rest_framework",
+    "django_filters",
+    "djoser",
     "drf_yasg",
 ]
 
 PROJECT_APPS = [
+    # Главное приложение
+    "backend.src",
+    # Вспомогательные функции
     "backend.apps.services",
+    # Пользователи
     "backend.apps.users",
+
+    #
+    "backend.apps.social",
+
+    # Шаблоны обследований
     "backend.apps.examination_templates",
+    # Обследования
+    "backend.apps.examination",
+
+    # Шаблоны тестирования
+    "backend.apps.testing_templates",
+    # Тестирование
+    "backend.apps.testing",
+
+    # Рейтинг
+    "backend.apps.rating",
 ]
 
 DEVELOPER_APPS = [

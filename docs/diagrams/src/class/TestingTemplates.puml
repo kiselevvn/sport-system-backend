@@ -1,0 +1,51 @@
+
+@startuml TestingTemplates
+
+title "Диаграмма классов "Шаблоны тестирований – Testing Templates""
+
+
+class Test {
+    '
+    id: Integer
+    name: String
+    description: String
+    is_open: Boolean
+    is_published: Boolean
+}
+
+class Question {
+    '
+    id: Integer
+    test_id: Integer
+    text: String
+    number: Integer
+    score: Integer
+    allow_incorrect_answers: Boolean
+}
+
+class Answer {
+    '
+    id: Integer
+    question_id: Integer
+    text: String
+    number: Integer
+    is_win: Boolean
+    score: Integer
+}
+
+class MediaObject {
+    '
+    id: Integer
+    question_id: Integer
+    number: Integer
+    url: String
+    picture: String
+    html: Integer
+}
+
+
+Test *-right- Question
+Question *-right- Answer
+Question *-down- MediaObject
+
+@enduml

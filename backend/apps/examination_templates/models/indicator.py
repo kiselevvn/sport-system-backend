@@ -1,21 +1,18 @@
 from django.db import models
 from django.utils.translation import gettext as _
-from backend.apps.examination_templates.enums import TypeIndiactor
 from backend.apps.services.models import NameMixin, DescriptionMixin
-from backend.apps.examination_templates.services import (
-    DICT_OF_INDIACTOR_SCHEMES,
-)
+from .enum_types_indiactor import EnumTypesIndiactor
 
 
 class Indicator(NameMixin, DescriptionMixin):
     """
-    Medical Indicator
-    Медицинский показатель
+    Indicator
+    Показатель
     """
 
     type_indicator = models.PositiveIntegerField(
-        verbose_name=_("Type Medical Indicator"),
-        choices=TypeIndiactor.choices,
+        verbose_name=_("Type Indicator"),
+        choices=EnumTypesIndiactor.choices,
     )
     unit = models.ForeignKey(
         "examination_templates.Unit",
@@ -25,19 +22,19 @@ class Indicator(NameMixin, DescriptionMixin):
         blank=True,
     )
 
-    @property
-    def schema(self):
-        schema = self.get_pydantic_schema()
-        return schema
+    # @property
+    # def schema(self):
+    #     schema = self.get_pydantic_schema()
+    #     return schema
 
-    def get_pydantic_schema(self):
-        if self.type_indicator in DICT_OF_INDIACTOR_SCHEMES:
-            scheme = DICT_OF_INDIACTOR_SCHEMES[self.type_indicator][
-                "schema"
-            ].schema_json()
-        else:
-            raise Exception("Unable to find schema!")
-        return scheme
+    # def get_pydantic_schema(self):
+    #     scheme = {}
+    #     if type_indicator in INDIACTOR_SCHEMES:
+    #         scheme = INDIACTOR_SCHEMES[type_indicator]["schema"].schema()
+    #         # print(scheme)
+    #     else:
+    #         raise Exception("Unable to find schema!")
+    #     return scheme
 
     class Meta:
         verbose_name = _("Medical Indicator")
