@@ -1,8 +1,8 @@
-from .unit import Unit
-from .indicator import Indicator
-from .group_indicators import GroupIndicators
-from .examination_template import ExaminationTemplate
 from .enum_types_indiactor import EnumTypesIndiactor
+from .examination_template import ExaminationTemplate
+from .group_indicators import GroupIndicators
+from .indicator import Indicator
+from .unit import Unit
 
 __all__ = [
     "Unit",

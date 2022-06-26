@@ -26,5 +26,5 @@ class TestTemplate(NameMixin, DateCreatedMixin, DescriptionMixin):
 
 
     class Meta:
-        verbose_name = _("Тест")
-        verbose_name_plural = _("Тесты")
+        verbose_name = _("Шаблон тест")
+        verbose_name_plural = _("Шаблоны тестов")

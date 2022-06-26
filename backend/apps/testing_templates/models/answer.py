@@ -3,6 +3,8 @@ from django.utils.translation import gettext as _
 
 from backend.apps.services.models import DateCreatedMixin
 
+from .question import Question
+
 
 class Answer(DateCreatedMixin):
     """
@@ -10,7 +12,7 @@ class Answer(DateCreatedMixin):
     """
 
     question = models.ForeignKey(
-        "testing_templates.Question",
+        to=Question,
         verbose_name=_("Тест"),
         on_delete=models.CASCADE,
         related_name="answers",

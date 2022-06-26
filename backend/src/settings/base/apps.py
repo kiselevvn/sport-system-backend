@@ -27,12 +27,12 @@ PROJECT_APPS = [
     # Шаблоны обследований
     "backend.apps.examination_templates",
     # Обследования
-    "backend.apps.examination",
+    "backend.apps.examination_results",
 
     # Шаблоны тестирования
     "backend.apps.testing_templates",
     # Тестирование
-    "backend.apps.testing",
+    "backend.apps.testing_results",
 
     # Рейтинг
     "backend.apps.rating",

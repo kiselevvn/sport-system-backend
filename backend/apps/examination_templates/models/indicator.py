@@ -1,7 +1,10 @@
 from django.db import models
 from django.utils.translation import gettext as _
-from backend.apps.services.models import NameMixin, DescriptionMixin
+
+from backend.apps.services.models import DescriptionMixin, NameMixin
+
 from .enum_types_indiactor import EnumTypesIndiactor
+from .unit import Unit
 
 
 class Indicator(NameMixin, DescriptionMixin):
@@ -15,7 +18,7 @@ class Indicator(NameMixin, DescriptionMixin):
         choices=EnumTypesIndiactor.choices,
     )
     unit = models.ForeignKey(
-        "examination_templates.Unit",
+        Unit,
         verbose_name=_("Unit"),
         on_delete=models.SET_NULL,
         null=True,

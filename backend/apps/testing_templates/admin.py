@@ -1,16 +1,19 @@
 from django.contrib import admin
-from .models import Test, Question, Answer, ResultTesting,QuestionTesting,AnswerTesting
-from django.utils.http import urlencode
 from django.urls import reverse
 from django.utils.html import format_html
+from django.utils.http import urlencode
+
 from backend.apps.services.admin_mixin.detail_link_mixin import DetailLinkMixin
+
+from .models import Answer, Question, TestTemplate
+
 
 class QuestionInline(admin.TabularInline):
     model = Question
 
 
-@admin.register(Test)
-class TestAdmin(admin.ModelAdmin):
+@admin.register(TestTemplate)
+class TestTemplateAdmin(admin.ModelAdmin):
     list_display = ("slug", "is_open", "is_published","questions_link","result_testing_link","date_created")
     inlines = [
         QuestionInline,
@@ -23,7 +26,7 @@ class TestAdmin(admin.ModelAdmin):
         url = (
             reverse("admin:testing_question_changelist")
             + "?"
-            + urlencode({"test__id__exact": f"{obj.id}"})
+            + urlencode({"test_template__id__exact": f"{obj.id}"})
         )
         return format_html('<a href="{}">Открыть {}</a>', url, count)
 
@@ -36,7 +39,7 @@ class TestAdmin(admin.ModelAdmin):
         url = (
             reverse("admin:testing_question_changelist")
             + "?"
-            + urlencode({"test__id__exact": f"{obj.id}"})
+            + urlencode({"test_template__id__exact": f"{obj.id}"})
         )
         return format_html('<a href="{}">Открыть {}</a>', url, count)
 
@@ -74,8 +77,3 @@ class AnswerAdmin(admin.ModelAdmin):
     list_filter = ("question", )
     list_display = ("text", "number")
 
-
-@admin.register(ResultTesting)
-class ResultTestingAdmin(admin.ModelAdmin,DetailLinkMixin):
-    list_filter = ("test", )
-    list_display = ("test", "user","result_score","date_created")

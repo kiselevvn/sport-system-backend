@@ -1,8 +1,9 @@
 from django.utils.translation import gettext as _
+
 from backend.apps.services.models import (
+    DescriptionMixin,
     NameMixin,
     ShortNameMixin,
-    DescriptionMixin,
 )
 
 
@@ -13,5 +14,5 @@ class Unit(NameMixin, ShortNameMixin, DescriptionMixin):
     """
 
     class Meta:
-        verbose_name = _("Unit")
-        verbose_name_plural = _("Unit's")
+        verbose_name = _("Единица измерения")
+        verbose_name_plural = _("Единицы измерения")

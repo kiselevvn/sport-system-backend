@@ -10,6 +10,7 @@ class ChildGroup(DateCreatedMixin, OrderMixin):
     """
 
     сhar_code = models.CharField(_("Символьный код"), max_length=6, blank=True, null=True)
+    users = models.ManyToManyField("users.User",)
 
     @property
     def name(self):

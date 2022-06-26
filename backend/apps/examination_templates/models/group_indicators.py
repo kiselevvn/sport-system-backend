@@ -8,6 +8,8 @@ from backend.apps.services.models import (
     ShortNameMixin,
 )
 
+from .indicator import Indicator
+
 
 class GroupIndicators(
     NameMixin,
@@ -19,8 +21,8 @@ class GroupIndicators(
     Группа медецинских показателей
     """
 
-    indicators = models.ManyToManyField("examination_templates.Indicator")
+    indicators = models.ManyToManyField(Indicator, verbose_name=_("Показатели"))
 
     class Meta:
-        verbose_name = _("Group of medical indicators")
-        verbose_name_plural = _("Group of medical indicators")
+        verbose_name = _("Группа медецинских показателей")
+        verbose_name_plural = _("Группы медецинских показателей")

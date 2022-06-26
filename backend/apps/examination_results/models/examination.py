@@ -22,7 +22,7 @@ class Examination(NameMixin, DescriptionMixin, DateCreatedMixin):
     date = models.DateField(_("Дата обследования"), blank=True, null=True)
 
     event = models.ForeignKey(
-        "examination.Event",
+        "examination_results.Event",
         verbose_name=_("Событие"),
         on_delete=models.SET_NULL,
         blank=True,

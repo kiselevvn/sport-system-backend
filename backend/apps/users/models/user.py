@@ -37,7 +37,7 @@ class User(AbstractBaseUser, PermissionsMixin):
     is_examination_templates_manager = models.BooleanField(
         _("User is examination templates manager"), default=False
     )
-    education_group = models.ForeignKey("app.Model", verbose_name=_(""), on_delete=models.CASCADE)
+
     email = models.EmailField(_("Адрес электронной почты"), blank=True)
     is_staff = models.BooleanField(
         _("staff status"),
@@ -46,6 +46,7 @@ class User(AbstractBaseUser, PermissionsMixin):
             "Имеет допуск к django-admin"
         ),
     )
+    birthday = models.DateField(_("Дата рождения"),blank=True, null=True)
     is_active = models.BooleanField(
         _("active"),
         default=True,

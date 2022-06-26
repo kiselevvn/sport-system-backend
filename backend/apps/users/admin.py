@@ -68,5 +68,7 @@ class UserAdmin(BaseUserAdmin):
         queryset = super().get_queryset(request)
         return queryset.filter(is_employee=True)
 
+
 admin.site.unregister(BaseGroup)
+
 admin.site.register(ProxyGroup, GroupAdmin)

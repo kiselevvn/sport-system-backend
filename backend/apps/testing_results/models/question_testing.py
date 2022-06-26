@@ -10,7 +10,7 @@ class QuestionTesting(DateCreatedMixin):
     """
 
     result_testing = models.ForeignKey(
-        "testing.ResultTesting",
+        to="ResultTesting",
         verbose_name=_("Результат тестирования"),
         on_delete=models.CASCADE,
         related_name="questions",

@@ -3,6 +3,8 @@ from django.utils.translation import gettext as _
 
 from backend.apps.services.models import DescriptionMixin, NameMixin
 
+from .group_indicators import GroupIndicators
+
 
 class ExaminationTemplate(NameMixin, DescriptionMixin):
     """
@@ -11,12 +13,12 @@ class ExaminationTemplate(NameMixin, DescriptionMixin):
     """
 
     groups_indicators = models.ManyToManyField(
-        "examination_templates.GroupIndicators"
+        GroupIndicators, verbose_name=_("Группа показателей")
     )
 
     scheme = models.JSONField(_("Схема"), blank=True, null=True)
 
-    is_publish = models.BooleanField(verbose_name=_("Схема"),default=False,)
+    is_publish = models.BooleanField(verbose_name=_("Является опубликованной"), default=False,)
 
     class Meta:
         verbose_name = _("Шаблон медицинского обследования")

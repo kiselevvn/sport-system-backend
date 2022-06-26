@@ -1,9 +1,10 @@
 from django.db import models
 from django.utils.translation import gettext as _
+
 from backend.apps.services.models import (
-    NameMixin,
-    DescriptionMixin,
     DateCreatedMixin,
+    DescriptionMixin,
+    NameMixin,
 )
 
 
@@ -14,7 +15,7 @@ class GroupExaminations(NameMixin, DescriptionMixin, DateCreatedMixin):
     """
 
     examinations = models.ManyToManyField(
-        "examination.Examination",
+        "examination_results.Examination",
         verbose_name=_("Обследования"),
     )
 

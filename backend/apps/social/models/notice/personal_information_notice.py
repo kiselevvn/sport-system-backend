@@ -1,6 +1,7 @@
 from django.db import models
 from django.utils.translation import gettext as _
-from .abstract_information_notice import InformationNotice
+
+from .information_notice import InformationNotice
 
 
 class PersonalInformationNotice(InformationNotice):

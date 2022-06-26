@@ -15,5 +15,18 @@ urlpatterns = [
                 ),
             ]
         ),
+    ),
+    path(
+        "employee/",
+        include(
+            [
+                path("create/", views.EmployeeCreateAPIView.as_view()),
+                path("page/", views.EmployeePageAPIView.as_view()),
+                path(
+                    "detail/<int:pk>/",
+                    views.EmployeeRetrieveAPIView.as_view(),
+                ),
+            ]
+        ),
     )
 ]

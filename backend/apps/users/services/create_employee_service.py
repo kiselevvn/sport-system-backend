@@ -2,7 +2,7 @@ from .create_user_service import create_user_service
 
 
 def create_employee_service(commit=True, **kwargs):
-    """Функция создания спортсмена
+    """Функция создания сотрудника
 
     last_name - имя
 

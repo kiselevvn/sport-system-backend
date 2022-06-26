@@ -1,17 +1,11 @@
-from .test import Test
-from .question import Question
 from .answer import Answer
 from .media_object import MediaObject
-from .result_testing import ResultTesting
-from .question_testing import QuestionTesting
-from .answer_testing import AnswerTesting
+from .question import Question
+from .test_template import TestTemplate
 
 __all__ = [
-    "Test",
+    "TestTemplate",
     "Question",
     "Answer",
     "MediaObject",
-    "ResultTesting",
-    "QuestionTesting",
-    "AnswerTesting",
 ]

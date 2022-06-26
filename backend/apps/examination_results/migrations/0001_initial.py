@@ -13,59 +13,60 @@ class Migration(migrations.Migration):
 
     operations = [
         migrations.CreateModel(
-            name='Unit',
+            name='Event',
             fields=[
                 ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
                 ('name', models.CharField(blank=True, max_length=125, null=True, verbose_name='Наименование')),
-                ('short_name', models.CharField(blank=True, max_length=125, null=True, verbose_name='Краткое наименование')),
                 ('description', models.TextField(blank=True, null=True, verbose_name='Описание')),
+                ('date_created', models.DateTimeField(auto_now_add=True, verbose_name='Дата создания')),
+                ('date_start', models.DateTimeField(blank=True, null=True, verbose_name='Дата начала события')),
+                ('date_end', models.DateTimeField(blank=True, null=True, verbose_name='Дата начала события')),
             ],
             options={
-                'verbose_name': 'Единица измерения',
-                'verbose_name_plural': 'Единицы измерения',
+                'verbose_name': 'Событие',
+                'verbose_name_plural': 'События',
             },
         ),
         migrations.CreateModel(
-            name='Indicator',
+            name='Examination',
             fields=[
                 ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
                 ('name', models.CharField(blank=True, max_length=125, null=True, verbose_name='Наименование')),
                 ('description', models.TextField(blank=True, null=True, verbose_name='Описание')),
-                ('type_indicator', models.PositiveIntegerField(choices=[(1, 'Целое'), (2, 'Float')], verbose_name='Type Indicator')),
-                ('unit', models.ForeignKey(blank=True, null=True, on_delete=django.db.models.deletion.SET_NULL, to='examination_templates.unit', verbose_name='Unit')),
+                ('date_created', models.DateTimeField(auto_now_add=True, verbose_name='Дата создания')),
+                ('date', models.DateField(blank=True, null=True, verbose_name='Дата обследования')),
             ],
             options={
-                'verbose_name': 'Medical Indicator',
-                'verbose_name_plural': "Medical Indicator's",
+                'verbose_name': 'Обследование',
+                'verbose_name_plural': 'Обследования',
             },
         ),
         migrations.CreateModel(
-            name='GroupIndicators',
+            name='GroupExaminations',
             fields=[
                 ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
                 ('name', models.CharField(blank=True, max_length=125, null=True, verbose_name='Наименование')),
-                ('short_name', models.CharField(blank=True, max_length=125, null=True, verbose_name='Краткое наименование')),
                 ('description', models.TextField(blank=True, null=True, verbose_name='Описание')),
-                ('indicators', models.ManyToManyField(to='examination_templates.Indicator', verbose_name='Показатели')),
+                ('date_created', models.DateTimeField(auto_now_add=True, verbose_name='Дата создания')),
             ],
             options={
-                'verbose_name': 'Группа медецинских показателей',
-                'verbose_name_plural': 'Группы медецинских показателей',
+                'verbose_name': 'Группа обследований',
+                'verbose_name_plural': 'Группы обследований',
             },
         ),
         migrations.CreateModel(
-            name='ExaminationTemplate',
+            name='ResultExaminations',
             fields=[
                 ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
                 ('name', models.CharField(blank=True, max_length=125, null=True, verbose_name='Наименование')),
                 ('description', models.TextField(blank=True, null=True, verbose_name='Описание')),
-                ('scheme', models.JSONField(blank=True, null=True, verbose_name='Схема')),
-                ('is_publish', models.BooleanField(default=False, verbose_name='Является опубликованной')),
-                ('groups_indicators', models.ManyToManyField(to='examination_templates.GroupIndicators', verbose_name='Группа показателей')),
+                ('date_created', models.DateTimeField(auto_now_add=True, verbose_name='Дата создания')),
+                ('result', models.JSONField(blank=True, null=True, verbose_name='результат обследования')),
+                ('examination', models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='examination_results.examination', verbose_name='Обследование')),
             ],
             options={
-                'verbose_name': 'Шаблон медицинского обследования',
-                'verbose_name_plural': 'Шаблоны медицинских обследований',
+                'verbose_name': 'Группа обследований',
+                'verbose_name_plural': 'Группы обследований',
             },
         ),
     ]

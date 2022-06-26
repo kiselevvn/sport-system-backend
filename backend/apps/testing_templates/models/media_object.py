@@ -3,6 +3,8 @@ from django.utils.translation import gettext as _
 
 from backend.apps.services.models import NameMixin
 
+from .question import Question
+
 
 class MediaObject(NameMixin):
     """
@@ -10,7 +12,7 @@ class MediaObject(NameMixin):
     """
 
     question = models.ForeignKey(
-        "testing_templates.Question",
+        to=Question,
         verbose_name=_("Тест"),
         on_delete=models.CASCADE,
         related_name="media_objects",
