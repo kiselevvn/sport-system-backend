@@ -1,8 +1,5 @@
 """Paths settings"""
-
 import os
-
-from src.settings.base import env
 
 # Base
 CONFIG_DIR = os.path.dirname(

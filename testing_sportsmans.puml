@@ -1,0 +1,100 @@
+@startuml
+class "testing_sportsmans.Answer <Тестирование спортсменов>" as testing_sportsmans.Answer #d6eef4 {
+    Вариант ответа
+    --
+    - id (AutoField)
+    + date_created (DateTimeField)
+    ~ question (ForeignKey)
+    + text (TextField)
+    + number (PositiveIntegerField)
+    + is_win (BooleanField)
+    + score (PositiveIntegerField)
+    --
+}
+testing_sportsmans.Answer *-- testing_sportsmans.Question
+
+
+class "testing_sportsmans.MediaObject <Тестирование спортсменов>" as testing_sportsmans.MediaObject #d6eef4 {
+    Медиа объект
+    --
+    - id (AutoField)
+    + name (CharField)
+    ~ question (ForeignKey)
+    + number (PositiveIntegerField)
+    + url (URLField)
+    + picture (ImageField)
+    + html (TextField)
+    --
+}
+testing_sportsmans.MediaObject *-- testing_sportsmans.Question
+
+
+class "testing_sportsmans.Question <Тестирование спортсменов>" as testing_sportsmans.Question #d6eef4 {
+    Вопрос теста
+    --
+    - id (AutoField)
+    + date_created (DateTimeField)
+    ~ test_template (ForeignKey)
+    + text (TextField)
+    + number (PositiveIntegerField)
+    + win_score (PositiveIntegerField)
+    + allow_incorrect_answers (BooleanField)
+    --
+}
+testing_sportsmans.Question *-- testing_sportsmans.TestTemplate
+
+
+class "testing_sportsmans.ResultAnswer <Тестирование спортсменов>" as testing_sportsmans.ResultAnswer #d6eef4 {
+    Ответы на вопрос
+    --
+    - id (AutoField)
+    + date_created (DateTimeField)
+    ~ result_question (ForeignKey)
+    # answers (ManyToManyField)
+    --
+}
+testing_sportsmans.ResultAnswer *-- testing_sportsmans.ResultQuestion
+testing_sportsmans.ResultAnswer *--* testing_sportsmans.Answer
+
+
+class "testing_sportsmans.ResultQuestion <Тестирование спортсменов>" as testing_sportsmans.ResultQuestion #d6eef4 {
+    Ответы на вопрос
+    --
+    - id (AutoField)
+    + date_created (DateTimeField)
+    ~ result_test (ForeignKey)
+    ~ question (ForeignKey)
+    --
+}
+testing_sportsmans.ResultQuestion *-- testing_sportsmans.ResultTest
+testing_sportsmans.ResultQuestion *-- testing_sportsmans.Question
+
+
+class "testing_sportsmans.ResultTest <Тестирование спортсменов>" as testing_sportsmans.ResultTest #d6eef4 {
+    Результат тестирования
+    --
+    - id (AutoField)
+    + date_created (DateTimeField)
+    ~ test (ForeignKey)
+    ~ user (ForeignKey)
+    + result_score (PositiveIntegerField)
+    --
+}
+testing_sportsmans.ResultTest *-- testing_sportsmans.TestTemplate
+
+
+class "testing_sportsmans.TestTemplate <Тестирование спортсменов>" as testing_sportsmans.TestTemplate #d6eef4 {
+    Шаблон тестирования
+    --
+    - id (AutoField)
+    + name (CharField)
+    + description (TextField)
+    + date_created (DateTimeField)
+    + slug (SlugField)
+    + is_open (BooleanField)
+    + is_published (BooleanField)
+    --
+}
+
+
+@enduml

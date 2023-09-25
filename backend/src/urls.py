@@ -50,9 +50,13 @@ urlpatterns = [
                     include("apps.users.api.v1.urls"),
                 ),
                 path(
-                    "examination-templates/",
-                    include("apps.examination_templates.api.v1.urls"),
+                    "testing_sportsmans/",
+                    include("apps.testing_sportsmans.api.urls"),
                 ),
+                # path(
+                #     "examination-templates/",
+                #     include("apps.examination_templates.api.v1.urls"),
+                # ),
             ]
         ),
     ),
@@ -67,6 +71,7 @@ urlpatterns = i18n_patterns(
 
 if settings.DEBUG:
     import debug_toolbar
+
     # pylint: disable=ungrouped-imports
     from django.conf.urls.static import static
 

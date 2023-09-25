@@ -6,7 +6,7 @@ from backend.apps.services.models import DateCreatedMixin, OrderMixin
 
 class ChildGroup(DateCreatedMixin, OrderMixin):
     """
-    Подгруппа
+    Образоватеьная Подгруппа
     """
 
     сhar_code = models.CharField(_("Символьный код"), max_length=6, blank=True, null=True)

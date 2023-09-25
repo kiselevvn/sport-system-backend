@@ -2,7 +2,9 @@ from django.db import models
 
 
 class SportsmanBaseManager(models.Manager):
-    """"""
+    """
+    Менеджер Спортсменов
+    """
 
     def get_queryset(self):
         query_set = super().get_queryset()
@@ -10,7 +12,9 @@ class SportsmanBaseManager(models.Manager):
 
 
 class EmployeeBaseManager(models.Manager):
-    """"""
+    """
+    Менеджер ссотрудников
+    """
 
     def get_queryset(self):
         query_set = super().get_queryset()

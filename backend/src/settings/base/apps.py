@@ -11,6 +11,7 @@ DEFAULT_APPS = [
     "django_filters",
     "djoser",
     "drf_yasg",
+    "puml_generator",
 ]
 
 PROJECT_APPS = [
@@ -20,21 +21,19 @@ PROJECT_APPS = [
     "backend.apps.services",
     # Пользователи
     "backend.apps.users",
-
-    #
+    # Социальный модуль
     "backend.apps.social",
-
     # Шаблоны обследований
-    "backend.apps.examination_templates",
-    # Обследования
-    "backend.apps.examination_results",
-
-    # Шаблоны тестирования
-    "backend.apps.testing_templates",
-    # Тестирование
-    "backend.apps.testing_results",
-
-    # Рейтинг
+    # "backend.apps.examination_templates",
+    # # Обследования
+    # "backend.apps.examination_results",
+    "backend.apps.examination_sportsmans",
+    # # Шаблоны тестирования
+    # "backend.apps.testing_templates",
+    # # Тестирование
+    # "backend.apps.testing_results",
+    "backend.apps.testing_sportsmans",
+    # Рейтинговые списки
     "backend.apps.rating",
 ]
 

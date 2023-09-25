@@ -8,6 +8,10 @@ from django.utils.translation import gettext_lazy as _
 
 
 class User(AbstractBaseUser, PermissionsMixin):
+    """
+    Пользователь системы
+    """
+
     username_validator = UnicodeUsernameValidator()
 
     username = models.CharField(
