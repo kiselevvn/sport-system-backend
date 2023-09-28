@@ -50,8 +50,8 @@ urlpatterns = [
                     include("apps.users.api.v1.urls"),
                 ),
                 path(
-                    "testing_sportsmans/",
-                    include("apps.testing_sportsmans.api.urls"),
+                    "testing/",
+                    include("apps.testing.api.urls"),
                 ),
                 # path(
                 #     "examination-templates/",

@@ -22,19 +22,15 @@ PROJECT_APPS = [
     # Пользователи
     "backend.apps.users",
     # Социальный модуль
-    "backend.apps.social",
-    # Шаблоны обследований
-    # "backend.apps.examination_templates",
-    # # Обследования
-    # "backend.apps.examination_results",
-    "backend.apps.examination_sportsmans",
-    # # Шаблоны тестирования
-    # "backend.apps.testing_templates",
-    # # Тестирование
-    # "backend.apps.testing_results",
-    "backend.apps.testing_sportsmans",
+    # "backend.apps.social",
+    # Спортивные испытания
+    "backend.apps.competitions",
+    # Обследования
+    "backend.apps.examination",
+    # Тестирование
+    "backend.apps.testing",
     # Рейтинговые списки
-    "backend.apps.rating",
+    # "backend.apps.rating",
 ]
 
 DEVELOPER_APPS = [
