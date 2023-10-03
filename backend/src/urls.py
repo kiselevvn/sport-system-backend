@@ -45,18 +45,18 @@ urlpatterns = [
         "api/v1/",
         include(
             [
-                path(
-                    "users/",
-                    include("apps.users.api.v1.urls"),
-                ),
-                path(
-                    "testing/",
-                    include("apps.testing.api.urls"),
-                ),
                 # path(
-                #     "examination-templates/",
-                #     include("apps.examination_templates.api.v1.urls"),
+                #     "users/",
+                #     include("apps.users.api.v1.urls"),
                 # ),
+                # path(
+                #     "testing/",
+                #     include("apps.testing.api.urls"),
+                # ),
+                path(
+                    "examinations/",
+                    include("apps.examination.api.urls"),
+                ),
             ]
         ),
     ),

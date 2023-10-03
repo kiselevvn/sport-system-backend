@@ -1,5 +1,7 @@
 import djclick as click
 
+from backend.apps.examination.selectors import ExaminationSelectors
+
 # from backend.apps.examination_templates.models import ExaminationTemplate
 # from backend.apps.examination_templates.selectors import (
 #     examination_template_selector,
@@ -13,7 +15,8 @@ import djclick as click
 
 @click.command()
 def command():
-    pass
+    print(ExaminationSelectors.get_all())
+
     # obj = ExaminationTemplate.objects.first()
     # examination_template_instace = examination_template_selector(obj.pk)
     # result = generate_scheme_template(examination_template_instace)

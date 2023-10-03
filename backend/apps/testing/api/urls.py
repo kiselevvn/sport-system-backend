@@ -1,7 +1,7 @@
 # from django.urls import include, path
 from rest_framework.routers import DefaultRouter
 
-from .v1 import views
+from .v1 import TestTemplateViewSet
 
 app_name = "testing"
 
@@ -9,7 +9,7 @@ router = DefaultRouter()
 
 router.register(
     "test-template",
-    views.TestTemplateViewSet,
+    TestTemplateViewSet,
     basename="test-template",
 )
 # print(router.urls)

@@ -1,7 +1,7 @@
-from .examination_template_base_serializer import (
-    ExaminationTemplateBaseSerializer,
-)
+from .examination_serializer import ExaminationSerializer
+from .examination_template_serializer import ExaminationTemplateSerializer
 
 __all__ = [
-    "ExaminationTemplateBaseSerializer",
+    "ExaminationTemplateSerializer",
+    "ExaminationSerializer",
 ]

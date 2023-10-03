@@ -18,6 +18,7 @@ class ResultExaminations(NameMixin, DescriptionMixin, DateCreatedMixin):
         "examination.Examination",
         verbose_name=_("Обследование"),
         on_delete=models.CASCADE,
+        related_name="results",
     )
     sportsman = models.ForeignKey(
         "users.User", verbose_name=_("Спортсмен"), on_delete=models.CASCADE
