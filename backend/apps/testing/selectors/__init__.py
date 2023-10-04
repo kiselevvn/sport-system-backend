@@ -1,3 +1,3 @@
-from .test_template_selector import TestTemplateSelector
+from .test_template_selectors import TestTemplateSelectors
 
-__all__ = ["TestTemplateSelector"]
+__all__ = ["TestTemplateSelectors"]

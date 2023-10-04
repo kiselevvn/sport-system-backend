@@ -1,4 +1,4 @@
-from rest_framework.serializers import JSONField, ModelSerializer
+from rest_framework.serializers import ModelSerializer
 
 from backend.apps.examination.models import (
     ExaminationTemplate,

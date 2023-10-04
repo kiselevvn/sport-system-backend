@@ -49,10 +49,10 @@ urlpatterns = [
                 #     "users/",
                 #     include("apps.users.api.v1.urls"),
                 # ),
-                # path(
-                #     "testing/",
-                #     include("apps.testing.api.urls"),
-                # ),
+                path(
+                    "testing/",
+                    include("apps.testing.api.urls"),
+                ),
                 path(
                     "examinations/",
                     include("apps.examination.api.urls"),
