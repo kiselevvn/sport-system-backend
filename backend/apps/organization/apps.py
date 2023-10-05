@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class EducationsGroupsConfig(AppConfig):
-    name = 'backend.apps.educations_groups'
+class OrganizationConfig(AppConfig):
+    name = "backend.apps.organization"
     verbose_name = "Образовательные группы"
