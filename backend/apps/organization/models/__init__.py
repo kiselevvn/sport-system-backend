@@ -1,4 +1,7 @@
 from .child_group import ChildGroup
-from .group import Group
+from .education_group import EducationGroup
 
-__all__ = ["Group", "ChildGroup",]
+__all__ = [
+    "EducationGroup",
+    "ChildGroup",
+]

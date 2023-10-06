@@ -1,12 +1,10 @@
 from django.db import models
 from django.utils.translation import gettext as _
-from backend.apps.services.models import (
-    DateCreatedMixin,
-    DescriptionMixin,
-)
+
+from backend.apps.services.models import DateCreatedMixin, DescriptionMixin
 
 
-class Group(DateCreatedMixin, DescriptionMixin):
+class EducationGroup(DateCreatedMixin, DescriptionMixin):
     """
     Группа
     """

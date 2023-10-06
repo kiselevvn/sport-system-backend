@@ -5,5 +5,5 @@ from django.utils.translation import gettext_lazy as _
 class ProxyGroup(Group):
     class Meta:
         proxy = True
-        verbose_name = _("staff group")
-        verbose_name_plural = _("staff groups")
+        verbose_name = _("Группа")
+        verbose_name_plural = _("Группы")
