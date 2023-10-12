@@ -1,0 +1,1106 @@
+[
+  {
+    "model": "testing.answer",
+    "pk": 1,
+    "fields": {
+      "date_created": "2023-10-04T13:47:26.854Z",
+      "question": 1,
+      "text": "Да",
+      "number": 1,
+      "is_win": true,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 2,
+    "fields": {
+      "date_created": "2023-10-04T13:47:26.858Z",
+      "question": 1,
+      "text": "Нет",
+      "number": 1,
+      "is_win": false,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 3,
+    "fields": {
+      "date_created": "2023-10-04T13:47:26.860Z",
+      "question": 2,
+      "text": "Да",
+      "number": 1,
+      "is_win": false,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 4,
+    "fields": {
+      "date_created": "2023-10-04T13:47:26.863Z",
+      "question": 2,
+      "text": "Нет",
+      "number": 1,
+      "is_win": true,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 5,
+    "fields": {
+      "date_created": "2023-10-04T13:47:26.865Z",
+      "question": 3,
+      "text": "Да",
+      "number": 1,
+      "is_win": true,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 6,
+    "fields": {
+      "date_created": "2023-10-04T13:47:26.867Z",
+      "question": 3,
+      "text": "Нет",
+      "number": 1,
+      "is_win": false,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 7,
+    "fields": {
+      "date_created": "2023-10-04T13:47:26.868Z",
+      "question": 4,
+      "text": "Да",
+      "number": 1,
+      "is_win": true,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 8,
+    "fields": {
+      "date_created": "2023-10-04T13:47:26.870Z",
+      "question": 4,
+      "text": "Нет",
+      "number": 1,
+      "is_win": false,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 9,
+    "fields": {
+      "date_created": "2023-10-04T13:47:26.871Z",
+      "question": 5,
+      "text": "Да",
+      "number": 1,
+      "is_win": false,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 10,
+    "fields": {
+      "date_created": "2023-10-04T13:47:26.873Z",
+      "question": 5,
+      "text": "Нет",
+      "number": 1,
+      "is_win": true,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 11,
+    "fields": {
+      "date_created": "2023-10-04T13:47:26.874Z",
+      "question": 6,
+      "text": "Да",
+      "number": 1,
+      "is_win": false,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 12,
+    "fields": {
+      "date_created": "2023-10-04T13:47:26.875Z",
+      "question": 6,
+      "text": "Нет",
+      "number": 1,
+      "is_win": true,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 13,
+    "fields": {
+      "date_created": "2023-10-04T13:47:26.878Z",
+      "question": 7,
+      "text": "Да",
+      "number": 1,
+      "is_win": true,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 14,
+    "fields": {
+      "date_created": "2023-10-04T13:47:26.881Z",
+      "question": 7,
+      "text": "Нет",
+      "number": 1,
+      "is_win": false,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 15,
+    "fields": {
+      "date_created": "2023-10-04T13:47:26.882Z",
+      "question": 8,
+      "text": "Да",
+      "number": 1,
+      "is_win": true,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 16,
+    "fields": {
+      "date_created": "2023-10-04T13:47:26.884Z",
+      "question": 8,
+      "text": "Нет",
+      "number": 1,
+      "is_win": false,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 17,
+    "fields": {
+      "date_created": "2023-10-04T13:47:26.885Z",
+      "question": 9,
+      "text": "Да",
+      "number": 1,
+      "is_win": false,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 18,
+    "fields": {
+      "date_created": "2023-10-04T13:47:26.888Z",
+      "question": 9,
+      "text": "Нет",
+      "number": 1,
+      "is_win": true,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 19,
+    "fields": {
+      "date_created": "2023-10-04T13:47:26.889Z",
+      "question": 10,
+      "text": "Да",
+      "number": 1,
+      "is_win": true,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 20,
+    "fields": {
+      "date_created": "2023-10-04T13:47:26.891Z",
+      "question": 10,
+      "text": "Нет",
+      "number": 1,
+      "is_win": false,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 21,
+    "fields": {
+      "date_created": "2023-10-04T13:47:26.892Z",
+      "question": 11,
+      "text": "Да",
+      "number": 1,
+      "is_win": false,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 22,
+    "fields": {
+      "date_created": "2023-10-04T13:47:26.894Z",
+      "question": 11,
+      "text": "Нет",
+      "number": 1,
+      "is_win": true,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 23,
+    "fields": {
+      "date_created": "2023-10-04T13:47:26.896Z",
+      "question": 12,
+      "text": "Да",
+      "number": 1,
+      "is_win": true,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 24,
+    "fields": {
+      "date_created": "2023-10-04T13:47:26.898Z",
+      "question": 12,
+      "text": "Нет",
+      "number": 1,
+      "is_win": false,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 25,
+    "fields": {
+      "date_created": "2023-10-04T13:47:26.900Z",
+      "question": 13,
+      "text": "Да",
+      "number": 1,
+      "is_win": false,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 26,
+    "fields": {
+      "date_created": "2023-10-04T13:47:26.901Z",
+      "question": 13,
+      "text": "Нет",
+      "number": 1,
+      "is_win": true,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 27,
+    "fields": {
+      "date_created": "2023-10-04T13:47:26.904Z",
+      "question": 14,
+      "text": "Да",
+      "number": 1,
+      "is_win": true,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 28,
+    "fields": {
+      "date_created": "2023-10-04T13:47:26.906Z",
+      "question": 14,
+      "text": "Нет",
+      "number": 1,
+      "is_win": false,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 29,
+    "fields": {
+      "date_created": "2023-10-04T13:47:26.908Z",
+      "question": 15,
+      "text": "Да",
+      "number": 1,
+      "is_win": true,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 30,
+    "fields": {
+      "date_created": "2023-10-04T13:47:26.909Z",
+      "question": 15,
+      "text": "Нет",
+      "number": 1,
+      "is_win": false,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 31,
+    "fields": {
+      "date_created": "2023-10-04T13:47:26.912Z",
+      "question": 16,
+      "text": "Да",
+      "number": 1,
+      "is_win": true,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 32,
+    "fields": {
+      "date_created": "2023-10-04T13:47:26.913Z",
+      "question": 16,
+      "text": "Нет",
+      "number": 1,
+      "is_win": false,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 33,
+    "fields": {
+      "date_created": "2023-10-04T13:47:26.915Z",
+      "question": 17,
+      "text": "Да",
+      "number": 1,
+      "is_win": false,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 34,
+    "fields": {
+      "date_created": "2023-10-04T13:47:26.917Z",
+      "question": 17,
+      "text": "Нет",
+      "number": 1,
+      "is_win": true,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 35,
+    "fields": {
+      "date_created": "2023-10-04T13:47:26.919Z",
+      "question": 18,
+      "text": "Да",
+      "number": 1,
+      "is_win": true,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 36,
+    "fields": {
+      "date_created": "2023-10-04T13:47:26.920Z",
+      "question": 18,
+      "text": "Нет",
+      "number": 1,
+      "is_win": false,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 37,
+    "fields": {
+      "date_created": "2023-10-04T13:55:53.029Z",
+      "question": 19,
+      "text": "Да",
+      "number": 1,
+      "is_win": true,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 38,
+    "fields": {
+      "date_created": "2023-10-04T13:55:53.032Z",
+      "question": 19,
+      "text": "Нет",
+      "number": 1,
+      "is_win": false,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 39,
+    "fields": {
+      "date_created": "2023-10-04T13:55:53.034Z",
+      "question": 20,
+      "text": "Да",
+      "number": 1,
+      "is_win": true,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 40,
+    "fields": {
+      "date_created": "2023-10-04T13:55:53.036Z",
+      "question": 20,
+      "text": "Нет",
+      "number": 1,
+      "is_win": false,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 41,
+    "fields": {
+      "date_created": "2023-10-04T13:55:53.038Z",
+      "question": 21,
+      "text": "Да",
+      "number": 1,
+      "is_win": false,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 42,
+    "fields": {
+      "date_created": "2023-10-04T13:55:53.039Z",
+      "question": 21,
+      "text": "Нет",
+      "number": 1,
+      "is_win": true,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 43,
+    "fields": {
+      "date_created": "2023-10-04T13:55:53.041Z",
+      "question": 22,
+      "text": "Да",
+      "number": 1,
+      "is_win": true,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 44,
+    "fields": {
+      "date_created": "2023-10-04T13:55:53.043Z",
+      "question": 22,
+      "text": "Нет",
+      "number": 1,
+      "is_win": false,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 45,
+    "fields": {
+      "date_created": "2023-10-04T13:55:53.045Z",
+      "question": 23,
+      "text": "Да",
+      "number": 1,
+      "is_win": false,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 46,
+    "fields": {
+      "date_created": "2023-10-04T13:55:53.047Z",
+      "question": 23,
+      "text": "Нет",
+      "number": 1,
+      "is_win": true,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 47,
+    "fields": {
+      "date_created": "2023-10-04T13:55:53.049Z",
+      "question": 24,
+      "text": "Да",
+      "number": 1,
+      "is_win": false,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 48,
+    "fields": {
+      "date_created": "2023-10-04T13:55:53.051Z",
+      "question": 24,
+      "text"(0.000) DECLARE "_django_curs_17456_sync_5" NO SCROLL CURSOR WITH HOLD FOR SELECT "testing_mediaobject"."id",
+      "testing_mediaobject"."name",
+      "testing_mediaobject"."question_id",
+      "testing_mediaobject"."number",
+      "testing_mediaobject"."url",
+      "testing_mediaobject"."picture",
+      "testing_mediaobject"."html" FROM "testing_mediaobject" ORDER BY "testing_mediaobject"."id" ASC; args=()
+(0.000) DECLARE "_django_curs_17456_sync_6" NO SCROLL CURSOR WITH HOLD FOR SELECT "testing_question"."id",
+      "testing_question"."date_created",
+      "testing_question"."test_template_id",
+      "testing_question"."text",
+      "testing_question"."number",
+      "testing_question"."win_score",
+      "testing_question"."allow_incorrect_answers" FROM "testing_question" ORDER BY "testing_question"."id" ASC; args=()
+: "Нет",
+      "number": 1,
+      "is_win": true,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 49,
+    "fields": {
+      "date_created": "2023-10-04T13:55:53.053Z",
+      "question": 25,
+      "text": "Да",
+      "number": 1,
+      "is_win": false,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 50,
+    "fields": {
+      "date_created": "2023-10-04T13:55:53.054Z",
+      "question": 25,
+      "text": "Нет",
+      "number": 1,
+      "is_win": true,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 51,
+    "fields": {
+      "date_created": "2023-10-04T13:55:53.056Z",
+      "question": 26,
+      "text": "Да",
+      "number": 1,
+      "is_win": true,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 52,
+    "fields": {
+      "date_created": "2023-10-04T13:55:53.058Z",
+      "question": 26,
+      "text": "Нет",
+      "number": 1,
+      "is_win": false,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 53,
+    "fields": {
+      "date_created": "2023-10-04T13:55:53.060Z",
+      "question": 27,
+      "text": "Да",
+      "number": 1,
+      "is_win": true,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 54,
+    "fields": {
+      "date_created": "2023-10-04T13:55:53.062Z",
+      "question": 27,
+      "text": "Нет",
+      "number": 1,
+      "is_win": false,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 55,
+    "fields": {
+      "date_created": "2023-10-04T13:55:53.064Z",
+      "question": 28,
+      "text": "Да",
+      "number": 1,
+      "is_win": false,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 56,
+    "fields": {
+      "date_created": "2023-10-04T13:55:53.065Z",
+      "question": 28,
+      "text": "Нет",
+      "number": 1,
+      "is_win": true,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 57,
+    "fields": {
+      "date_created": "2023-10-04T13:55:53.068Z",
+      "question": 29,
+      "text": "Да",
+      "number": 1,
+      "is_win": false,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 58,
+    "fields": {
+      "date_created": "2023-10-04T13:55:53.069Z",
+      "question": 29,
+      "text": "Нет",
+      "number": 1,
+      "is_win": true,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 59,
+    "fields": {
+      "date_created": "2023-10-04T13:55:53.071Z",
+      "question": 30,
+      "text": "Да",
+      "number": 1,
+      "is_win": false,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 60,
+    "fields": {
+      "date_created": "2023-10-04T13:55:53.072Z",
+      "question": 30,
+      "text": "Нет",
+      "number": 1,
+      "is_win": true,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 61,
+    "fields": {
+      "date_created": "2023-10-04T13:55:53.074Z",
+      "question": 31,
+      "text": "Да",
+      "number": 1,
+      "is_win": true,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 62,
+    "fields": {
+      "date_created": "2023-10-04T13:55:53.075Z",
+      "question": 31,
+      "text": "Нет",
+      "number": 1,
+      "is_win": false,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 63,
+    "fields": {
+      "date_created": "2023-10-04T13:55:53.077Z",
+      "question": 32,
+      "text": "Да",
+      "number": 1,
+      "is_win": true,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 64,
+    "fields": {
+      "date_created": "2023-10-04T13:55:53.079Z",
+      "question": 32,
+      "text": "Нет",
+      "number": 1,
+      "is_win": false,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 65,
+    "fields": {
+      "date_created": "2023-10-04T13:55:53.081Z",
+      "question": 33,
+      "text": "Да",
+      "number": 1,
+      "is_win": false,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 66,
+    "fields": {
+      "date_created": "2023-10-04T13:55:53.082Z",
+      "question": 33,
+      "text": "Нет",
+      "number": 1,
+      "is_win": true,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 67,
+    "fields": {
+      "date_created": "2023-10-04T13:55:53.084Z",
+      "question": 34,
+      "text": "Да",
+      "number": 1,
+      "is_win": true,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 68,
+    "fields": {
+      "date_created": "2023-10-04T13:55:53.086Z",
+      "question": 34,
+      "text": "Нет",
+      "number": 1,
+      "is_win": false,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 69,
+    "fields": {
+      "date_created": "2023-10-04T13:55:53.087Z",
+      "question": 35,
+      "text": "Да",
+      "number": 1,
+      "is_win": true,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 70,
+    "fields": {
+      "date_created": "2023-10-04T13:55:53.088Z",
+      "question": 35,
+      "text": "Нет",
+      "number": 1,
+      "is_win": false,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 71,
+    "fields": {
+      "date_created": "2023-10-04T13:55:53.090Z",
+      "question": 36,
+      "text": "Да",
+      "number": 1,
+      "is_win": false,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.answer",
+    "pk": 72,
+    "fields": {
+      "date_created": "2023-10-04T13:55:53.092Z",
+      "question": 36,
+      "text": "Нет",
+      "number": 1,
+      "is_win": true,
+      "score": null
+    }
+  },
+  {
+    "model": "testing.question",
+    "pk": 1,
+    "fields": {
+      "date_created": "2023-10-04T13:32:01.342Z",
+      "test_template": 1,
+      "text": "Если это необходимо, я до конца выполняю даже скучную, однообразную работу.",
+      "number": 1,
+      "win_score": null,
+      "allow_incorrect_answers": false
+    }
+  },
+  {
+    "model": "testing.question",
+    "pk": 2,
+    "fields": {
+      "date_created": "2023-10-04T13:32:01.356Z",
+      "test_template": 1,
+      "text": "Обычно я работаю до тех пор, пока есть желание.",
+      "number": 2,
+      "win_score": null,
+      "allow_incorrect_answers": false
+    }
+  },
+  {
+    "model": "testing.question",
+    "pk": 3,
+    "fields": {
+      "date_created": "2023-10-04T13:32:01.369Z",
+      "test_template": 1,
+      "text": "Мне нравится решать трудные задачи, головоломки, каверзные задачи для ума.",
+      "number": 3,
+      "win_score": null,
+      "allow_incorrect_answers": false
+    }
+  },
+  {
+    "model": "testing.question",
+    "pk": 4,
+    "fields": {
+      "date_created": "2023-10-04T13:32:01.381Z",
+      "test_template": 1,
+      "text": "Даже если в работе не все получается, стараюсь продолжать начатое дело.",
+      "number": 4,
+      "win_score": null,
+      "allow_incorrect_answers": false
+    }
+  },
+  {
+    "model": "testing.question",
+    "pk": 5,
+    "fields": {
+      "date_created": "2023-10-04T13:32:01.393Z",
+      "test_template": 1,
+      "text": "Я много раз пытался планировать свой день, но не смог выполнить намеченного.",
+      "number": 5,
+      "win_score": null,
+      "allow_incorrect_answers": false
+    }
+  },
+  {
+    "model": "testing.question",
+    "pk": 6,
+    "fields": {
+      "date_created": "2023-10-04T13:32:01.405Z",
+      "test_template": 1,
+      "text": "По возможности я избегаю трудной работы.",
+      "number": 6,
+      "win_score": null,
+      "allow_incorrect_answers": false
+    }
+  },
+  {
+    "model": "testing.question",
+    "pk": 7,
+    "fields": {
+      "date_created": "2023-10-04T13:32:01.417Z",
+      "test_template": 1,
+      "text": "Если у меня что-то не получается, я делаю это еще и еще раз.",
+      "number": 7,
+      "win_score": null,
+      "allow_incorrect_answers": false
+    }
+  },
+  {
+    "model": "testing.question",
+    "pk": 8,
+    "fields": {
+      "date_created": "2023-10-04T13:32:01.429Z",
+      "test_template": 1,
+      "text": "Установив распорядок дня, я тщательно его соблюдаю, даже
+когда мне этого не хочется.", "number": 8, "win_score": null, "allow_incorrect_answers": false}}, {"model": "testing.question", "pk": 9, "fields": {"date_created": "2023-10-04T13: 32: 01.442Z", "test_template": 1, "text": "При затруднении я часто начинаю сомневаться, стоит ли продолжать начатую работу.", "number": 9, "win_score": null, "allow_incorrect_answers": false}}, {"model": "testing.question", "pk": 10, "fields": {"date_created": "2023-10-04T13: 32: 01.454Z", "test_template": 1, "text": "Если мне кто-то не позволяет сделать то, что я хочу, я все равно стараюсь выполнить задуманное.", "number": 10, "win_score": null, "allow_incorrect_answers": false}}, {"model": "testing.question", "pk": 11, "fields": {"date_created": "2023-10-04T13: 32: 01.468Z", "test_template": 1, "text": "Когда что-то не ладится, я нетерпелив и готов бросить начатое дело.", "number": 11, "win_score": null, "allow_incorrect_answers": false}}, {"model": "testing.question", "pk": 12, "fields": {"date_created": "2023-10-04T13: 32: 01.482Z", "test_template": 1, "text": "Когда я играю в шахматы или другую игру, то сопротивляюсь до последней возможности.", "number": 12, "win_score": null, "allow_incorrect_answers": false}}, {"model": "testing.question", "pk": 13, "fields": {"date_created": "2023-10-04T13: 32: 01.495Z", "test_template": (0.000) DECLARE "_django_curs_17456_sync_7" NO SCROLL CURSOR WITH HOLD FOR SELECT "testing_testtemplate"."id", "testing_testtemplate"."name", "testing_testtemplate"."description", "testing_testtemplate"."date_created", "testing_testtemplate"."slug", "testing_testtemplate"."is_open", "testing_testtemplate"."is_published" FROM "testing_testtemplate" ORDER BY "testing_testtemplate"."id" ASC; args=()1,"text": "В споре я чаще всего не стараюсь переубедить других.",
+      "number": 13,
+      "win_score": null,
+      "allow_incorrect_answers": false
+    }
+  },
+  {
+    "model": "testing.question",
+    "pk": 14,
+    "fields": {
+      "date_created": "2023-10-04T13:32:01.506Z",
+      "test_template": 1,
+      "text": "Всегда стараюсь до конца выполнить порученное мне дело, несмотря на возникающие трудности.",
+      "number": 14,
+      "win_score": null,
+      "allow_incorrect_answers": false
+    }
+  },
+  {
+    "model": "testing.question",
+    "pk": 15,
+    "fields": {
+      "date_created": "2023-10-04T13:32:01.518Z",
+      "test_template": 1,
+      "text": "Я всегда отстаиваю свое мнение, если уверен, что прав.",
+      "number": 15,
+      "win_score": null,
+      "allow_incorrect_answers": false
+    }
+  },
+  {
+    "model": "testing.question",
+    "pk": 16,
+    "fields": {
+      "date_created": "2023-10-04T13:32:01.530Z",
+      "test_template": 1,
+      "text": "При решении трудной задачи я стараюсь
+сам разобраться в ней, а не надеюсь на помощь других.", "number": 16, "win_score": null, "allow_incorrect_answers": false}}, {"model": "testing.question", "pk": 17, "fields": {"date_created": "2023-10-04T13: 32: 01.544Z", "test_template": 1, "text": "В споре я обычно тушуюсь перед напором противника в разговоре.", "number": 17, "win_score": null, "allow_incorrect_answers": false}}, {"model": "testing.question", "pk": 18, "fields": {"date_created": "2023-10-04T13: 32: 01.558Z", "test_template": 1, "text": "Когда я уверен, что стою на правильном пути, для
+доказательства своей правоты я могу работать сколько угодно, даже если мне будут мешать.", "number": 18, "win_score": null, "allow_incorrect_answers": false}}, {"model": "testing.question", "pk": 19, "fields": {"date_created": "2023-10-04T13: 53: 40.276Z", "test_template": 2, "text": "Я уже определил свою цель на будущее и готовлюсь к ее достижению.", "number": 1, "win_score": null, "allow_incorrect_answers": false}}, {"model": "testing.question", "pk": 20, "fields": {"date_created": "2023-10-04T13: 53: 40.293Z", "test_template": 2, "text": "Я систематически стремлюсь к намеченной цели, какой бы далекой она не была.", "number": 2, "win_score": null, "allow_incorrect_answers": false}}, {"model": "testing.question", "pk": 21, "fields": {"date_created": "2023-10-04T13: 53: 40.311Z", "test_template": 2, "text": "У меня обычно пропадает желание добиваться далекой цели, если что-нибудь этому препятствует.", "number": 3, "win_score": null, "allow_incorrect_answers": false}}, {"model": "testing.question", "pk": 22, "fields": {"date_created": "2023-10-04T13: 53: 40.324Z", "test_template": 2, "text": "Даже при неудачах я уверен, что все равно добьюсь своего.", "number": 4, "win_score": null, "allow_incorrect_answers": false}}, {"model": "testing.question", "pk": 23, "fields": {"date_created": "2023-10-04T13: 53: 40.335Z", "test_template": 2, "text": "Я стараюсь не ставить перед собой очень далеких целей, так как считаю, что легче жить сегодняшним днем.", "number": 5, "win_score": null, "allow_incorrect_answers": false}}, {"model": "testing.question", "pk": 24, "fields": {"date_created": "2023-10-04T13: 53: 40.348Z", "test_template": 2, "text": "Я несколько раз пытался заниматься самосовершенствованием, но из этого так ничего и не вышло.", "number": 6, "win_score": null, "allow_incorrect_answers": false}}, {"model": "testing.question", "pk": 25, "fields": {"date_created": "2023-10-04T13: 53: 40.360Z", "test_template": 2, "text": "Неудачи выбивают меня из колеи, и я отказываюсь от намерения достичь чего-нибудь значительного.", "number": 7, "win_score": null, "allow_incorrect_answers": false}}, {"model": "testing.question", "pk": 26, "fields": {"date_created": "2023-10-04T13: 53: 40.372Z", "test_template": 2, "text": "Если уж я поставил перед собой важную для меня цель, то меня трудно остановить.", "number": 8, "win_score": null, "allow_incorrect_answers": false}}, {"model": "testing.question", "pk": 27, "fields": {"date_created": "2023-10-04T13: 53: 40.384Z", "test_template": 2, "text":"Поражение побуждает меня действовать с удвоенной силой.","number": 9,
+      "win_score": null,
+      "allow_incorrect_answers": false
+    }
+  },
+  {
+    "model": "testing.question",
+    "pk": 28,
+    "fields": {
+      "date_created": "2023-10-04T13:53:40.395Z",
+      "test_template": 2,
+      "text": "Я много раз пытался спланировать свою неделю, но так и не смог выполнить намеченного из-за плохой самоорганизованности.",
+      "number": 10,
+      "win_score": null,
+      "allow_incorrect_answers": false
+    }
+  },
+  {
+    "model": "testing.question",
+    "pk": 29,
+    "fields": {
+      "date_created": "2023-10-04T13:53:40.407Z",
+      "test_template": 2,
+      "text": "При возникновении трудностей я начинаю сомневаться, стоит ли продолжать начатое.",
+      "number": 11,
+      "win_score": null,
+      "allow_incorrect_answers": false
+    }
+  },
+  {
+    "model": "testing.question",
+    "pk": 30,
+    "fields": {
+      "date_created": "2023-10-04T13:53:40.419Z",
+      "test_template": 2,
+      "text": "Мне часто бывает трудно довести дело до конца, особенно если для этого требуются недели и месяцы.",
+      "number": 12,
+      "win_score": null,
+      "allow_incorrect_answers": false
+    }
+  },
+  {
+    "model": "testing.question",
+    "pk": 31,
+    "fields": {
+      "date_created": "2023-10-04T13:53:40.432Z",
+      "test_template": 2,
+      "text": "Мои близкие считают меня одержимым.",
+      "number": 13,
+      "win_score": null,
+      "allow_incorrect_answers": false
+    }
+  },
+  {
+    "model": "testing.question",
+    "pk": 32,
+    "fields": {
+      "date_created": "2023-10-04T13:53:40.443Z",
+      "test_template": 2,
+      "text": "Я испытываю большое удовлетворение, когда добиваюсь намеченного вопреки имевшимся трудностям.",
+      "number": 14,
+      "win_score": null,
+      "allow_incorrect_answers": false
+    }
+  },
+  {
+    "model": "testing.question",
+    "pk": 33,
+    "fields": {
+      "date_created": "2023-10-04T13:53:40.454Z",
+      "test_template": 2,
+      "text": "Я часто бросаю на половине пути начатые дела, теряя к ним интерес.",
+      "number": 15,
+      "win_score": null,
+      "allow_incorrect_answers": false
+    }
+  },
+  {
+    "model": "testing.question",
+    "pk": 34,
+    "fields": {
+      "date_created": "2023-10-04T13:53:40.466Z",
+      "test_template": 2,
+      "text": "Я умею ждать и терпеть, поэтому отдаленные цели меня не пугают.",
+      "number": 16,
+      "win_score": null,
+      "allow_incorrect_answers": false
+    }
+  },
+  {
+    "model": "testing.question",
+    "pk": 35,
+    "fields": {
+      "date_created": "2023-10-04T13:53:40.478Z",
+      "test_template": 2,
+      "text": "Препятствия лишь раззадоривают меня, делают мои
+решения более твердыми.", "number": 17, "win_score": null, "allow_incorrect_answers": false}}, {"model": "testing.question", "pk": 36, "fields": {"date_created": "2023-10-04T13: 53: 40.489Z", "test_template": 2, "text": "Лень, а не сомнения в успехе, вынуждает меня слишком часто
+отказываться от достижения цели.", "number": 18, "win_score": null, "allow_incorrect_answers": false}}, {"model": "testing.testtemplate", "pk": 1, "fields": {"name": "Мотивация к тренировочному процессу", "description": "Вам предлагается ряд ситуаций. Представьте себя в этих ситуациях и оцените, насколько они для вас характерны.", "date_created": "2023-10-04T13: 32: 01.319Z", "slug": "test1", "is_open": false, "is_published": false}}, {"model": "testing.testtemplate", "pk": 2, "fields": {"name": "Тест по определению развития волевых качеств", "description": "Вам предлагается ряд ситуаций. Представьте себя в этих ситуациях и оцените, насколько они для вас характерны.", "date_created": "2023-10-04T13: 53: 40.261Z", "slug": "test2", "is_open": false, "is_published": false}}]
