@@ -6,8 +6,10 @@ from backend.apps.examination.selectors import ExaminationTemplateSelectors
 from backend.apps.examination.serializers import ExaminationTemplateSerializer
 
 
-class ExaminationTemplateViewSet(viewsets.ViewSet):
+class ExaminationTemplateViewSet(viewsets.ModelViewSet):
     """ """
+
+    serializer_class = ExaminationTemplateSerializer
 
     def list(self, request):
         queryset = ExaminationTemplateSelectors.all()

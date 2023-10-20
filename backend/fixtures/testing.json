@@ -569,21 +569,7 @@
     "fields": {
       "date_created": "2023-10-04T13:55:53.051Z",
       "question": 24,
-      "text"(0.000) DECLARE "_django_curs_17456_sync_5" NO SCROLL CURSOR WITH HOLD FOR SELECT "testing_mediaobject"."id",
-      "testing_mediaobject"."name",
-      "testing_mediaobject"."question_id",
-      "testing_mediaobject"."number",
-      "testing_mediaobject"."url",
-      "testing_mediaobject"."picture",
-      "testing_mediaobject"."html" FROM "testing_mediaobject" ORDER BY "testing_mediaobject"."id" ASC; args=()
-(0.000) DECLARE "_django_curs_17456_sync_6" NO SCROLL CURSOR WITH HOLD FOR SELECT "testing_question"."id",
-      "testing_question"."date_created",
-      "testing_question"."test_template_id",
-      "testing_question"."text",
-      "testing_question"."number",
-      "testing_question"."win_score",
-      "testing_question"."allow_incorrect_answers" FROM "testing_question" ORDER BY "testing_question"."id" ASC; args=()
-: "Нет",
+      "text": "Нет",
       "number": 1,
       "is_win": true,
       "score": null
@@ -967,8 +953,67 @@
     "fields": {
       "date_created": "2023-10-04T13:32:01.429Z",
       "test_template": 1,
-      "text": "Установив распорядок дня, я тщательно его соблюдаю, даже
-когда мне этого не хочется.", "number": 8, "win_score": null, "allow_incorrect_answers": false}}, {"model": "testing.question", "pk": 9, "fields": {"date_created": "2023-10-04T13: 32: 01.442Z", "test_template": 1, "text": "При затруднении я часто начинаю сомневаться, стоит ли продолжать начатую работу.", "number": 9, "win_score": null, "allow_incorrect_answers": false}}, {"model": "testing.question", "pk": 10, "fields": {"date_created": "2023-10-04T13: 32: 01.454Z", "test_template": 1, "text": "Если мне кто-то не позволяет сделать то, что я хочу, я все равно стараюсь выполнить задуманное.", "number": 10, "win_score": null, "allow_incorrect_answers": false}}, {"model": "testing.question", "pk": 11, "fields": {"date_created": "2023-10-04T13: 32: 01.468Z", "test_template": 1, "text": "Когда что-то не ладится, я нетерпелив и готов бросить начатое дело.", "number": 11, "win_score": null, "allow_incorrect_answers": false}}, {"model": "testing.question", "pk": 12, "fields": {"date_created": "2023-10-04T13: 32: 01.482Z", "test_template": 1, "text": "Когда я играю в шахматы или другую игру, то сопротивляюсь до последней возможности.", "number": 12, "win_score": null, "allow_incorrect_answers": false}}, {"model": "testing.question", "pk": 13, "fields": {"date_created": "2023-10-04T13: 32: 01.495Z", "test_template": (0.000) DECLARE "_django_curs_17456_sync_7" NO SCROLL CURSOR WITH HOLD FOR SELECT "testing_testtemplate"."id", "testing_testtemplate"."name", "testing_testtemplate"."description", "testing_testtemplate"."date_created", "testing_testtemplate"."slug", "testing_testtemplate"."is_open", "testing_testtemplate"."is_published" FROM "testing_testtemplate" ORDER BY "testing_testtemplate"."id" ASC; args=()1,"text": "В споре я чаще всего не стараюсь переубедить других.",
+      "text": "Установив распорядок дня, я тщательно его соблюдаю, даже когда мне этого не хочется.",
+      "number": 8,
+      "win_score": null,
+      "allow_incorrect_answers": false
+    }
+  },
+  {
+    "model": "testing.question",
+    "pk": 9,
+    "fields": {
+      "date_created": "2023-10-04T13: 32: 01.442Z",
+      "test_template": 1,
+      "text": "При затруднении я часто начинаю сомневаться, стоит ли продолжать начатую работу.",
+      "number": 9,
+      "win_score": null,
+      "allow_incorrect_answers": false
+    }
+  },
+  {
+    "model": "testing.question",
+    "pk": 10,
+    "fields": {
+      "date_created": "2023-10-04T13: 32: 01.454Z",
+      "test_template": 1,
+      "text": "Если мне кто-то не позволяет сделать то, что я хочу, я все равно стараюсь выполнить задуманное.",
+      "number": 10,
+      "win_score": null,
+      "allow_incorrect_answers": false
+    }
+  },
+  {
+    "model": "testing.question",
+    "pk": 11,
+    "fields": {
+      "date_created": "2023-10-04T13: 32: 01.468Z",
+      "test_template": 1,
+      "text": "Когда что-то не ладится, я нетерпелив и готов бросить начатое дело.",
+      "number": 11,
+      "win_score": null,
+      "allow_incorrect_answers": false
+    }
+  },
+  {
+    "model": "testing.question",
+    "pk": 12,
+    "fields": {
+      "date_created": "2023-10-04T13: 32: 01.482Z",
+      "test_template": 1,
+      "text": "Когда я играю в шахматы или другую игру, то сопротивляюсь до последней возможности.",
+      "number": 12,
+      "win_score": null,
+      "allow_incorrect_answers": false
+    }
+  },
+  {
+    "model": "testing.question",
+    "pk": 13,
+    "fields": {
+      "date_created": "2023-10-04T13: 32: 01.495Z",
+      "test_template": 1,
+      "text": "В споре я чаще всего не стараюсь переубедить других.",
       "number": 13,
       "win_score": null,
       "allow_incorrect_answers": false
@@ -1004,9 +1049,140 @@
     "fields": {
       "date_created": "2023-10-04T13:32:01.530Z",
       "test_template": 1,
-      "text": "При решении трудной задачи я стараюсь
-сам разобраться в ней, а не надеюсь на помощь других.", "number": 16, "win_score": null, "allow_incorrect_answers": false}}, {"model": "testing.question", "pk": 17, "fields": {"date_created": "2023-10-04T13: 32: 01.544Z", "test_template": 1, "text": "В споре я обычно тушуюсь перед напором противника в разговоре.", "number": 17, "win_score": null, "allow_incorrect_answers": false}}, {"model": "testing.question", "pk": 18, "fields": {"date_created": "2023-10-04T13: 32: 01.558Z", "test_template": 1, "text": "Когда я уверен, что стою на правильном пути, для
-доказательства своей правоты я могу работать сколько угодно, даже если мне будут мешать.", "number": 18, "win_score": null, "allow_incorrect_answers": false}}, {"model": "testing.question", "pk": 19, "fields": {"date_created": "2023-10-04T13: 53: 40.276Z", "test_template": 2, "text": "Я уже определил свою цель на будущее и готовлюсь к ее достижению.", "number": 1, "win_score": null, "allow_incorrect_answers": false}}, {"model": "testing.question", "pk": 20, "fields": {"date_created": "2023-10-04T13: 53: 40.293Z", "test_template": 2, "text": "Я систематически стремлюсь к намеченной цели, какой бы далекой она не была.", "number": 2, "win_score": null, "allow_incorrect_answers": false}}, {"model": "testing.question", "pk": 21, "fields": {"date_created": "2023-10-04T13: 53: 40.311Z", "test_template": 2, "text": "У меня обычно пропадает желание добиваться далекой цели, если что-нибудь этому препятствует.", "number": 3, "win_score": null, "allow_incorrect_answers": false}}, {"model": "testing.question", "pk": 22, "fields": {"date_created": "2023-10-04T13: 53: 40.324Z", "test_template": 2, "text": "Даже при неудачах я уверен, что все равно добьюсь своего.", "number": 4, "win_score": null, "allow_incorrect_answers": false}}, {"model": "testing.question", "pk": 23, "fields": {"date_created": "2023-10-04T13: 53: 40.335Z", "test_template": 2, "text": "Я стараюсь не ставить перед собой очень далеких целей, так как считаю, что легче жить сегодняшним днем.", "number": 5, "win_score": null, "allow_incorrect_answers": false}}, {"model": "testing.question", "pk": 24, "fields": {"date_created": "2023-10-04T13: 53: 40.348Z", "test_template": 2, "text": "Я несколько раз пытался заниматься самосовершенствованием, но из этого так ничего и не вышло.", "number": 6, "win_score": null, "allow_incorrect_answers": false}}, {"model": "testing.question", "pk": 25, "fields": {"date_created": "2023-10-04T13: 53: 40.360Z", "test_template": 2, "text": "Неудачи выбивают меня из колеи, и я отказываюсь от намерения достичь чего-нибудь значительного.", "number": 7, "win_score": null, "allow_incorrect_answers": false}}, {"model": "testing.question", "pk": 26, "fields": {"date_created": "2023-10-04T13: 53: 40.372Z", "test_template": 2, "text": "Если уж я поставил перед собой важную для меня цель, то меня трудно остановить.", "number": 8, "win_score": null, "allow_incorrect_answers": false}}, {"model": "testing.question", "pk": 27, "fields": {"date_created": "2023-10-04T13: 53: 40.384Z", "test_template": 2, "text":"Поражение побуждает меня действовать с удвоенной силой.","number": 9,
+      "text": "При решении трудной задачи я стараюсь сам разобраться в ней, а не надеюсь на помощь других.",
+      "number": 16,
+      "win_score": null,
+      "allow_incorrect_answers": false
+    }
+  },
+  {
+    "model": "testing.question",
+    "pk": 17,
+    "fields": {
+      "date_created": "2023-10-04T13: 32: 01.544Z",
+      "test_template": 1,
+      "text": "В споре я обычно тушуюсь перед напором противника в разговоре.",
+      "number": 17,
+      "win_score": null,
+      "allow_incorrect_answers": false
+    }
+  },
+  {
+    "model": "testing.question",
+    "pk": 18,
+    "fields": {
+      "date_created": "2023-10-04T13: 32: 01.558Z",
+      "test_template": 1,
+      "text": "Когда я уверен, что стою на правильном пути, для доказательства своей правоты я могу работать сколько угодно, даже если мне будут мешать.",
+      "number": 18,
+      "win_score": null,
+      "allow_incorrect_answers": false
+    }
+  },
+  {
+    "model": "testing.question",
+    "pk": 19,
+    "fields": {
+      "date_created": "2023-10-04T13: 53: 40.276Z",
+      "test_template": 2,
+      "text": "Я уже определил свою цель на будущее и готовлюсь к ее достижению.",
+      "number": 1,
+      "win_score": null,
+      "allow_incorrect_answers": false
+    }
+  },
+  {
+    "model": "testing.question",
+    "pk": 20,
+    "fields": {
+      "date_created": "2023-10-04T13:53: 40.293Z",
+      "test_template": 2,
+      "text": "Я систематически стремлюсь к намеченной цели, какой бы далекой она не была.",
+      "number": 2,
+      "win_score": null,
+      "allow_incorrect_answers": false
+    }
+  },
+  {
+    "model": "testing.question",
+    "pk": 21,
+    "fields": {
+      "date_created": "2023-10-04T13: 53: 40.311Z",
+      "test_template": 2,
+      "text": "У меня обычно пропадает желание добиваться далекой цели, если что-нибудь этому препятствует.",
+      "number": 3,
+      "win_score": null,
+      "allow_incorrect_answers": false
+    }
+  },
+  {
+    "model": "testing.question",
+    "pk": 22,
+    "fields": {
+      "date_created": "2023-10-04T13: 53: 40.324Z",
+      "test_template": 2,
+      "text": "Даже при неудачах я уверен, что все равно добьюсь своего.",
+      "number": 4,
+      "win_score": null,
+      "allow_incorrect_answers": false
+    }
+  },
+  {
+    "model": "testing.question",
+    "pk": 23,
+    "fields": {
+      "date_created": "2023-10-04T13: 53: 40.335Z",
+      "test_template": 2,
+      "text": "Я стараюсь не ставить перед собой очень далеких целей, так как считаю, что легче жить сегодняшним днем.",
+      "number": 5,
+      "win_score": null,
+      "allow_incorrect_answers": false
+    }
+  },
+  {
+    "model": "testing.question",
+    "pk": 24,
+    "fields": {
+      "date_created": "2023-10-04T13: 53: 40.348Z",
+      "test_template": 2,
+      "text": "Я несколько раз пытался заниматься самосовершенствованием, но из этого так ничего и не вышло.",
+      "number": 6,
+      "win_score": null,
+      "allow_incorrect_answers": false
+    }
+  },
+  {
+    "model": "testing.question",
+    "pk": 25,
+    "fields": {
+      "date_created": "2023-10-04T13: 53: 40.360Z",
+      "test_template": 2,
+      "text": "Неудачи выбивают меня из колеи, и я отказываюсь от намерения достичь чего-нибудь значительного.",
+      "number": 7,
+      "win_score": null,
+      "allow_incorrect_answers": false
+    }
+  },
+  {
+    "model": "testing.question",
+    "pk": 26,
+    "fields": {
+      "date_created": "2023-10-04T13: 53: 40.372Z",
+      "test_template": 2,
+      "text": "Если уж я поставил перед собой важную для меня цель, то меня трудно остановить.",
+      "number": 8,
+      "win_score": null,
+      "allow_incorrect_answers": false
+    }
+  },
+  {
+    "model": "testing.question",
+    "pk": 27,
+    "fields": {
+      "date_created": "2023-10-04T13: 53: 40.384Z",
+      "test_template": 2,
+      "text": "Поражение побуждает меня действовать с удвоенной силой.",
+      "number": 9,
       "win_score": null,
       "allow_incorrect_answers": false
     }
@@ -1101,6 +1277,46 @@
     "fields": {
       "date_created": "2023-10-04T13:53:40.478Z",
       "test_template": 2,
-      "text": "Препятствия лишь раззадоривают меня, делают мои
-решения более твердыми.", "number": 17, "win_score": null, "allow_incorrect_answers": false}}, {"model": "testing.question", "pk": 36, "fields": {"date_created": "2023-10-04T13: 53: 40.489Z", "test_template": 2, "text": "Лень, а не сомнения в успехе, вынуждает меня слишком часто
-отказываться от достижения цели.", "number": 18, "win_score": null, "allow_incorrect_answers": false}}, {"model": "testing.testtemplate", "pk": 1, "fields": {"name": "Мотивация к тренировочному процессу", "description": "Вам предлагается ряд ситуаций. Представьте себя в этих ситуациях и оцените, насколько они для вас характерны.", "date_created": "2023-10-04T13: 32: 01.319Z", "slug": "test1", "is_open": false, "is_published": false}}, {"model": "testing.testtemplate", "pk": 2, "fields": {"name": "Тест по определению развития волевых качеств", "description": "Вам предлагается ряд ситуаций. Представьте себя в этих ситуациях и оцените, насколько они для вас характерны.", "date_created": "2023-10-04T13: 53: 40.261Z", "slug": "test2", "is_open": false, "is_published": false}}]
+      "text": "Препятствия лишь раззадоривают меня, делают мои решения более твердыми.",
+      "number": 17,
+      "win_score": null,
+      "allow_incorrect_answers": false
+    }
+  },
+  {
+    "model": "testing.question",
+    "pk": 36,
+    "fields": {
+      "date_created": "2023-10-04T13:53:40.489Z",
+      "test_template": 2,
+      "text": "Лень, а не сомнения в успехе, вынуждает меня слишком часто отказываться от достижения цели.",
+      "number": 18,
+      "win_score": null,
+      "allow_incorrect_answers": false
+    }
+  },
+  {
+    "model": "testing.testtemplate",
+    "pk": 1,
+    "fields": {
+      "name": "Мотивация к тренировочному процессу",
+      "description": "Вам предлагается ряд ситуаций. Представьте себя в этих ситуациях и оцените, насколько они для вас характерны.",
+      "date_created": "2023-10-04T13:32:01.319Z",
+      "slug": "test1",
+      "is_open": false,
+      "is_published": false
+    }
+  },
+  {
+    "model": "testing.testtemplate",
+    "pk": 2,
+    "fields": {
+      "name": "Тест по определению развития волевых качеств",
+      "description": "Вам предлагается ряд ситуаций. Представьте себя в этих ситуациях и оцените, насколько они для вас характерны.",
+      "date_created": "2023-10-04T13: 53: 40.261Z",
+      "slug": "test2",
+      "is_open": false,
+      "is_published": false
+    }
+  }
+]

@@ -1,3 +1,3 @@
-from django.db import models
+from .sport_type import SportType
 
-# Create your models here.
+__all__ = ["SportType", ]

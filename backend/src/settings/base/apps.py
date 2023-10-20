@@ -11,6 +11,7 @@ DEFAULT_APPS = [
     "django_filters",
     "djoser",
     "drf_yasg",
+    "import_export",
     "puml_generator",
 ]
 

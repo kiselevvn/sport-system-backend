@@ -29,9 +29,7 @@ class User(AbstractBaseUser, PermissionsMixin):
     )
     first_name = models.CharField(_("Имя"), max_length=30, blank=True)
     last_name = models.CharField(_("Фамилия"), max_length=150, blank=True)
-    second_name = models.CharField(
-        _("Отчество"), max_length=150, blank=True
-    )
+    second_name = models.CharField(_("Отчество"), max_length=150, blank=True)
     is_sportsman = models.BooleanField(
         _("Пользователь является спортсменом"), default=False
     )
@@ -46,17 +44,13 @@ class User(AbstractBaseUser, PermissionsMixin):
     is_staff = models.BooleanField(
         _("staff status"),
         default=False,
-        help_text=_(
-            "Имеет допуск к django-admin"
-        ),
+        help_text=_("Имеет допуск к django-admin"),
     )
-    birthday = models.DateField(_("Дата рождения"),blank=True, null=True)
+    birthday = models.DateField(_("Дата рождения"), blank=True, null=True)
     is_active = models.BooleanField(
         _("active"),
         default=True,
-        help_text=_(
-            "Является активныи"
-        ),
+        help_text=_("Является активныи"),
     )
     date_joined = models.DateTimeField(_("date joined"), default=timezone.now)
 
