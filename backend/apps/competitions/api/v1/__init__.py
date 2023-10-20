@@ -1,3 +1,5 @@
-from django.shortcuts import render
+from .sport_type_views import SportTypeViewSet
 
-# Create your views here.
+__all__ = [
+    "SportTypeViewSet",
+]
