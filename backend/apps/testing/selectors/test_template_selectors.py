@@ -19,7 +19,7 @@ class TestTemplateSelectors:
         return TestTemplate.objects.all()
 
     @staticmethod
-    def all():
+    def all(cls):
         return TestTemplate.objects.prefetch_related(
             Prefetch(
                 lookup="questions",
@@ -32,3 +32,7 @@ class TestTemplateSelectors:
                 ),
             ),
         )
+
+    @staticmethod
+    def get(cls, id: int):
+        return cls.all().get(pk=id)

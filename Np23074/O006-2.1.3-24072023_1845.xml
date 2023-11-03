@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="O006" version="2.1.3" date="24.07.2023" />
+
+<records>
+
+<record>
+	<rsf_doct_id>0008</rsf_doct_id>
+	<rsf_doct_name>Уведомление постоянно действующего руководящего органа общероссийской спортивной федерации</rsf_doct_name>
+	<date_beg>30.03.2015</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rsf_doct_id>0009</rsf_doct_id>
+	<rsf_doct_name>Копия письменного согласования общероссийской спортивной федерации на государственную аккредитацию общественной организации</rsf_doct_name>
+	<date_beg>30.03.2015</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rsf_doct_id>0010</rsf_doct_id>
+	<rsf_doct_name>Копия документа, подтверждающего членство общественной организации в общероссийской спортивной федерации</rsf_doct_name>
+	<date_beg>30.03.2015</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rsf_doct_id>0011</rsf_doct_id>
+	<rsf_doct_name>Копия документа о внесении изменений в документ о государственной аккредитации общественной организации и наделении ее статусом региональной спортивной федерации, в связи с изменением наименования (для региональной спортивной федерации)</rsf_doct_name>
+	<date_beg>30.03.2015</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rsf_doct_id>0012</rsf_doct_id>
+	<rsf_doct_name>Копия протокола съезда (конференции) или общего собрания общественной организации об изменении наименования общероссийской спортивной или региональной спортивной федерации</rsf_doct_name>
+	<date_beg>30.03.2015</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rsf_doct_id>0013</rsf_doct_id>
+	<rsf_doct_name>Копия протокола съезда (конференции) или общего собрания общественной организации об изменении состава руководящих органов общероссийской спортивной или региональной спортивной федерации</rsf_doct_name>
+	<date_beg>30.03.2015</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rsf_doct_id>0014</rsf_doct_id>
+	<rsf_doct_name>Копия протокола съезда (конференции) или общего собрания общественной организации о внесении изменений в учредительные документы общероссийской спортивной или региональной спортивной федерации</rsf_doct_name>
+	<date_beg>30.03.2015</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rsf_doct_id>0006</rsf_doct_id>
+	<rsf_doct_name>Сведения о персональном составе руководящих органов соответствующих спортивных федераций</rsf_doct_name>
+	<date_beg>30.03.2015</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rsf_doct_id>0007</rsf_doct_id>
+	<rsf_doct_name>Засвидетельствованные в нотариальном порядке копии учредительных документов соответствующих спортивных федераций</rsf_doct_name>
+	<date_beg>30.03.2015</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rsf_doct_id>0015</rsf_doct_id>
+	<rsf_doct_name>Копия документа о прекращении действия государственной аккредитации региональной спортивной федерации</rsf_doct_name>
+	<date_beg>30.03.2015</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rsf_doct_id>0001</rsf_doct_id>
+	<rsf_doct_name>Копия протокола учредительного съезда (конференции) или общего собрания о создании общественной организации, об утверждении ее устава и о формировании руководящих органов и контрольно-ревизионного органа</rsf_doct_name>
+	<date_beg>30.03.2015</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rsf_doct_id>0002</rsf_doct_id>
+	<rsf_doct_name>Копия свидетельства о государственной регистрации некоммерческой организации</rsf_doct_name>
+	<date_beg>30.03.2015</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rsf_doct_id>0003</rsf_doct_id>
+	<rsf_doct_name>Копия документа о государственной аккредитации общественной организации и наделении ее статусом региональной спортивной федерации</rsf_doct_name>
+	<date_beg>30.03.2015</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rsf_doct_id>0004</rsf_doct_id>
+	<rsf_doct_name>Выписка из Единого государственного реестра юридических лиц</rsf_doct_name>
+	<date_beg>30.03.2015</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rsf_doct_id>0005</rsf_doct_id>
+	<rsf_doct_name>Перечень лиц, являющихся членами соответствующих спортивных федераций</rsf_doct_name>
+	<date_beg>30.03.2015</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>

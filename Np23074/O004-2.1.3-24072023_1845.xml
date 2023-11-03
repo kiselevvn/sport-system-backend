@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="O004" version="2.1.3" date="24.07.2023" />
+
+<records>
+
+<record>
+	<sf_cat_id>0001</sf_cat_id>
+	<sf_cat_name>Региональная</sf_cat_name>
+	<date_beg>04.12.2007</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<sf_cat_id>0002</sf_cat_id>
+	<sf_cat_name>Общероссийская</sf_cat_name>
+	<date_beg>04.12.2007</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>

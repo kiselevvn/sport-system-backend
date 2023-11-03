@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="C008" version="2.2.4" date="24.07.2023" />
+
+<records>
+
+<record>
+	<fin_org_id>0002</fin_org_id>
+	<fin_org_name>Орган исполнительной власти субъекта Российской федерации в области физической культуры и спорта</fin_org_name>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fin_org_id>0005</fin_org_id>
+	<fin_org_name>Орган исполнительной власти субъекта РФ</fin_org_name>
+	<date_beg>01.11.2022</date_beg>
+	<date_end>21.07.2023</date_end>
+</record>
+
+<record>
+	<fin_org_id>0003</fin_org_id>
+	<fin_org_name>Общероссийская физкультурно-спортивная организация</fin_org_name>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fin_org_id>0004</fin_org_id>
+	<fin_org_name>Общероссийская спортивная федерация</fin_org_name>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fin_org_id>0001</fin_org_id>
+	<fin_org_name>Минспорт России</fin_org_name>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fin_org_id>0006</fin_org_id>
+	<fin_org_name>Иные источники</fin_org_name>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>

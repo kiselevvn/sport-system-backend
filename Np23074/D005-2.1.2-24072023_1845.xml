@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="D005" version="2.1.2" date="24.07.2023" />
+
+<records>
+
+<record>
+	<section id_section="9" section_name="Причины отказа в лишении спортивного звания" />
+	<st_rej_depr_id>0001</st_rej_depr_id>
+	<st_rej_depr_name>Несоответствие представленных сведений основаниям для лишения спортивного звания</st_rej_depr_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<section id_section="9" section_name="Причины отказа в лишении спортивного звания" />
+	<st_rej_depr_id>0002</st_rej_depr_id>
+	<st_rej_depr_name>Наличие решения Министерства спорта Российский Федерации по заявлению о лишении спортивного звания, поданному ранее по основаниям для лишения спортивного звания Органом исполнительной власти или общероссийской спортивной федерацией</st_rej_depr_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<section id_section="10" section_name="Причины отказа в лишении спортивного разряда" />
+	<st_rej_depr_id>0003</st_rej_depr_id>
+	<st_rej_depr_name>Несоответствие представленных сведений основаниям для лишения спортивного разряда</st_rej_depr_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<section id_section="10" section_name="Причины отказа в лишении спортивного разряда" />
+	<st_rej_depr_id>0004</st_rej_depr_id>
+	<st_rej_depr_name>Наличие решения Организации по заявлению о лишении спортивного разряда, поданному ранее по тем же основаниям спортивной федерацией, физкультурно-спортивной организацией, организацией, осуществляющей спортивную подготовку, образовательной организацией или Заявителем</st_rej_depr_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>

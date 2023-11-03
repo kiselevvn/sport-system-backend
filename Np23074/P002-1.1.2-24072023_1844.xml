@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="P002" version="1.1.2" date="24.07.2023" />
+
+<records>
+
+<record>
+	<edu_lvl_id>0001</edu_lvl_id>
+	<edu_lvl_name>Высшее образование - бакалавриат</edu_lvl_name>
+	<date_beg>25.12.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<edu_lvl_id>0002</edu_lvl_id>
+	<edu_lvl_name>Высшее образование - специалитет</edu_lvl_name>
+	<date_beg>25.12.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<edu_lvl_id>0003</edu_lvl_id>
+	<edu_lvl_name>Высшее образование - магистратура</edu_lvl_name>
+	<date_beg>25.12.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<edu_lvl_id>0004</edu_lvl_id>
+	<edu_lvl_name>Высшее образование - подготовка кадров высшей квалификации</edu_lvl_name>
+	<date_beg>25.12.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<edu_lvl_id>0005</edu_lvl_id>
+	<edu_lvl_name>Среднее профессиональное образование</edu_lvl_name>
+	<date_beg>25.12.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<edu_lvl_id>0006</edu_lvl_id>
+	<edu_lvl_name>Cреднее общее образование</edu_lvl_name>
+	<date_beg>25.12.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<edu_lvl_id>0007</edu_lvl_id>
+	<edu_lvl_name>Основное общее образование</edu_lvl_name>
+	<date_beg>25.12.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<edu_lvl_id>0008</edu_lvl_id>
+	<edu_lvl_name>Начальное общее образование</edu_lvl_name>
+	<date_beg>25.12.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<edu_lvl_id>0009</edu_lvl_id>
+	<edu_lvl_name>Дошкольное образование</edu_lvl_name>
+	<date_beg>25.12.2008</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>

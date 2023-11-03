@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="D003" version="1.1.2" date="24.07.2023" />
+
+<records>
+
+<record>
+	<sport_cat_id>0006</sport_cat_id>
+	<sport_cat_name>Второй юношеский спортивный разряд</sport_cat_name>
+	<date_beg>04.12.2007</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<sport_cat_id>0007</sport_cat_id>
+	<sport_cat_name>Третий юношеский спортивный разряд</sport_cat_name>
+	<date_beg>04.12.2007</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<sport_cat_id>0003</sport_cat_id>
+	<sport_cat_name>Второй спортивный разряд</sport_cat_name>
+	<date_beg>04.12.2007</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<sport_cat_id>0002</sport_cat_id>
+	<sport_cat_name>Первый спортивный разряд</sport_cat_name>
+	<date_beg>04.12.2007</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<sport_cat_id>0001</sport_cat_id>
+	<sport_cat_name>Кандидат в мастера спорта</sport_cat_name>
+	<date_beg>04.12.2007</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<sport_cat_id>0005</sport_cat_id>
+	<sport_cat_name>Первый юношеский спортивный разряд</sport_cat_name>
+	<date_beg>04.12.2007</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<sport_cat_id>0004</sport_cat_id>
+	<sport_cat_name>Третий спортивный разряд</sport_cat_name>
+	<date_beg>04.12.2007</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>

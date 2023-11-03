@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="O002" version="2.1.18" date="24.07.2023" />
+
+<records>
+
+<record>
+	<rfkis_okpo>74318025</rfkis_okpo>
+	<rfkis_name>Комитет по спорту Псковской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1056000309342</rfkis_ogrn>
+	<rfkis_inn>6027087666</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>12021496</rfkis_okpo>
+	<rfkis_name>Министерство физической культуры и спорта Пермского края</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1025900530611</rfkis_ogrn>
+	<rfkis_inn>5902290586</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>64625909</rfkis_okpo>
+	<rfkis_name>Департамент физической культуры и спорта Вологодской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1103525003251</rfkis_ogrn>
+	<rfkis_inn>3525237132</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00088779</rfkis_okpo>
+	<rfkis_name>Департамент физической культуры и спорта Владимирской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1033302007628</rfkis_ogrn>
+	<rfkis_inn>3328101799</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00095319</rfkis_okpo>
+	<rfkis_name>Министерство спорта и туризма Кировской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1054316536295</rfkis_ogrn>
+	<rfkis_inn>4345098756</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>78941086</rfkis_okpo>
+	<rfkis_name>Министерство культуры, спорта и молодежи Луганской Народной Республики</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1229400100643</rfkis_ogrn>
+	<rfkis_inn>9403024593</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00088437</rfkis_okpo>
+	<rfkis_name>Комитет физической культуры и спорта Волгоградской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1023403443304</rfkis_ogrn>
+	<rfkis_inn>3444024859</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>13207547</rfkis_okpo>
+	<rfkis_name>Министерство физической культуры и спорта Кузбасса</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1024200678314</rfkis_ogrn>
+	<rfkis_inn>4205036220</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>36397199</rfkis_okpo>
+	<rfkis_name>Департамент культуры, спорта и туризма Чукотского автономного округа</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1198709000203</rfkis_ogrn>
+	<rfkis_inn>8709908206</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00091540</rfkis_okpo>
+	<rfkis_name>Министерство по физической культуре и спорту Республики Дагестан</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1020502528254</rfkis_ogrn>
+	<rfkis_inn>0562045881</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>66289077</rfkis_okpo>
+	<rfkis_name>Министерство по физической культуре и спорту Республики Ингушетия</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1120608000556</rfkis_ogrn>
+	<rfkis_inn>0608019083</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00097146</rfkis_okpo>
+	<rfkis_name>Управление по физической культуре и спорту Тамбовской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1106829003423</rfkis_ogrn>
+	<rfkis_inn>6829066131</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>11950696</rfkis_okpo>
+	<rfkis_name>Управление физической культуры и спорта Орловской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1135740005818</rfkis_ogrn>
+	<rfkis_inn>5753061040</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00073418</rfkis_okpo>
+	<rfkis_name>Министерство физической культуры и спорта Свердловской области </rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1036604000124</rfkis_ogrn>
+	<rfkis_inn>6661094873</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>68237819</rfkis_okpo>
+	<rfkis_name>Главное управление спорта Смоленской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1116732005840</rfkis_ogrn>
+	<rfkis_inn>6732019709</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00079740</rfkis_okpo>
+	<rfkis_name>Министерство спорта и молодежной политики Республики Бурятия </rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1020300976508</rfkis_ogrn>
+	<rfkis_inn>0323068648</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>39377347</rfkis_okpo>
+	<rfkis_name>Министерство по физической культуре, спорту и молодежной политике Удмуртской Республики</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1151840001686</rfkis_ogrn>
+	<rfkis_inn>1840036276</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00098737</rfkis_okpo>
+	<rfkis_name>Министерство спорта Красноярского края</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1082468047309</rfkis_ogrn>
+	<rfkis_inn>2466213960</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>53693517</rfkis_okpo>
+	<rfkis_name>Министерство спорта Республики Тыва</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1111719000470</rfkis_ogrn>
+	<rfkis_inn>1701048884</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>35083525</rfkis_okpo>
+	<rfkis_name>Министерство Чеченской Республики по физической культуре, спорту и молодежной политике</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1022002542693</rfkis_ogrn>
+	<rfkis_inn>2020002539</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00087886</rfkis_okpo>
+	<rfkis_name>Министерство спорта и молодежной политики Новгородской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1035300262117</rfkis_ogrn>
+	<rfkis_inn>5321028984</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00097778</rfkis_okpo>
+	<rfkis_name>Министерство физической культуры и спорта Новосибирской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1105476048545</rfkis_ogrn>
+	<rfkis_inn>5407455868</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00097318</rfkis_okpo>
+	<rfkis_name>Министерство по физической культуре и спорту Челябинской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1037403863089</rfkis_ogrn>
+	<rfkis_inn>7451030748</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00089907</rfkis_okpo>
+	<rfkis_name>Министерство физической культуры и спорта Ульяновской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1147325001416</rfkis_ogrn>
+	<rfkis_inn>7325127210</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>82868461</rfkis_okpo>
+	<rfkis_name>Министерство спорта Калужской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1084027003488</rfkis_ogrn>
+	<rfkis_inn>4027088360</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>09457988</rfkis_okpo>
+	<rfkis_name>Министерство спорта Камчатского края</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1134101000241</rfkis_ogrn>
+	<rfkis_inn>4101155858</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>19302778</rfkis_okpo>
+	<rfkis_name>Министерство спорта Калининградской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1173926022050</rfkis_ogrn>
+	<rfkis_inn>3906356940</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>61976413</rfkis_okpo>
+	<rfkis_name>Департамент физической культуры и спорта Воронежской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1093668028453</rfkis_ogrn>
+	<rfkis_inn>3666159470</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00096810</rfkis_okpo>
+	<rfkis_name>Министерство физической культуры и спорта Оренбургской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1125658044621</rfkis_ogrn>
+	<rfkis_inn>5612080763</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00092597</rfkis_okpo>
+	<rfkis_name>Министерство физической культуры и спорта Пензенской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1025801358318</rfkis_ogrn>
+	<rfkis_inn>5836200114</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00090090</rfkis_okpo>
+	<rfkis_name>Департамент по физической культуре и спорту правительства Еврейской автономной области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1027900513167</rfkis_ogrn>
+	<rfkis_inn>7900001641</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00086243</rfkis_okpo>
+	<rfkis_name>Министерство физической культуры и спорта Чувашской Республики</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1022100971771</rfkis_ogrn>
+	<rfkis_inn>2127011180</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>34970371</rfkis_okpo>
+	<rfkis_name>Министерство спорта Алтайского края</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1182225042163</rfkis_ogrn>
+	<rfkis_inn>2225198071</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00068357</rfkis_okpo>
+	<rfkis_name>Министерство молодежной политики и спорта Республики Башкортостан</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1220200001834</rfkis_ogrn>
+	<rfkis_inn>0274151594</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>52515110</rfkis_okpo>
+	<rfkis_name>Министерство спорта Кабардино-Балкарской Республики</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1130725000636</rfkis_ogrn>
+	<rfkis_inn>0725011200</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00078551</rfkis_okpo>
+	<rfkis_name>Министерство физической культуры и спорта Республики Коми</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1031100406611</rfkis_ogrn>
+	<rfkis_inn>1101481380</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00087426</rfkis_okpo>
+	<rfkis_name>Министерство молодежной политики, спорта и туризма Республики Марий Эл</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1021200787057</rfkis_ogrn>
+	<rfkis_inn>1215024638</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>20850887</rfkis_okpo>
+	<rfkis_name>Министерство физической культуры и спорта Республики Северная Осетия-Алания</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1161513050181</rfkis_ogrn>
+	<rfkis_inn>1513057815</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00089365</rfkis_okpo>
+	<rfkis_name>Министерство по физической культуре и спорту Амурской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1022800532391</rfkis_ogrn>
+	<rfkis_inn>2801039525</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00099576</rfkis_okpo>
+	<rfkis_name>Министерство спорта Мурманской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1025100848266</rfkis_ogrn>
+	<rfkis_inn>5191501798</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>11738565</rfkis_okpo>
+	<rfkis_name>Министерство физической культуры и спорта Московской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1125047008569</rfkis_ogrn>
+	<rfkis_inn>5047132964</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00098513</rfkis_okpo>
+	<rfkis_name>Комитет по физической культуре и спорту Курской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1024600965685</rfkis_ogrn>
+	<rfkis_inn>4632022246</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00092189</rfkis_okpo>
+	<rfkis_name>Управление по физической культуре и спорту Курганской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1034500002987</rfkis_ogrn>
+	<rfkis_inn>4501084009</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>88645644</rfkis_okpo>
+	<rfkis_name>Министерство физической культуры и спорта Астраханской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1083015003862</rfkis_ogrn>
+	<rfkis_inn>3015085147</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>14405551</rfkis_okpo>
+	<rfkis_name>Департамент по молодёжной политике, физической культуре и спорту Томской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1037000122697</rfkis_ogrn>
+	<rfkis_inn>7017071789</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>64680239</rfkis_okpo>
+	<rfkis_name>Министерство спорта Тульской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1097154029290</rfkis_ogrn>
+	<rfkis_inn>7107520252</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>06222813</rfkis_okpo>
+	<rfkis_name>Департамент спорта города Москвы</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1177746000013</rfkis_ogrn>
+	<rfkis_inn>7708308010</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>13140659</rfkis_okpo>
+	<rfkis_name>Министерство по физической культуре и спорту Республики Саха (Якутия)</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1131447012179</rfkis_ogrn>
+	<rfkis_inn>1435270935</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00086606</rfkis_okpo>
+	<rfkis_name>Министерство спорта и молодежной политики Республики Калмыкия </rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1090816004894</rfkis_ogrn>
+	<rfkis_inn>0816009760</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00088012</rfkis_okpo>
+	<rfkis_name>Министерство физической культуры и спорта Карачаево-Черкесской Республики</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1110917001876</rfkis_ogrn>
+	<rfkis_inn>0917018672</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00079467</rfkis_okpo>
+	<rfkis_name>Министерство спорта и молодежной политики Республики Мордовия</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1021300981404</rfkis_ogrn>
+	<rfkis_inn>1326137309</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00078976</rfkis_okpo>
+	<rfkis_name>Министерство образования и спорта Республики Карелия</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1031000010997</rfkis_ogrn>
+	<rfkis_inn>1001040375</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>74745804</rfkis_okpo>
+	<rfkis_name>Департамент физической культуры, спорта и дополнительного образования Тюменской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1057200739991</rfkis_ogrn>
+	<rfkis_inn>7202138540</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00087082</rfkis_okpo>
+	<rfkis_name>Комитет по физической культуре и спорту Санкт-Петербурга</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1037843031214</rfkis_ogrn>
+	<rfkis_inn>7803050795</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>34443105</rfkis_okpo>
+	<rfkis_name>Департамент физической культуры и спорта Ханты-Мансийского автономного округа – Югры</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1028600515283</rfkis_ogrn>
+	<rfkis_inn>8601003240</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>12187742</rfkis_okpo>
+	<rfkis_name>Министерство физической культуры и спорта Рязанской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1136234000440</rfkis_ogrn>
+	<rfkis_inn>6234111927</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00119422</rfkis_okpo>
+	<rfkis_name>Министерство спорта Республики Крым</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1149102002829</rfkis_ogrn>
+	<rfkis_inn>9102002405</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>73986575</rfkis_okpo>
+	<rfkis_name>Министерство спорта Сахалинской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1036500603347</rfkis_ogrn>
+	<rfkis_inn>6501121832</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>60246753</rfkis_okpo>
+	<rfkis_name>Министерство спорта Самарской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1096316002254</rfkis_ogrn>
+	<rfkis_inn>6316142531</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00098163</rfkis_okpo>
+	<rfkis_name>Комитет по физической культуре и спорту Ленинградской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1027809258542</rfkis_ogrn>
+	<rfkis_inn>7825706093</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>70326269</rfkis_okpo>
+	<rfkis_name>Министерство молодежной политики и спорта Саратовской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1076455001699</rfkis_ogrn>
+	<rfkis_inn>6452930299</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00074292</rfkis_okpo>
+	<rfkis_name>Министерство по физической культуре и спорту Ростовской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1026103277342</rfkis_ogrn>
+	<rfkis_inn>6164048860</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>56040425</rfkis_okpo>
+	<rfkis_name>Комитет по физической культуре и спорту Республики Алтай</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1020400751216</rfkis_ogrn>
+	<rfkis_inn>0411005397</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>72617232</rfkis_okpo>
+	<rfkis_name>Комитет Республики Адыгея по физической культуре и спорту</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1040100541469</rfkis_ogrn>
+	<rfkis_inn>0105043072</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00089170</rfkis_okpo>
+	<rfkis_name>Департамент спорта Ивановской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1023700559739</rfkis_ogrn>
+	<rfkis_inn>3728013018</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00099234</rfkis_okpo>
+	<rfkis_name>Министерство спорта Иркутской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1023801021573</rfkis_ogrn>
+	<rfkis_inn>3808021568</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>48834252</rfkis_okpo>
+	<rfkis_name>Министерство культуры, спорта и туризма военно-гражданской администрации Запорожской области </rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1229000024000</rfkis_ogrn>
+	<rfkis_inn>9001014228</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>32123454</rfkis_okpo>
+	<rfkis_name>Департамент по физической культуре и спорту Ямало-Ненецкого автономного округа</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1058900025370</rfkis_ogrn>
+	<rfkis_inn>8901017460</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00155990</rfkis_okpo>
+	<rfkis_name>Управление по делам молодежи и спорта города Севастополя</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1149204006280</rfkis_ogrn>
+	<rfkis_inn>9204003327</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>57226209</rfkis_okpo>
+	<rfkis_name>Министерство спорта Республики Татарстан</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1021602841215</rfkis_ogrn>
+	<rfkis_inn>1655043416</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>62070956</rfkis_okpo>
+	<rfkis_name>Министерство по делам молодежи и спорту Архангельской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1092901011334</rfkis_ogrn>
+	<rfkis_inn>2901198751</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00049839</rfkis_okpo>
+	<rfkis_name>Министерство спорта Республики Хакасия</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1021900525085</rfkis_ogrn>
+	<rfkis_inn>1901021897</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00090948</rfkis_okpo>
+	<rfkis_name>Департамент образования, культуры и спорта Ненецкого Автономного округа</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1038302271776</rfkis_ogrn>
+	<rfkis_inn>8300130069</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>02927184</rfkis_okpo>
+	<rfkis_name>Управление физической культуры и спорта Белгородской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1023101667500</rfkis_ogrn>
+	<rfkis_inn>3123141039</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00098967</rfkis_okpo>
+	<rfkis_name>Управление физической культуры и спорта Брянской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1033265003309</rfkis_ogrn>
+	<rfkis_inn>3234016192</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00096023</rfkis_okpo>
+	<rfkis_name>Управление физической культуры и спорта Липецкой области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1024840858734</rfkis_ogrn>
+	<rfkis_inn>4826011349</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>11225073</rfkis_okpo>
+	<rfkis_name>Департамент физической культуры и спорта Магаданской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1154910000057</rfkis_ogrn>
+	<rfkis_inn>4909120951</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00074926</rfkis_okpo>
+	<rfkis_name>Министерство спорта Нижегородской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1105260014640</rfkis_ogrn>
+	<rfkis_inn>5260290572</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00095756</rfkis_okpo>
+	<rfkis_name>Комитет по физической культуре и спорту Костромской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1124401005772</rfkis_ogrn>
+	<rfkis_inn>4401014470</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00097666</rfkis_okpo>
+	<rfkis_name>Департамент по физической культуре, спорту и молодежной политике Ярославской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1027600690897</rfkis_ogrn>
+	<rfkis_inn>7604010540</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00074257</rfkis_okpo>
+	<rfkis_name>Министерство физической культуры и спорта Забайкальского края</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1087536008735</rfkis_ogrn>
+	<rfkis_inn>7536095871</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>98391110</rfkis_okpo>
+	<rfkis_name>Министерство молодежи, спорта и туризма Донецкой Народной Республики</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1229300082770</rfkis_ogrn>
+	<rfkis_inn>9303013929</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>50823534</rfkis_okpo>
+	<rfkis_name>Министерство молодежной политики и спорта Херсонской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1229500008264</rfkis_ogrn>
+	<rfkis_inn>9500008251</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00095503</rfkis_okpo>
+	<rfkis_name>Комитет по физической культуре и спорту Тверской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1026900561038</rfkis_ogrn>
+	<rfkis_inn>6905004972</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>71084839</rfkis_okpo>
+	<rfkis_name>Министерство по делам молодежи, физической культуры и спорта Омской области</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1045507007820</rfkis_ogrn>
+	<rfkis_inn>5504090235</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00099352</rfkis_okpo>
+	<rfkis_name>Министерство физической культуры и спорта Краснодарского края</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1022301617030</rfkis_ogrn>
+	<rfkis_inn>2310032408</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00089626</rfkis_okpo>
+	<rfkis_name>Министерство физической культуры и спорта Приморского края</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1072538000127</rfkis_ogrn>
+	<rfkis_inn>2538014734</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>00088064</rfkis_okpo>
+	<rfkis_name>Министерство физической культуры и спорта Ставропольского края</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1122651011119</rfkis_ogrn>
+	<rfkis_inn>2636803695</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rfkis_okpo>90231915</rfkis_okpo>
+	<rfkis_name>Министерство физической культуры и спорта Хабаровского края</rfkis_name>
+	<rfkis_rf_reg></rfkis_rf_reg>
+	<rfkis_ogrn>1142721001598</rfkis_ogrn>
+	<rfkis_inn>2721207527</rfkis_inn>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>

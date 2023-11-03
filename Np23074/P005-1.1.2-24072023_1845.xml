@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="P005" version="1.1.2" date="24.07.2023" />
+
+<records>
+
+<record>
+	<repres_type_id>0005</repres_type_id>
+	<repres_type_name>Уполномоченный представитель</repres_type_name>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<repres_type_id>0004</repres_type_id>
+	<repres_type_name>Усыновитель</repres_type_name>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<repres_type_id>0003</repres_type_id>
+	<repres_type_name>Попечитель</repres_type_name>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<repres_type_id>0001</repres_type_id>
+	<repres_type_name>Родитель</repres_type_name>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<repres_type_id>0002</repres_type_id>
+	<repres_type_name>Опекун</repres_type_name>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>

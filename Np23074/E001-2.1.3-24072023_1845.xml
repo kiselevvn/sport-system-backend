@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="E001" version="2.1.3" date="24.07.2023" />
+
+<records>
+
+<record>
+	<spt_lvl_id>0001</spt_lvl_id>
+	<spt_lvl_name>Признанные</spt_lvl_name>
+	<date_beg>02.02.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<spt_lvl_id>0002</spt_lvl_id>
+	<spt_lvl_name>Общероссийские</spt_lvl_name>
+	<date_beg>02.02.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<spt_lvl_id>0003</spt_lvl_id>
+	<spt_lvl_name>Национальные</spt_lvl_name>
+	<date_beg>02.02.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<spt_lvl_id>0004</spt_lvl_id>
+	<spt_lvl_name>Прикладные</spt_lvl_name>
+	<date_beg>02.02.2009</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>

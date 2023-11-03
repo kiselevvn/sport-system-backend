@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="S001" version="1.1.2" date="24.07.2023" />
+
+<records>
+
+<record>
+	<report_type_id>0001</report_type_id>
+	<report_type_name>Первичный</report_type_name>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<report_type_id>0002</report_type_id>
+	<report_type_name>Сводный</report_type_name>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>

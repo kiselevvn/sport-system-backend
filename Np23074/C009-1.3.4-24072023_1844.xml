@@ -1,0 +1,1306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="C009" version="1.3.4" date="24.07.2023" />
+
+<records>
+
+<record>
+	<name_curren>Фунт Святой Елены</name_curren>
+	<id_curren>654</id_curren>
+	<sym_curren>SHP</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Российский рубль</name_curren>
+	<id_curren>643</id_curren>
+	<sym_curren>RUB</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Катарский риал</name_curren>
+	<id_curren>634</id_curren>
+	<sym_curren>QAR</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Денар</name_curren>
+	<id_curren>807</id_curren>
+	<sym_curren>MKD</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Угандийский шиллинг</name_curren>
+	<id_curren>800</id_curren>
+	<sym_curren>UGX</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Тунисский динар</name_curren>
+	<id_curren>788</id_curren>
+	<sym_curren>TND</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Дирхам (ОАЭ)</name_curren>
+	<id_curren>784</id_curren>
+	<sym_curren>AED</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Малайзийский ринггит</name_curren>
+	<id_curren>458</id_curren>
+	<sym_curren>MYR</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Малавийская квача</name_curren>
+	<id_curren>454</id_curren>
+	<sym_curren>MWK</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Единица реальной стоимости</name_curren>
+	<id_curren>970</id_curren>
+	<sym_curren>COU</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Малагасийский ариари</name_curren>
+	<id_curren>969</id_curren>
+	<sym_curren>MGA</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Суринамский доллар</name_curren>
+	<id_curren>968</id_curren>
+	<sym_curren>SRD</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Доллар Тринидада и Тобаго</name_curren>
+	<id_curren>780</id_curren>
+	<sym_curren>TTD</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Тугрик</name_curren>
+	<id_curren>496</id_curren>
+	<sym_curren>MNT</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Мексиканское песо</name_curren>
+	<id_curren>484</id_curren>
+	<sym_curren>MXN</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Норвежская крона</name_curren>
+	<id_curren>578</id_curren>
+	<sym_curren>NOK</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Найра</name_curren>
+	<id_curren>566</id_curren>
+	<sym_curren>NGN</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Новозеландский доллар</name_curren>
+	<id_curren>554</id_curren>
+	<sym_curren>NZD</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Коморский франк</name_curren>
+	<id_curren>174</id_curren>
+	<sym_curren>KMF</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Кувейтский динар</name_curren>
+	<id_curren>414</id_curren>
+	<sym_curren>KWD</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Вона</name_curren>
+	<id_curren>410</id_curren>
+	<sym_curren>KRW</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Кенийский шиллинг</name_curren>
+	<id_curren>404</id_curren>
+	<sym_curren>KES</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Алжирский динар</name_curren>
+	<id_curren>012</id_curren>
+	<sym_curren>DZD</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Лек</name_curren>
+	<id_curren>008</id_curren>
+	<sym_curren>ALL</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Гвинейский франк</name_curren>
+	<id_curren>324</id_curren>
+	<sym_curren>GNF</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Кетсаль</name_curren>
+	<id_curren>320</id_curren>
+	<sym_curren>GTQ</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Гибралтарский фунт</name_curren>
+	<id_curren>292</id_curren>
+	<sym_curren>GIP</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Даласи</name_curren>
+	<id_curren>270</id_curren>
+	<sym_curren>GMD</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Франк Джибути</name_curren>
+	<id_curren>262</id_curren>
+	<sym_curren>DJF</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Доллар Фиджи</name_curren>
+	<id_curren>242</id_curren>
+	<sym_curren>FJD</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Золотая кордоба</name_curren>
+	<id_curren>558</id_curren>
+	<sym_curren>NIO</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Замбийская квача</name_curren>
+	<id_curren>967</id_curren>
+	<sym_curren>ZMW</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Бразильский реал</name_curren>
+	<id_curren>986</id_curren>
+	<sym_curren>BRL</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Кванза</name_curren>
+	<id_curren>973</id_curren>
+	<sym_curren>AOA</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Сомони</name_curren>
+	<id_curren>972</id_curren>
+	<sym_curren>TJS</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Афгани</name_curren>
+	<id_curren>971</id_curren>
+	<sym_curren>AFN</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Паанга</name_curren>
+	<id_curren>776</id_curren>
+	<sym_curren>TOP</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Франк КФА ВЕАС</name_curren>
+	<id_curren>950</id_curren>
+	<sym_curren>XAF</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Турецкая лира</name_curren>
+	<id_curren>949</id_curren>
+	<sym_curren>TRY</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Болгарский лев</name_curren>
+	<id_curren>975</id_curren>
+	<sym_curren>BGN</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Румынский лей</name_curren>
+	<id_curren>946</id_curren>
+	<sym_curren>RON</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Азербайджанский манат</name_curren>
+	<id_curren>944</id_curren>
+	<sym_curren>AZN</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Мозамбикский метикал</name_curren>
+	<id_curren>943</id_curren>
+	<sym_curren>MZN</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Сербский динар</name_curren>
+	<id_curren>941</id_curren>
+	<sym_curren>RSD</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Уругвайское песо в индексированных единицах</name_curren>
+	<id_curren>940</id_curren>
+	<sym_curren>UYI</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Ганский седи</name_curren>
+	<id_curren>936</id_curren>
+	<sym_curren>GHS</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Иранский риал</name_curren>
+	<id_curren>364</id_curren>
+	<sym_curren>IRR</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Сомалийский шиллинг</name_curren>
+	<id_curren>706</id_curren>
+	<sym_curren>SOS</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Сингапурский доллар</name_curren>
+	<id_curren>702</id_curren>
+	<sym_curren>SGD</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Датская крона</name_curren>
+	<id_curren>208</id_curren>
+	<sym_curren>DKK</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Узбекский сум</name_curren>
+	<id_curren>860</id_curren>
+	<sym_curren>UZS</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Доллар</name_curren>
+	<id_curren>091</id_curren>
+	<sym_curren>АБ</sym_curren>
+	<date_beg>04.06.2023</date_beg>
+	<date_end>04.06.2023</date_end>
+</record>
+
+<record>
+	<name_curren>Филиппинское песо</name_curren>
+	<id_curren>608</id_curren>
+	<sym_curren>PHP</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Соль</name_curren>
+	<id_curren>604</id_curren>
+	<sym_curren>PEN</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Гуарани</name_curren>
+	<id_curren>600</id_curren>
+	<sym_curren>PYG</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Кина</name_curren>
+	<id_curren>598</id_curren>
+	<sym_curren>PGK</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Сейшельская рупия</name_curren>
+	<id_curren>690</id_curren>
+	<sym_curren>SCR</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Маврикийская рупия</name_curren>
+	<id_curren>480</id_curren>
+	<sym_curren>MUR</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Новый туркменский манат</name_curren>
+	<id_curren>934</id_curren>
+	<sym_curren>TMT</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Иена</name_curren>
+	<id_curren>392</id_curren>
+	<sym_curren>JPY</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Исландская крона</name_curren>
+	<id_curren>352</id_curren>
+	<sym_curren>ISK</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Форинт</name_curren>
+	<id_curren>348</id_curren>
+	<sym_curren>HUF</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Гонконгский доллар</name_curren>
+	<id_curren>344</id_curren>
+	<sym_curren>HKD</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Лемпира</name_curren>
+	<id_curren>340</id_curren>
+	<sym_curren>HNL</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Гурд</name_curren>
+	<id_curren>332</id_curren>
+	<sym_curren>HTG</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Донг</name_curren>
+	<id_curren>704</id_curren>
+	<sym_curren>VND</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Доллар Зимбабве</name_curren>
+	<id_curren>932</id_curren>
+	<sym_curren>ZWL</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Конвертируемое песо</name_curren>
+	<id_curren>931</id_curren>
+	<sym_curren>CUC</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Новый тайваньский доллар</name_curren>
+	<id_curren>901</id_curren>
+	<sym_curren>TWD</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Йеменский риал</name_curren>
+	<id_curren>886</id_curren>
+	<sym_curren>YER</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Тала</name_curren>
+	<id_curren>882</id_curren>
+	<sym_curren>WST</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Уругвайское песо</name_curren>
+	<id_curren>858</id_curren>
+	<sym_curren>UYU</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Доллар США</name_curren>
+	<id_curren>840</id_curren>
+	<sym_curren>USD</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Танзанийский шиллинг</name_curren>
+	<id_curren>834</id_curren>
+	<sym_curren>TZS</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Фунт стерлингов</name_curren>
+	<id_curren>826</id_curren>
+	<sym_curren>GBP</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Египетский фунт</name_curren>
+	<id_curren>818</id_curren>
+	<sym_curren>EGP</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Ямайский доллар</name_curren>
+	<id_curren>388</id_curren>
+	<sym_curren>JMD</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Леоне</name_curren>
+	<id_curren>694</id_curren>
+	<sym_curren>SLL</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Саудовский риял</name_curren>
+	<id_curren>682</id_curren>
+	<sym_curren>SAR</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Така</name_curren>
+	<id_curren>050</id_curren>
+	<sym_curren>BDT</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Бахрейнский динар</name_curren>
+	<id_curren>048</id_curren>
+	<sym_curren>BHD</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Франк Руанды</name_curren>
+	<id_curren>646</id_curren>
+	<sym_curren>RWF</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Непальская рупия</name_curren>
+	<id_curren>524</id_curren>
+	<sym_curren>NPR</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Доллар Намибии</name_curren>
+	<id_curren>516</id_curren>
+	<sym_curren>NAD</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Оманский риал</name_curren>
+	<id_curren>512</id_curren>
+	<sym_curren>OMR</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Марокканский дирхам</name_curren>
+	<id_curren>504</id_curren>
+	<sym_curren>MAD</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Молдавский лей</name_curren>
+	<id_curren>498</id_curren>
+	<sym_curren>MDL</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Вату</name_curren>
+	<id_curren>548</id_curren>
+	<sym_curren>VUV</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Арубанский флорин</name_curren>
+	<id_curren>533</id_curren>
+	<sym_curren>AWG</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Суданский фунт</name_curren>
+	<id_curren>938</id_curren>
+	<sym_curren>SDG</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Боливар Соберано</name_curren>
+	<id_curren>926</id_curren>
+	<sym_curren>VED</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Боливар Соберано</name_curren>
+	<id_curren>928</id_curren>
+	<sym_curren>VES</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Добра</name_curren>
+	<id_curren>930</id_curren>
+	<sym_curren>STN</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Белорусский рубль</name_curren>
+	<id_curren>933</id_curren>
+	<sym_curren>BYN</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Бат</name_curren>
+	<id_curren>764</id_curren>
+	<sym_curren>THB</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>СДР (специальные права заимствования)</name_curren>
+	<id_curren>960</id_curren>
+	<sym_curren>XDR</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Франк КФП</name_curren>
+	<id_curren>953</id_curren>
+	<sym_curren>XPF</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Франк КФА ВСЕАО</name_curren>
+	<id_curren>952</id_curren>
+	<sym_curren>XOF</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Восточно-карибский доллар</name_curren>
+	<id_curren>951</id_curren>
+	<sym_curren>XCD</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Рупия</name_curren>
+	<id_curren>360</id_curren>
+	<sym_curren>IDR</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Индийская рупия</name_curren>
+	<id_curren>356</id_curren>
+	<sym_curren>INR</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Доминиканское песо</name_curren>
+	<id_curren>214</id_curren>
+	<sym_curren>DOP</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Чешская крона</name_curren>
+	<id_curren>203</id_curren>
+	<sym_curren>CZK</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Кубинское песо</name_curren>
+	<id_curren>192</id_curren>
+	<sym_curren>CUP</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Куна</name_curren>
+	<id_curren>191</id_curren>
+	<sym_curren>HRK</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Коста-риканский колон</name_curren>
+	<id_curren>188</id_curren>
+	<sym_curren>CRC</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Северокорейская вона</name_curren>
+	<id_curren>408</id_curren>
+	<sym_curren>KPW</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Иорданский динар</name_curren>
+	<id_curren>400</id_curren>
+	<sym_curren>JOD</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Тенге</name_curren>
+	<id_curren>398</id_curren>
+	<sym_curren>KZT</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Колумбийское песо</name_curren>
+	<id_curren>170</id_curren>
+	<sym_curren>COP</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Юань</name_curren>
+	<id_curren>156</id_curren>
+	<sym_curren>CNY</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Чилийское песо</name_curren>
+	<id_curren>152</id_curren>
+	<sym_curren>CLP</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Шри-ланкийская рупия</name_curren>
+	<id_curren>144</id_curren>
+	<sym_curren>LKR</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Доллар Островов Кайман</name_curren>
+	<id_curren>136</id_curren>
+	<sym_curren>KYD</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Эскудо Кабо-Верде</name_curren>
+	<id_curren>132</id_curren>
+	<sym_curren>CVE</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Канадский доллар</name_curren>
+	<id_curren>124</id_curren>
+	<sym_curren>CAD</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Риель</name_curren>
+	<id_curren>116</id_curren>
+	<sym_curren>KHR</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Бурундийский франк</name_curren>
+	<id_curren>108</id_curren>
+	<sym_curren>BIF</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Кьят</name_curren>
+	<id_curren>104</id_curren>
+	<sym_curren>MMK</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Брунейский доллар</name_curren>
+	<id_curren>096</id_curren>
+	<sym_curren>BND</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Доллар Соломоновых Островов</name_curren>
+	<id_curren>090</id_curren>
+	<sym_curren>SBD</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Белизский доллар</name_curren>
+	<id_curren>084</id_curren>
+	<sym_curren>BZD</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Пула</name_curren>
+	<id_curren>072</id_curren>
+	<sym_curren>BWP</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Боливиано</name_curren>
+	<id_curren>068</id_curren>
+	<sym_curren>BOB</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Нгултрум</name_curren>
+	<id_curren>064</id_curren>
+	<sym_curren>BTN</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Бермудский доллар</name_curren>
+	<id_curren>060</id_curren>
+	<sym_curren>BMD</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Барбадосский доллар</name_curren>
+	<id_curren>052</id_curren>
+	<sym_curren>BBD</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Армянский драм</name_curren>
+	<id_curren>051</id_curren>
+	<sym_curren>AMD</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Багамский доллар</name_curren>
+	<id_curren>044</id_curren>
+	<sym_curren>BSD</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Аргентинское песо</name_curren>
+	<id_curren>032</id_curren>
+	<sym_curren>ARS</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Злотый</name_curren>
+	<id_curren>985</id_curren>
+	<sym_curren>PLN</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Лари</name_curren>
+	<id_curren>981</id_curren>
+	<sym_curren>GEL</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Гривна</name_curren>
+	<id_curren>980</id_curren>
+	<sym_curren>UAH</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Евро</name_curren>
+	<id_curren>978</id_curren>
+	<sym_curren>EUR</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Конвертируемая марка</name_curren>
+	<id_curren>977</id_curren>
+	<sym_curren>ВАМ</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Конголезский франк</name_curren>
+	<id_curren>976</id_curren>
+	<sym_curren>CDF</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Новый израильский шекель</name_curren>
+	<id_curren>376</id_curren>
+	<sym_curren>ILS</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Иракский динар</name_curren>
+	<id_curren>368</id_curren>
+	<sym_curren>IQD</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Бальбоа</name_curren>
+	<id_curren>590</id_curren>
+	<sym_curren>PAB</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Пакистанская рупия</name_curren>
+	<id_curren>586</id_curren>
+	<sym_curren>PKR</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Нидерландский антильский гульден</name_curren>
+	<id_curren>532</id_curren>
+	<sym_curren>ANG</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Угия</name_curren>
+	<id_curren>929</id_curren>
+	<sym_curren>MRU</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Руфия</name_curren>
+	<id_curren>462</id_curren>
+	<sym_curren>MVR</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Лаосский кип</name_curren>
+	<id_curren>418</id_curren>
+	<sym_curren>LAK</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Сом</name_curren>
+	<id_curren>417</id_curren>
+	<sym_curren>KGS</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Патака</name_curren>
+	<id_curren>446</id_curren>
+	<sym_curren>MOP</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Южносуданский фунт</name_curren>
+	<id_curren>728</id_curren>
+	<sym_curren>SSP</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Ливийский динар</name_curren>
+	<id_curren>434</id_curren>
+	<sym_curren>LYD</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Либерийский доллар</name_curren>
+	<id_curren>430</id_curren>
+	<sym_curren>LRD</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Лоти</name_curren>
+	<id_curren>426</id_curren>
+	<sym_curren>LSL</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Ливанский фунт</name_curren>
+	<id_curren>422</id_curren>
+	<sym_curren>LBP</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Австралийский доллар</name_curren>
+	<id_curren>036</id_curren>
+	<sym_curren>AUD</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Сирийский фунт</name_curren>
+	<id_curren>760</id_curren>
+	<sym_curren>SYP</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Швейцарский франк</name_curren>
+	<id_curren>756</id_curren>
+	<sym_curren>CHF</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Шведская крона</name_curren>
+	<id_curren>752</id_curren>
+	<sym_curren>SEK</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Лилангени</name_curren>
+	<id_curren>748</id_curren>
+	<sym_curren>SZL</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Гайанский доллар</name_curren>
+	<id_curren>328</id_curren>
+	<sym_curren>GYD</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Фунт Фолклендских островов</name_curren>
+	<id_curren>238</id_curren>
+	<sym_curren>FKP</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Накфа</name_curren>
+	<id_curren>232</id_curren>
+	<sym_curren>ERN</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Эфиопский быр</name_curren>
+	<id_curren>230</id_curren>
+	<sym_curren>ETB</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Сальвадорский колон</name_curren>
+	<id_curren>222</id_curren>
+	<sym_curren>SVC</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<name_curren>Рэнд</name_curren>
+	<id_curren>710</id_curren>
+	<sym_curren>ZAR</sym_curren>
+	<date_beg>26.12.1994</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>

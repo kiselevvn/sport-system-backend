@@ -10,9 +10,15 @@ class ImportFromFile(DateCreatedMixin):
     Импорт данных из файла
     """
 
+    class ImportTypes(models.IntegerChoices):
+        """
+        Тип сущности
+        """
+
     class ImportStatus(models.IntegerChoices):
-        ERROR = 0, _("Ошибка импорта")
-        SUCCESS = 1, _("Успешный импорт")
+        # ERROR = 0, _("")
+        ERROR = 1, _("Ошибка импорта")
+        SUCCESS = 2, _("Успешный импорт")
 
     user = models.ForeignKey(
         get_user_model(),

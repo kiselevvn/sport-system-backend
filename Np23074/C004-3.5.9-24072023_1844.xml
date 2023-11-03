@@ -1,0 +1,1690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="C004" version="3.5.9" date="24.07.2023" />
+
+<records>
+
+<record>
+	<event_type_id>0043</event_type_id>
+	<event_type_name>Чемпионат федерального округа без ограничения верхней границы возраста</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0024</event_type_id>
+	<event_type_name>Учебно-тренировочное мероприятие</event_type_name>
+	<date_beg>20.02.2017</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<event_type_id>0001</event_type_id>
+	<event_type_name>Олимпийские игры</event_type_name>
+	<date_beg>20.02.2017</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<event_type_id>0007</event_type_id>
+	<event_type_name>Европейские игры</event_type_name>
+	<date_beg>20.02.2017</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<event_type_id>0009</event_type_id>
+	<event_type_name>Всемирная универсиада</event_type_name>
+	<date_beg>20.02.2017</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<event_type_id>0012</event_type_id>
+	<event_type_name>Кубок мира</event_type_name>
+	<date_beg>20.02.2017</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<event_type_id>0027</event_type_id>
+	<event_type_name>Кубок мира и международные соревнования</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0138</event_type_id>
+	<event_type_name>Чемпионат дальневосточного федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0021</event_type_id>
+	<event_type_name>Зимние юношеские олимпийские игры</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0022</event_type_id>
+	<event_type_name>Игры олимпиады</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0024</event_type_id>
+	<event_type_name>Кубок Европы и международные соревнования</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0005</event_type_id>
+	<event_type_name>Всемирная олимпиада (шахматы)</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0006</event_type_id>
+	<event_type_name>Всемирная олимпиада (шашки)</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0007</event_type_id>
+	<event_type_name>Всемирные пляжные игры</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0023</event_type_id>
+	<event_type_name>Межрегиональные соревнования</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0078</event_type_id>
+	<event_type_name>Первенство центрального федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0079</event_type_id>
+	<event_type_name>Первенство центрального федерального округа и южного федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0082</event_type_id>
+	<event_type_name>Всемирные спортивные игры военных</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0083</event_type_id>
+	<event_type_name>Спартакиада молодежи России</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0085</event_type_id>
+	<event_type_name>Спартакиада среди сильнейших спортсменов</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0086</event_type_id>
+	<event_type_name>Спартакиада спортивных школ</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0076</event_type_id>
+	<event_type_name>Первенство уральского федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0074</event_type_id>
+	<event_type_name>Первенство сибирского федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0039</event_type_id>
+	<event_type_name>Первенство дальневосточного федерального округа, северо-западного федерального округа и центрального федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0040</event_type_id>
+	<event_type_name>Первенство дальневосточного федерального округа, сибирского федерального округа и уральского федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0147</event_type_id>
+	<event_type_name>Чемпионат Европы и финал Кубка мира</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0146</event_type_id>
+	<event_type_name>Чемпионат Европы и международные соревнования</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0148</event_type_id>
+	<event_type_name>Чемпионат Европы и этап Кубка мира</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0150</event_type_id>
+	<event_type_name>Чемпионат мира и Кубок Европы</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0151</event_type_id>
+	<event_type_name>Чемпионат мира и Кубок мира</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0152</event_type_id>
+	<event_type_name>Чемпионат мира, Кубок мира и Европы</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0010</event_type_id>
+	<event_type_name>Чемпионат мира</event_type_name>
+	<date_beg>20.02.2017</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<event_type_id>0124</event_type_id>
+	<event_type_name>ТМ, чемпионат мира, чемпионат Европы, Кубок мира, Кубок Европы</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0130</event_type_id>
+	<event_type_name>ТМ, этап Кубка мира, международные соревнования</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0140</event_type_id>
+	<event_type_name>Чемпионат дальневосточного федерального округа, сибирского федерального округа и уральского федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0141</event_type_id>
+	<event_type_name>Чемпионат дальневосточного федерального округа и сибирского федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0189</event_type_id>
+	<event_type_name>Этап чемпионата мира</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0177</event_type_id>
+	<event_type_name>Чемпионат сибирского федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0021</event_type_id>
+	<event_type_name>Всероссийские соревнования</event_type_name>
+	<date_beg>20.02.2017</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<event_type_id>0067</event_type_id>
+	<event_type_name>Первенство северо-западного федерального округа, центрального федерального округа и южного федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0004</event_type_id>
+	<event_type_name>Юношеские Олимпийские игры</event_type_name>
+	<date_beg>20.02.2017</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<event_type_id>0008</event_type_id>
+	<event_type_name>Европейский юношеский Олимпийский фестиваль</event_type_name>
+	<date_beg>20.02.2017</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<event_type_id>0024</event_type_id>
+	<event_type_name>Всероссийская Спартакиада между субъектами Российской Федерации по летним и зимним видам спорта среди сильнейших спортсменов без ограничения верхней границы возраста</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0026</event_type_id>
+	<event_type_name>Другие всероссийские соревнования среди лиц без ограничения верхней границы возраста</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0027</event_type_id>
+	<event_type_name>Чемпионат федерального органа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0029</event_type_id>
+	<event_type_name>Спартакиада федерального органа среди лиц без ограничения верхней границы возраста</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0030</event_type_id>
+	<event_type_name>Спартакиада Вооруженных Сил Российской Федерации среди лиц без ограничения верхней границы возраста</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0057</event_type_id>
+	<event_type_name>Другие соревнования муниципального образования среди лиц с ограничением верхней границы возраста</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0058</event_type_id>
+	<event_type_name>Международные комплексные спортивные соревнования</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0059</event_type_id>
+	<event_type_name>Международные спортивные соревнования</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0060</event_type_id>
+	<event_type_name>Всероссийские комплексные спортивные соревнования</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0026</event_type_id>
+	<event_type_name>Кубок мира и Европы</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0066</event_type_id>
+	<event_type_name>Первенство северо-западного федерального округа, сибирского федерального округа и уральского федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0068</event_type_id>
+	<event_type_name>Первенство северо-западного федерального округа и сибирского федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0071</event_type_id>
+	<event_type_name>Первенство северо-кавказского федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0088</event_type_id>
+	<event_type_name>Тренировочное мероприятие</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0100</event_type_id>
+	<event_type_name>ТМ, международные соревнования, юношеские олимпийские игры</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0041</event_type_id>
+	<event_type_name>Спартакиада образовательных организаций, находящихся в ведении такого федерального органа, среди лиц с ограничением верхней границы возраста</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0090</event_type_id>
+	<event_type_name>ТМ и гран при</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0093</event_type_id>
+	<event_type_name>ТМ и Кубок мира</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0108</event_type_id>
+	<event_type_name>ТМ, Первенство мира, Кубок мира, Кубок Европы</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0155</event_type_id>
+	<event_type_name>Чемпионат мира и Европы</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0065</event_type_id>
+	<event_type_name>Спортивные соревнования по военно-прикладным и служебно-прикладным видам спорта</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0016</event_type_id>
+	<event_type_name>Двусторонняя встреча</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0041</event_type_id>
+	<event_type_name>Первенство дальневосточного федерального округа, центрального федерального округа и южного федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0031</event_type_id>
+	<event_type_name>Матч сборных команд</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0015</event_type_id>
+	<event_type_name>Гран-при, международные соревнования</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0032</event_type_id>
+	<event_type_name>Молодежные игры</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0055</event_type_id>
+	<event_type_name>Первенство приволжского федерального округа, северо-западного федерального округа и центрального федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0014</event_type_id>
+	<event_type_name>Гран-при, Кубок мира</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0084</event_type_id>
+	<event_type_name>Спартакиада России</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0045</event_type_id>
+	<event_type_name>Другие межрегиональные соревнования, в том числе являющиеся отборочными к Всероссийской Спартакиаде между субъектами Российской Федерации по летним и зимним видам спорта среди сильнейших спортсменов без ограничения верхней границы возраста</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0061</event_type_id>
+	<event_type_name>Всероссийские спортивные соревнования</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0066</event_type_id>
+	<event_type_name>Международные спортивные соревнования по военно-прикладным и служебно-прикладным видам спорта</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0025</event_type_id>
+	<event_type_name>Кубок России</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0028</event_type_id>
+	<event_type_name>Чемпионат Вооруженных Сил Российской Федерации</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0062</event_type_id>
+	<event_type_name>Тренировочные мероприятия и международные спортивные соревнования</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0063</event_type_id>
+	<event_type_name>Межрегиональные спортивные соревнования</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0064</event_type_id>
+	<event_type_name>Другие международные спортивные соревнования</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0035</event_type_id>
+	<event_type_name>Международная тренировочная неделя</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0036</event_type_id>
+	<event_type_name>Первенство дальневосточного федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0037</event_type_id>
+	<event_type_name>Первенство дальневосточного федерального округа, приволжского федерального округа, сибирского федерального округа и уральского федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0038</event_type_id>
+	<event_type_name>Первенство дальневосточного федерального округа, приволжского федерального округа и северо-западного федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0002</event_type_id>
+	<event_type_name>Паралимпийские игры</event_type_name>
+	<date_beg>20.02.2017</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<event_type_id>0011</event_type_id>
+	<event_type_name>Первенство мира</event_type_name>
+	<date_beg>20.02.2017</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<event_type_id>0014</event_type_id>
+	<event_type_name>Первенство Европы</event_type_name>
+	<date_beg>20.02.2017</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<event_type_id>0045</event_type_id>
+	<event_type_name>Первенство Европы, международные соревнования</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0057</event_type_id>
+	<event_type_name>Первенство приволжского федерального округа, сибирского федерального округа и уральского федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0058</event_type_id>
+	<event_type_name>Первенство приволжского федерального округа и сибирского федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0059</event_type_id>
+	<event_type_name>Первенство приволжского федерального округа и уральского федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0060</event_type_id>
+	<event_type_name>Первенство приволжского федерального округа и центрального федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0096</event_type_id>
+	<event_type_name>ТМ, Кубок мира, Кубок Европы, международные соревновнания</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0097</event_type_id>
+	<event_type_name>ТМ, Кубок мира, международные соревнования</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0098</event_type_id>
+	<event_type_name>ТМ и международные соревнования</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0103</event_type_id>
+	<event_type_name>ТМ, Первенство Европы, финал Кубка мира</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0104</event_type_id>
+	<event_type_name>ТМ и Первенство мира</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0105</event_type_id>
+	<event_type_name>ТМ, Первенство мира, Кубок Европы</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0013</event_type_id>
+	<event_type_name>Чемпионат Европы</event_type_name>
+	<date_beg>20.02.2017</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<event_type_id>0019</event_type_id>
+	<event_type_name>Чемпионат России</event_type_name>
+	<date_beg>20.02.2017</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<event_type_id>0015</event_type_id>
+	<event_type_name>Кубок Европы</event_type_name>
+	<date_beg>20.02.2017</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<event_type_id>0002</event_type_id>
+	<event_type_name>Всемирная гимназиада ISF</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0013</event_type_id>
+	<event_type_name>Гран-при</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0003</event_type_id>
+	<event_type_name>Сурдлимпийские игры</event_type_name>
+	<date_beg>20.02.2017</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<event_type_id>0050</event_type_id>
+	<event_type_name>Первенство мира и международные соревнования</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0051</event_type_id>
+	<event_type_name>Первенство мира и Европы</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0022</event_type_id>
+	<event_type_name>Первенство России</event_type_name>
+	<date_beg>20.02.2017</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<event_type_id>0129</event_type_id>
+	<event_type_name>ТМ и этап Кубка мира</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0028</event_type_id>
+	<event_type_name>Кубок мира, Первенство мира, чемпионат и Кубок Европы</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0018</event_type_id>
+	<event_type_name>Европейский юношеский олимпийский фестиваль</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0020</event_type_id>
+	<event_type_name>Заключительный этап Кубка мира</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0006</event_type_id>
+	<event_type_name>Всемирные воздушные игры</event_type_name>
+	<date_beg>20.02.2017</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<event_type_id>0020</event_type_id>
+	<event_type_name>Кубок России</event_type_name>
+	<date_beg>20.02.2017</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<event_type_id>0069</event_type_id>
+	<event_type_name>Первенство северо-западного федерального округа и уральского федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0005</event_type_id>
+	<event_type_name>Всемирные игры</event_type_name>
+	<date_beg>20.02.2017</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<event_type_id>0029</event_type_id>
+	<event_type_name>Комплексные соревнования по водным видам спорта "игры дружбы"</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0070</event_type_id>
+	<event_type_name>Первенство северо-западного федерального округа и центрального федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0072</event_type_id>
+	<event_type_name>Первенство северо-кавказского федерального округа, центрального федерального округа и южного федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0073</event_type_id>
+	<event_type_name>Первенство северо-кавказского федерального округа и южного федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0132</event_type_id>
+	<event_type_name>ТМ и юношеские олимпийские игры</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0133</event_type_id>
+	<event_type_name>ТМ, Первенство Европы, международные соревнования</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0134</event_type_id>
+	<event_type_name>Универсиада России</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0137</event_type_id>
+	<event_type_name>Финал Кубка мира и международные соревнования</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0135</event_type_id>
+	<event_type_name>Финал Кубка Европы</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0136</event_type_id>
+	<event_type_name>Финал Кубка мира</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0009</event_type_id>
+	<event_type_name>Всемирные студенческие игры</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0018</event_type_id>
+	<event_type_name>Первенство федерального округа</event_type_name>
+	<date_beg>20.02.2017</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<event_type_id>0075</event_type_id>
+	<event_type_name>Первенство сибирского федерального округа и уральского федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0123</event_type_id>
+	<event_type_name>ТМ, чемпионат мира, Европы, Кубок мира</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0164</event_type_id>
+	<event_type_name>Чемпионат приволжского федерального округа, северо-западного федерального округа и центрального федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0012</event_type_id>
+	<event_type_name>Всероссийский фестиваль национальных и неолимпийских видов спорта</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0161</event_type_id>
+	<event_type_name>Чемпионат приволжского федерального округа, северо-западного федерального округа, сибирского федерального округа, уральского федерального округа и центрального федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0154</event_type_id>
+	<event_type_name>Чемпионат мира и международные соревнования</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0160</event_type_id>
+	<event_type_name>Чемпионат приволжского федерального округа, северо-западного федерального округа, северо-кавказского федерального округа, центрального федерального округа и южного федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0156</event_type_id>
+	<event_type_name>Чемпионат мира, чемпионат и Кубок Европы</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0162</event_type_id>
+	<event_type_name>Чемпионат приволжского федерального округа, северо-западного федерального округа, уральского федерального округа и центрального федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0157</event_type_id>
+	<event_type_name>Чемпионат мира и Европы, Кубок мира</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0158</event_type_id>
+	<event_type_name>Чемпионат мира и этап Кубка мира</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0159</event_type_id>
+	<event_type_name>Чемпионат приволжского федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0163</event_type_id>
+	<event_type_name>Чемпионат приволжского федерального округа, северо-западного федерального округа, центрального федерального округа и южного федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0143</event_type_id>
+	<event_type_name>Чемпионат и Кубок Европы</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0144</event_type_id>
+	<event_type_name>Чемпионат Европы и Кубок мира</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0145</event_type_id>
+	<event_type_name>Чемпионат Европы, Кубок мира и мс</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0153</event_type_id>
+	<event_type_name>Чемпионат мира, Кубок мира и международные соревнования</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0174</event_type_id>
+	<event_type_name>Чемпионат северо-западного федерального округа и центрального федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0175</event_type_id>
+	<event_type_name>Чемпионат северо-кавказского федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0172</event_type_id>
+	<event_type_name>Чемпионат северо-западного федерального округа, северо-кавказского федерального округа, центрального федерального округа и южного федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0166</event_type_id>
+	<event_type_name>Чемпионат приволжского федерального округа, сибирского федерального округа и уральского федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0167</event_type_id>
+	<event_type_name>Чемпионат приволжского федерального округа, уральского федерального округа и центрального федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0168</event_type_id>
+	<event_type_name>Чемпионат приволжского федерального округа и уральского федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0169</event_type_id>
+	<event_type_name>Чемпионат приволжского федерального округа и центрального федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0171</event_type_id>
+	<event_type_name>Чемпионат северо-западного федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0187</event_type_id>
+	<event_type_name>Этап Кубка мира, этап Кубка Европы</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0188</event_type_id>
+	<event_type_name>Этап чемпионата Европы</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0186</event_type_id>
+	<event_type_name>Этап Кубка мира</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0183</event_type_id>
+	<event_type_name>Чемпионат южного федерального округа, центрального федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0184</event_type_id>
+	<event_type_name>Этап Кубка Европы</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0185</event_type_id>
+	<event_type_name>Этап Кубка Европы и международные соревнования</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0176</event_type_id>
+	<event_type_name>Чемпионат северо-кавказского федерального округа и южного федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0017</event_type_id>
+	<event_type_name>Чемпионат федерального округа</event_type_name>
+	<date_beg>20.02.2017</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<event_type_id>0181</event_type_id>
+	<event_type_name>Чемпионат центрального федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0178</event_type_id>
+	<event_type_name>Чемпионат сибирского федерального округа и уральского федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0182</event_type_id>
+	<event_type_name>Чемпионат южного федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0179</event_type_id>
+	<event_type_name>Чемпионат уральского федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0038</event_type_id>
+	<event_type_name>Первенство федерального органа среди лиц с ограничением верхней границы возраста</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0039</event_type_id>
+	<event_type_name>Первенство Вооруженных Сил Российской Федерации среди лиц с ограничением верхней границы возраста</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0042</event_type_id>
+	<event_type_name>Спартакиада Вооруженных Сил Российской Федерации среди лиц с ограничением верхней границы возраста</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0040</event_type_id>
+	<event_type_name>Спартакиада федерального органа среди лиц с ограничением верхней границы возраста</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0065</event_type_id>
+	<event_type_name>Первенство северо-западного федерального округа, северо-кавказского федерального округа и южного федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0118</event_type_id>
+	<event_type_name>ТМ, чемпионат мира, Кубок Европы</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0139</event_type_id>
+	<event_type_name>Чемпионат дальневосточного федерального округа, приволжского федерального округа, сибирского федерального округа и уральского федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0165</event_type_id>
+	<event_type_name>Чемпионат приволжского федерального округа, северо-кавказского федерального округа, уральского федерального округа и южного федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0173</event_type_id>
+	<event_type_name>Чемпионат северо-западного федерального округа, центрального федерального округа и южного федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0004</event_type_id>
+	<event_type_name>Всемирные игры специальной олимпиады</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0011</event_type_id>
+	<event_type_name>Всероссийская универсиада вузов</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0031</event_type_id>
+	<event_type_name>Кубок федерального органа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0032</event_type_id>
+	<event_type_name>Кубок Вооруженных Сил Российской Федерации</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0033</event_type_id>
+	<event_type_name>Первенство России</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0034</event_type_id>
+	<event_type_name>Всероссийская Спартакиада между субъектами Российской Федерации</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0044</event_type_id>
+	<event_type_name>Чемпионат двух и более федеральных округов без ограничения верхней границы возраста</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0048</event_type_id>
+	<event_type_name>Другие межрегиональные соревнования, в том числе, являющиеся отборочными к Всероссийской Спартакиаде между субъектами Российской Федерации по летним и зимним видам спорта среди лиц с ограничением верхней границы возраста</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0047</event_type_id>
+	<event_type_name>Первенство двух и более федеральных округов с ограничением верхней границы возраста</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0049</event_type_id>
+	<event_type_name>Чемпионат субъекта Российской Федерации</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0050</event_type_id>
+	<event_type_name>Кубок субъекта Российской Федерации</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0055</event_type_id>
+	<event_type_name>Другие соревнования муниципального образования среди лиц без ограничения верхней границы возраста</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0019</event_type_id>
+	<event_type_name>Зимние олимпийские игры</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0035</event_type_id>
+	<event_type_name>Другие всероссийские соревнования среди лиц с ограничением верхней границы возраста</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0056</event_type_id>
+	<event_type_name>Первенство муниципального образования, межмуниципальные соревнования среди лиц с ограничением верхней границы возраста</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0036</event_type_id>
+	<event_type_name>Всероссийская универсиада</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0016</event_type_id>
+	<event_type_name>Международные соревнования</event_type_name>
+	<date_beg>20.02.2017</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<event_type_id>0037</event_type_id>
+	<event_type_name>Всероссийские соревнования среди студентов</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0046</event_type_id>
+	<event_type_name>Первенство федерального округа с ограничением верхней границы возраста</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0051</event_type_id>
+	<event_type_name>Другие соревнования субъекта Российской Федерации среди лиц без ограничения верхней границы возраста</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0052</event_type_id>
+	<event_type_name>Первенство субъекта Российской Федерации</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0053</event_type_id>
+	<event_type_name>Другие соревнования субъекта Российской Федерации среди лиц с ограничением верхней границы возраста</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0054</event_type_id>
+	<event_type_name>Чемпионат муниципального образования, межмуниципальные соревнования среди лиц без ограничения верхней границы возраста</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0068</event_type_id>
+	<event_type_name>Всероссийские комплексные спортивные соревнования </event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0067</event_type_id>
+	<event_type_name>Тренировочные мероприятия</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0069</event_type_id>
+	<event_type_name>Международные комплексные спортивные соревнования</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0023</event_type_id>
+	<event_type_name>Межрегиональные соревнования</event_type_name>
+	<date_beg>20.02.2017</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<event_type_id>0056</event_type_id>
+	<event_type_name>Первенство приволжского федерального округа, северо-кавказского федерального округа, уральского федерального округа и южного федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0062</event_type_id>
+	<event_type_name>Первенство северо-западного федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0063</event_type_id>
+	<event_type_name>Первенство северо-западного федерального округа, северо-кавказского федерального округа, центрального федерального округа и южного федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0064</event_type_id>
+	<event_type_name>Первенство северо-западного федерального округа, северо-кавказского федерального округа и центрального федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0087</event_type_id>
+	<event_type_name>Спартакиада учащихся России</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0089</event_type_id>
+	<event_type_name>ТМ и всемирные игры</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0091</event_type_id>
+	<event_type_name>ТМ и Кубок Европы</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0092</event_type_id>
+	<event_type_name>ТМ, Кубок Европы, международные соревнования</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0094</event_type_id>
+	<event_type_name>ТМ, Кубок мира, гран при</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0095</event_type_id>
+	<event_type_name>ТМ, Кубок мира, Кубок Европы</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0099</event_type_id>
+	<event_type_name>ТМ, международные соревнования, гран при</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0101</event_type_id>
+	<event_type_name>ТМ и Первенство Европы</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0102</event_type_id>
+	<event_type_name>ТМ, Первенство Европы, Кубок мира</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0110</event_type_id>
+	<event_type_name>ТМ, Первенство мира, Первенство Европы</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0112</event_type_id>
+	<event_type_name>ТМ и чемпионат Европы</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0113</event_type_id>
+	<event_type_name>ТМ, чемпионат Европы, Кубок Европы</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0114</event_type_id>
+	<event_type_name>ТМ, чемпионат Европы, Кубок мира</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0115</event_type_id>
+	<event_type_name>ТМ, чемпионат Европы, финал Кубка мира</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0116</event_type_id>
+	<event_type_name>ТМ, чемпионат Европы, этап Кубка мира</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0117</event_type_id>
+	<event_type_name>ТМ и чемпионат мира</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0119</event_type_id>
+	<event_type_name>ТМ, Кубок мира, чемпионат мира</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0042</event_type_id>
+	<event_type_name>Первенство дальневосточного федерального округа и сибирского федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0044</event_type_id>
+	<event_type_name>Первенство Европы и Кубок мира</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0054</event_type_id>
+	<event_type_name>Первенство приволжского федерального округа, северо-западного федерального округа, уральского федерального округа и центрального федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0080</event_type_id>
+	<event_type_name>Первенство южного федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0106</event_type_id>
+	<event_type_name>ТМ, Первенство мира, Кубок Европы и мс</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0107</event_type_id>
+	<event_type_name>ТМ, Первенство мира, Кубок мира</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0109</event_type_id>
+	<event_type_name>ТМ, Первенство мира, международные соревнования</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0111</event_type_id>
+	<event_type_name>ТМ и финал Кубка мира</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0120</event_type_id>
+	<event_type_name>ТМ, чемпионат мира, Кубок мира, Кубок Европы</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0121</event_type_id>
+	<event_type_name>ТМ, чемпионат мира, Кубок мира, международные соревнования</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0122</event_type_id>
+	<event_type_name>ТМ, чемпионат мира, международные соревнования</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0125</event_type_id>
+	<event_type_name>ТМ, чемпионат мира, чемпионат Европы, Кубок мира, международные соревнования</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0126</event_type_id>
+	<event_type_name>ТМ, чемпионат мира, этап Кубка мира</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0127</event_type_id>
+	<event_type_name>ТМ и этап Кубка Европы</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0128</event_type_id>
+	<event_type_name>ТМ, этап Кубка Европы и международные соревнования</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0131</event_type_id>
+	<event_type_name>ТМ, этап Кубка мира, этап Кубка Европы</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0048</event_type_id>
+	<event_type_name>Первенство мира и Кубок Европы</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0049</event_type_id>
+	<event_type_name>Первенство мира и Кубок мира</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0052</event_type_id>
+	<event_type_name>Первенство приволжского федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+<record>
+	<event_type_id>0053</event_type_id>
+	<event_type_name>Первенство приволжского федерального округа, северо-западного федерального округа, сибирского федерального округа, уральского федерального округа и центрального федерального округа</event_type_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end>08.02.2023</date_end>
+</record>
+
+</records>
+
+</packet>

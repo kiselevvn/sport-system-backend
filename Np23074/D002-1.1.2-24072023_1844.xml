@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="D002" version="1.1.2" date="24.07.2023" />
+
+<records>
+
+<record>
+	<section id_section="5" section_name="Ученые звания" />
+	<academic_id>0002</academic_id>
+	<academic_name>Профессор</academic_name>
+	<date_beg>24.10.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<section id_section="5" section_name="Ученые звания" />
+	<academic_id>0001</academic_id>
+	<academic_name>Доцент</academic_name>
+	<date_beg>24.10.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<section id_section="6" section_name="Ученые степени" />
+	<academic_id>0004</academic_id>
+	<academic_name>Доктор наук</academic_name>
+	<date_beg>24.10.1994</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<section id_section="6" section_name="Ученые степени" />
+	<academic_id>0003</academic_id>
+	<academic_name>Кандидат наук</academic_name>
+	<date_beg>24.10.1994</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>

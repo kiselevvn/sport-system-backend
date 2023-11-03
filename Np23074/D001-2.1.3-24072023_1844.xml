@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="D001" version="2.1.3" date="24.07.2023" />
+
+<records>
+
+<record>
+	<section id_section="3" section_name="Общие спортивные звания" />
+	<stitle_id>0001</stitle_id>
+	<stitle_name>Мастер спорта России международного класса</stitle_name>
+	<date_beg>04.12.2007</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<section id_section="3" section_name="Общие спортивные звания" />
+	<stitle_id>0003</stitle_id>
+	<stitle_name>Гроссмейстер России</stitle_name>
+	<date_beg>04.12.2007</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<section id_section="3" section_name="Общие спортивные звания" />
+	<stitle_id>0002</stitle_id>
+	<stitle_name>Мастер спорта России</stitle_name>
+	<date_beg>04.12.2007</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<section id_section="4" section_name="Почетные спортивные звания" />
+	<stitle_id>0004</stitle_id>
+	<stitle_name>Заслуженный мастер спорта России</stitle_name>
+	<date_beg>04.12.2007</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<section id_section="4" section_name="Почетные спортивные звания" />
+	<stitle_id>0005</stitle_id>
+	<stitle_name>Заслуженный тренер России</stitle_name>
+	<date_beg>04.12.2007</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<section id_section="4" section_name="Почетные спортивные звания" />
+	<stitle_id>0006</stitle_id>
+	<stitle_name>Почетный спортивный судья России</stitle_name>
+	<date_beg>04.12.2007</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>

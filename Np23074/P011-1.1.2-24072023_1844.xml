@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="P011" version="1.1.2" date="24.07.2023" />
+
+<records>
+
+<record>
+	<age_group_id>0002</age_group_id>
+	<age_group_name>Женщины</age_group_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<age_group_id>0008</age_group_id>
+	<age_group_name>Девочки</age_group_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<age_group_id>0007</age_group_id>
+	<age_group_name>Мальчики</age_group_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<age_group_id>0006</age_group_id>
+	<age_group_name>Девушки</age_group_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<age_group_id>0005</age_group_id>
+	<age_group_name>Юноши</age_group_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<age_group_id>0004</age_group_id>
+	<age_group_name>Юниорки</age_group_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<age_group_id>0001</age_group_id>
+	<age_group_name>Мужчины</age_group_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<age_group_id>0003</age_group_id>
+	<age_group_name>Юниоры</age_group_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>

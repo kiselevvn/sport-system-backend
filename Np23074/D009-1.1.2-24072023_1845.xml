@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="D009" version="1.1.2" date="24.07.2023" />
+
+<records>
+
+<record>
+	<assig_dt_id>0103</assig_dt_id>
+	<assig_dt_name>Две фотографии размером 3 x 4 см</assig_dt_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<assig_dt_id>0202</assig_dt_id>
+	<assig_dt_name>Копия документа Органа исполнительной власти о приостановлении действия государственной аккредитации региональной спортивной федерации</assig_dt_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<assig_dt_id>0201</assig_dt_id>
+	<assig_dt_name>Копии удостоверений «спортивный судья всероссийской категории»</assig_dt_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<assig_dt_id>0108</assig_dt_id>
+	<assig_dt_name>Копия военного билета, военнослужащими, проходящими военную службу по призыву</assig_dt_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<assig_dt_id>0107</assig_dt_id>
+	<assig_dt_name>Копия свидетельства о рождении</assig_dt_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<assig_dt_id>0106</assig_dt_id>
+	<assig_dt_name>Копии страниц паспорта гражданина Российской Федерации, удостоверяющего личность гражданина Российской Федерации за пределами территории Российской Федерации, содержащих сведения о фамилии, имени, отчестве (при наличии), органе, выдавшем документ, дате окончания срока действия документа (за исключением юношеских спортивных разрядов)</assig_dt_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<assig_dt_id>0105</assig_dt_id>
+	<assig_dt_name>Копии второй и третьей страниц паспорта гражданина Российской Федерации, а также копии страниц, содержащих сведения о месте жительства</assig_dt_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<assig_dt_id>0104</assig_dt_id>
+	<assig_dt_name>Копия документа, удостоверяющего принадлежность спортсмена к физкультурно-спортивной организации, организации, осуществляющей спортивную подготовку или образовательной организации</assig_dt_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<assig_dt_id>0102</assig_dt_id>
+	<assig_dt_name>Копия справки о составе и квалификации судейской коллегии</assig_dt_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<assig_dt_id>0101</assig_dt_id>
+	<assig_dt_name>Копия протокола или выписка из протокола соревнования</assig_dt_name>
+	<date_beg>21.11.2008</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>

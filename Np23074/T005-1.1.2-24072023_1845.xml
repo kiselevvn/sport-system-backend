@@ -1,0 +1,2520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="T005" version="1.1.2" date="24.07.2023" />
+
+<records>
+
+<record>
+	<oksm_id>084</oksm_id>
+	<oksm_sh_name>БЕЛИЗ</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>BZ</oksm_id_alpfa2>
+	<oksm_id_alpfa3>BLZ</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>438</oksm_id>
+	<oksm_sh_name>ЛИХТЕНШТЕЙН</oksm_sh_name>
+	<oksm_full_name>Княжество Лихтенштейн</oksm_full_name>
+	<oksm_id_alpfa2>LI</oksm_id_alpfa2>
+	<oksm_id_alpfa3>LIE</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>652</oksm_id>
+	<oksm_sh_name>СЕН-БАРТЕЛЕМИ</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>BL</oksm_id_alpfa2>
+	<oksm_id_alpfa3>BLM</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>512</oksm_id>
+	<oksm_sh_name>ОМАН</oksm_sh_name>
+	<oksm_full_name>Султанат Оман</oksm_full_name>
+	<oksm_id_alpfa2>OM</oksm_id_alpfa2>
+	<oksm_id_alpfa3>OMN</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>516</oksm_id>
+	<oksm_sh_name>НАМИБИЯ</oksm_sh_name>
+	<oksm_full_name>Республика Намибия</oksm_full_name>
+	<oksm_id_alpfa2>NA</oksm_id_alpfa2>
+	<oksm_id_alpfa3>NAM</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>268</oksm_id>
+	<oksm_sh_name>ГРУЗИЯ</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>GE</oksm_id_alpfa2>
+	<oksm_id_alpfa3>GEO</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>270</oksm_id>
+	<oksm_sh_name>ГАМБИЯ</oksm_sh_name>
+	<oksm_full_name>Республика Гамбия</oksm_full_name>
+	<oksm_id_alpfa2>GM</oksm_id_alpfa2>
+	<oksm_id_alpfa3>GMB</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>275</oksm_id>
+	<oksm_sh_name>ПАЛЕСТИНА, ГОСУДАРСТВО</oksm_sh_name>
+	<oksm_full_name>Государство Палестина</oksm_full_name>
+	<oksm_id_alpfa2>PS</oksm_id_alpfa2>
+	<oksm_id_alpfa3>PSE</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>276</oksm_id>
+	<oksm_sh_name>ГЕРМАНИЯ</oksm_sh_name>
+	<oksm_full_name>Федеративная Республика Германия</oksm_full_name>
+	<oksm_id_alpfa2>DE</oksm_id_alpfa2>
+	<oksm_id_alpfa3>DEU</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>060</oksm_id>
+	<oksm_sh_name>БЕРМУДЫ</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>BM</oksm_id_alpfa2>
+	<oksm_id_alpfa3>BMU</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>316</oksm_id>
+	<oksm_sh_name>ГУАМ</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>GU</oksm_id_alpfa2>
+	<oksm_id_alpfa3>GUM</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>638</oksm_id>
+	<oksm_sh_name>РЕЮНЬОН</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>RE</oksm_id_alpfa2>
+	<oksm_id_alpfa3>REU</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>642</oksm_id>
+	<oksm_sh_name>РУМЫНИЯ</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>RO</oksm_id_alpfa2>
+	<oksm_id_alpfa3>ROU</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>175</oksm_id>
+	<oksm_sh_name>МАЙОТТА</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>YT</oksm_id_alpfa2>
+	<oksm_id_alpfa3>MYT</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>772</oksm_id>
+	<oksm_sh_name>ТОКЕЛАУ</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>TK</oksm_id_alpfa2>
+	<oksm_id_alpfa3>TKL</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>446</oksm_id>
+	<oksm_sh_name>МАКАО</oksm_sh_name>
+	<oksm_full_name>Специальный административный регион Китая Макао</oksm_full_name>
+	<oksm_id_alpfa2>MO</oksm_id_alpfa2>
+	<oksm_id_alpfa3>MAC</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>344</oksm_id>
+	<oksm_sh_name>ГОНКОНГ</oksm_sh_name>
+	<oksm_full_name>Специальный административный регион Китая Гонконг</oksm_full_name>
+	<oksm_id_alpfa2>HK</oksm_id_alpfa2>
+	<oksm_id_alpfa3>HKG</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>524</oksm_id>
+	<oksm_sh_name>НЕПАЛ</oksm_sh_name>
+	<oksm_full_name>Федеративная Демократическая Республика Непал</oksm_full_name>
+	<oksm_id_alpfa2>NP</oksm_id_alpfa2>
+	<oksm_id_alpfa3>NPL</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>004</oksm_id>
+	<oksm_sh_name>АФГАНИСТАН</oksm_sh_name>
+	<oksm_full_name>Переходное Исламское Государство Афганистан</oksm_full_name>
+	<oksm_id_alpfa2>AF</oksm_id_alpfa2>
+	<oksm_id_alpfa3>AFG</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>008</oksm_id>
+	<oksm_sh_name>АЛБАНИЯ</oksm_sh_name>
+	<oksm_full_name>Республика Албания</oksm_full_name>
+	<oksm_id_alpfa2>AL</oksm_id_alpfa2>
+	<oksm_id_alpfa3>ALB</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>010</oksm_id>
+	<oksm_sh_name>АНТАРКТИДА</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>AQ</oksm_id_alpfa2>
+	<oksm_id_alpfa3>ATA</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>012</oksm_id>
+	<oksm_sh_name>АЛЖИР</oksm_sh_name>
+	<oksm_full_name>Алжирская Народная Демократическая Республика</oksm_full_name>
+	<oksm_id_alpfa2>DZ</oksm_id_alpfa2>
+	<oksm_id_alpfa3>DZA</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>016</oksm_id>
+	<oksm_sh_name>АМЕРИКАНСКОЕ САМОА</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>AS</oksm_id_alpfa2>
+	<oksm_id_alpfa3>ASM</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>020</oksm_id>
+	<oksm_sh_name>АНДОРРА</oksm_sh_name>
+	<oksm_full_name>Княжество Андорра</oksm_full_name>
+	<oksm_id_alpfa2>AD</oksm_id_alpfa2>
+	<oksm_id_alpfa3>AND</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>024</oksm_id>
+	<oksm_sh_name>АНГОЛА</oksm_sh_name>
+	<oksm_full_name>Республика Ангола</oksm_full_name>
+	<oksm_id_alpfa2>AO</oksm_id_alpfa2>
+	<oksm_id_alpfa3>AGO</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>028</oksm_id>
+	<oksm_sh_name>АНТИГУА И БАРБУДА</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>AG</oksm_id_alpfa2>
+	<oksm_id_alpfa3>ATG</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>031</oksm_id>
+	<oksm_sh_name>АЗЕРБАЙДЖАН</oksm_sh_name>
+	<oksm_full_name>Республика Азербайджан</oksm_full_name>
+	<oksm_id_alpfa2>AZ</oksm_id_alpfa2>
+	<oksm_id_alpfa3>AZE</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>032</oksm_id>
+	<oksm_sh_name>АРГЕНТИНА</oksm_sh_name>
+	<oksm_full_name>Аргентинская Республика</oksm_full_name>
+	<oksm_id_alpfa2>AR</oksm_id_alpfa2>
+	<oksm_id_alpfa3>ARG</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>036</oksm_id>
+	<oksm_sh_name>АВСТРАЛИЯ</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>AU</oksm_id_alpfa2>
+	<oksm_id_alpfa3>AUS</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>040</oksm_id>
+	<oksm_sh_name>АВСТРИЯ</oksm_sh_name>
+	<oksm_full_name>Австрийская Республика</oksm_full_name>
+	<oksm_id_alpfa2>AT</oksm_id_alpfa2>
+	<oksm_id_alpfa3>AUT</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>044</oksm_id>
+	<oksm_sh_name>БАГАМЫ</oksm_sh_name>
+	<oksm_full_name>Содружество Багамы</oksm_full_name>
+	<oksm_id_alpfa2>BS</oksm_id_alpfa2>
+	<oksm_id_alpfa3>BHS</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>048</oksm_id>
+	<oksm_sh_name>БАХРЕЙН</oksm_sh_name>
+	<oksm_full_name>Королевство Бахрейн</oksm_full_name>
+	<oksm_id_alpfa2>BH</oksm_id_alpfa2>
+	<oksm_id_alpfa3>BHR</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>050</oksm_id>
+	<oksm_sh_name>БАНГЛАДЕШ</oksm_sh_name>
+	<oksm_full_name>Народная Республика Бангладеш</oksm_full_name>
+	<oksm_id_alpfa2>BD</oksm_id_alpfa2>
+	<oksm_id_alpfa3>BGD</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>051</oksm_id>
+	<oksm_sh_name>АРМЕНИЯ</oksm_sh_name>
+	<oksm_full_name>Республика Армения</oksm_full_name>
+	<oksm_id_alpfa2>AM</oksm_id_alpfa2>
+	<oksm_id_alpfa3>ARM</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>052</oksm_id>
+	<oksm_sh_name>БАРБАДОС</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>BB</oksm_id_alpfa2>
+	<oksm_id_alpfa3>BRB</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>056</oksm_id>
+	<oksm_sh_name>БЕЛЬГИЯ</oksm_sh_name>
+	<oksm_full_name>Королевство Бельгия</oksm_full_name>
+	<oksm_id_alpfa2>BE</oksm_id_alpfa2>
+	<oksm_id_alpfa3>BEL</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>064</oksm_id>
+	<oksm_sh_name>БУТАН</oksm_sh_name>
+	<oksm_full_name>Королевство Бутан</oksm_full_name>
+	<oksm_id_alpfa2>BT</oksm_id_alpfa2>
+	<oksm_id_alpfa3>BTN</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>068</oksm_id>
+	<oksm_sh_name>БОЛИВИЯ, МНОГОНАЦИОНАЛЬНОЕ ГОСУДАРСТВО</oksm_sh_name>
+	<oksm_full_name>Многонациональное Государство Боливия</oksm_full_name>
+	<oksm_id_alpfa2>BO</oksm_id_alpfa2>
+	<oksm_id_alpfa3>BOL</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>070</oksm_id>
+	<oksm_sh_name>БОСНИЯ И ГЕРЦЕГОВИНА</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>BA</oksm_id_alpfa2>
+	<oksm_id_alpfa3>BIH</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>072</oksm_id>
+	<oksm_sh_name>БОТСВАНА</oksm_sh_name>
+	<oksm_full_name>Республика Ботсвана</oksm_full_name>
+	<oksm_id_alpfa2>BW</oksm_id_alpfa2>
+	<oksm_id_alpfa3>BWA</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>074</oksm_id>
+	<oksm_sh_name>ОСТРОВ БУВЕ</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>BV</oksm_id_alpfa2>
+	<oksm_id_alpfa3>BVT</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>076</oksm_id>
+	<oksm_sh_name>БРАЗИЛИЯ</oksm_sh_name>
+	<oksm_full_name>Федеративная Республика Бразилия</oksm_full_name>
+	<oksm_id_alpfa2>BR</oksm_id_alpfa2>
+	<oksm_id_alpfa3>BRA</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>086</oksm_id>
+	<oksm_sh_name>БРИТАНСКАЯ ТЕРРИТОРИЯ В ИНДИЙСКОМ ОКЕАНЕ</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>IO</oksm_id_alpfa2>
+	<oksm_id_alpfa3>IOT</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>090</oksm_id>
+	<oksm_sh_name>СОЛОМОНОВЫ ОСТРОВА</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>SB</oksm_id_alpfa2>
+	<oksm_id_alpfa3>SLB</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>092</oksm_id>
+	<oksm_sh_name>ВИРГИНСКИЕ ОСТРОВА (БРИТАНСКИЕ)</oksm_sh_name>
+	<oksm_full_name>Британские Виргинские острова</oksm_full_name>
+	<oksm_id_alpfa2>VG</oksm_id_alpfa2>
+	<oksm_id_alpfa3>VGB</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>096</oksm_id>
+	<oksm_sh_name>БРУНЕЙ-ДАРУССАЛАМ</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>BN</oksm_id_alpfa2>
+	<oksm_id_alpfa3>BRN</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>100</oksm_id>
+	<oksm_sh_name>БОЛГАРИЯ</oksm_sh_name>
+	<oksm_full_name>Республика Болгария</oksm_full_name>
+	<oksm_id_alpfa2>BG</oksm_id_alpfa2>
+	<oksm_id_alpfa3>BGR</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>104</oksm_id>
+	<oksm_sh_name>МЬЯНМА</oksm_sh_name>
+	<oksm_full_name>Республика Союза Мьянма</oksm_full_name>
+	<oksm_id_alpfa2>MM</oksm_id_alpfa2>
+	<oksm_id_alpfa3>MMR</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>108</oksm_id>
+	<oksm_sh_name>БУРУНДИ</oksm_sh_name>
+	<oksm_full_name>Республика Бурунди</oksm_full_name>
+	<oksm_id_alpfa2>BI</oksm_id_alpfa2>
+	<oksm_id_alpfa3>BDI</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>120</oksm_id>
+	<oksm_sh_name>КАМЕРУН</oksm_sh_name>
+	<oksm_full_name>Республика Камерун</oksm_full_name>
+	<oksm_id_alpfa2>CM</oksm_id_alpfa2>
+	<oksm_id_alpfa3>CMR</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>124</oksm_id>
+	<oksm_sh_name>КАНАДА</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>CA</oksm_id_alpfa2>
+	<oksm_id_alpfa3>CAN</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>132</oksm_id>
+	<oksm_sh_name>КАБО-ВЕРДЕ</oksm_sh_name>
+	<oksm_full_name>Республика Кабо-Верде</oksm_full_name>
+	<oksm_id_alpfa2>CV</oksm_id_alpfa2>
+	<oksm_id_alpfa3>CPV</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>136</oksm_id>
+	<oksm_sh_name>ОСТРОВА КАЙМАН</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>KY</oksm_id_alpfa2>
+	<oksm_id_alpfa3>CYM</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>140</oksm_id>
+	<oksm_sh_name>ЦЕНТРАЛЬНО-АФРИКАНСКАЯ РЕСПУБЛИКА</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>CF</oksm_id_alpfa2>
+	<oksm_id_alpfa3>CAF</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>144</oksm_id>
+	<oksm_sh_name>ШРИ-ЛАНКА</oksm_sh_name>
+	<oksm_full_name>Демократическая Социалистическая Республика Шри-Ланка</oksm_full_name>
+	<oksm_id_alpfa2>LK</oksm_id_alpfa2>
+	<oksm_id_alpfa3>LKA</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>148</oksm_id>
+	<oksm_sh_name>ЧАД</oksm_sh_name>
+	<oksm_full_name>Республика Чад</oksm_full_name>
+	<oksm_id_alpfa2>TD</oksm_id_alpfa2>
+	<oksm_id_alpfa3>TCD</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>152</oksm_id>
+	<oksm_sh_name>ЧИЛИ</oksm_sh_name>
+	<oksm_full_name>Республика Чили</oksm_full_name>
+	<oksm_id_alpfa2>CL</oksm_id_alpfa2>
+	<oksm_id_alpfa3>CHL</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>156</oksm_id>
+	<oksm_sh_name>КИТАЙ</oksm_sh_name>
+	<oksm_full_name>Китайская Народная Республика</oksm_full_name>
+	<oksm_id_alpfa2>CN</oksm_id_alpfa2>
+	<oksm_id_alpfa3>CHN</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>158</oksm_id>
+	<oksm_sh_name>ТАЙВАНЬ (КИТАЙ)</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>TW</oksm_id_alpfa2>
+	<oksm_id_alpfa3>TWN</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>162</oksm_id>
+	<oksm_sh_name>ОСТРОВ РОЖДЕСТВА</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>CX</oksm_id_alpfa2>
+	<oksm_id_alpfa3>CXR</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>166</oksm_id>
+	<oksm_sh_name>КОКОСОВЫЕ (КИЛИНГ) ОСТРОВА</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>CC</oksm_id_alpfa2>
+	<oksm_id_alpfa3>CCK</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>170</oksm_id>
+	<oksm_sh_name>КОЛУМБИЯ</oksm_sh_name>
+	<oksm_full_name>Республика Колумбия</oksm_full_name>
+	<oksm_id_alpfa2>CO</oksm_id_alpfa2>
+	<oksm_id_alpfa3>COL</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>174</oksm_id>
+	<oksm_sh_name>КОМОРЫ</oksm_sh_name>
+	<oksm_full_name>Союз Коморы</oksm_full_name>
+	<oksm_id_alpfa2>KM</oksm_id_alpfa2>
+	<oksm_id_alpfa3>COM</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>178</oksm_id>
+	<oksm_sh_name>КОНГО</oksm_sh_name>
+	<oksm_full_name>Республика Конго</oksm_full_name>
+	<oksm_id_alpfa2>CG</oksm_id_alpfa2>
+	<oksm_id_alpfa3>COG</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>180</oksm_id>
+	<oksm_sh_name>КОНГО, ДЕМОКРАТИЧЕСКАЯ РЕСПУБЛИКА</oksm_sh_name>
+	<oksm_full_name>Демократическая Республика Конго</oksm_full_name>
+	<oksm_id_alpfa2>CD</oksm_id_alpfa2>
+	<oksm_id_alpfa3>COD</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>184</oksm_id>
+	<oksm_sh_name>ОСТРОВА КУКА</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>CK</oksm_id_alpfa2>
+	<oksm_id_alpfa3>COK</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>188</oksm_id>
+	<oksm_sh_name>КОСТА-РИКА</oksm_sh_name>
+	<oksm_full_name>Республика Коста-Рика</oksm_full_name>
+	<oksm_id_alpfa2>CR</oksm_id_alpfa2>
+	<oksm_id_alpfa3>CRI</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>191</oksm_id>
+	<oksm_sh_name>ХОРВАТИЯ</oksm_sh_name>
+	<oksm_full_name>Республика Хорватия</oksm_full_name>
+	<oksm_id_alpfa2>HR</oksm_id_alpfa2>
+	<oksm_id_alpfa3>HRV</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>192</oksm_id>
+	<oksm_sh_name>КУБА</oksm_sh_name>
+	<oksm_full_name>Республика Куба</oksm_full_name>
+	<oksm_id_alpfa2>CU</oksm_id_alpfa2>
+	<oksm_id_alpfa3>CUB</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>196</oksm_id>
+	<oksm_sh_name>КИПР</oksm_sh_name>
+	<oksm_full_name>Республика Кипр</oksm_full_name>
+	<oksm_id_alpfa2>CY</oksm_id_alpfa2>
+	<oksm_id_alpfa3>CYP</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>203</oksm_id>
+	<oksm_sh_name>ЧЕХИЯ</oksm_sh_name>
+	<oksm_full_name>Чешская Республика</oksm_full_name>
+	<oksm_id_alpfa2>CZ</oksm_id_alpfa2>
+	<oksm_id_alpfa3>CZE</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>204</oksm_id>
+	<oksm_sh_name>БЕНИН</oksm_sh_name>
+	<oksm_full_name>Республика Бенин</oksm_full_name>
+	<oksm_id_alpfa2>BJ</oksm_id_alpfa2>
+	<oksm_id_alpfa3>BEN</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>208</oksm_id>
+	<oksm_sh_name>ДАНИЯ</oksm_sh_name>
+	<oksm_full_name>Королевство Дания</oksm_full_name>
+	<oksm_id_alpfa2>DK</oksm_id_alpfa2>
+	<oksm_id_alpfa3>DNK</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>212</oksm_id>
+	<oksm_sh_name>ДОМИНИКА</oksm_sh_name>
+	<oksm_full_name>Содружество Доминики</oksm_full_name>
+	<oksm_id_alpfa2>DM</oksm_id_alpfa2>
+	<oksm_id_alpfa3>DMA</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>214</oksm_id>
+	<oksm_sh_name>ДОМИНИКАНСКАЯ РЕСПУБЛИКА</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>DO</oksm_id_alpfa2>
+	<oksm_id_alpfa3>DOM</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>218</oksm_id>
+	<oksm_sh_name>ЭКВАДОР</oksm_sh_name>
+	<oksm_full_name>Республика Эквадор</oksm_full_name>
+	<oksm_id_alpfa2>EC</oksm_id_alpfa2>
+	<oksm_id_alpfa3>ECU</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>222</oksm_id>
+	<oksm_sh_name>ЭЛЬ-САЛЬВАДОР</oksm_sh_name>
+	<oksm_full_name>Республика Эль-Сальвадор</oksm_full_name>
+	<oksm_id_alpfa2>SV</oksm_id_alpfa2>
+	<oksm_id_alpfa3>SLV</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>226</oksm_id>
+	<oksm_sh_name>ЭКВАТОРИАЛЬНАЯ ГВИНЕЯ</oksm_sh_name>
+	<oksm_full_name>Республика Экваториальная Гвинея</oksm_full_name>
+	<oksm_id_alpfa2>GQ</oksm_id_alpfa2>
+	<oksm_id_alpfa3>GNQ</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>231</oksm_id>
+	<oksm_sh_name>ЭФИОПИЯ</oksm_sh_name>
+	<oksm_full_name>Федеративная Демократическая Республика Эфиопия</oksm_full_name>
+	<oksm_id_alpfa2>ET</oksm_id_alpfa2>
+	<oksm_id_alpfa3>ETH</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>232</oksm_id>
+	<oksm_sh_name>ЭРИТРЕЯ</oksm_sh_name>
+	<oksm_full_name>Государство Эритрея</oksm_full_name>
+	<oksm_id_alpfa2>ER</oksm_id_alpfa2>
+	<oksm_id_alpfa3>ERI</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>233</oksm_id>
+	<oksm_sh_name>ЭСТОНИЯ</oksm_sh_name>
+	<oksm_full_name>Эстонская Республика</oksm_full_name>
+	<oksm_id_alpfa2>EE</oksm_id_alpfa2>
+	<oksm_id_alpfa3>EST</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>234</oksm_id>
+	<oksm_sh_name>ФАРЕРСКИЕ ОСТРОВА</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>FO</oksm_id_alpfa2>
+	<oksm_id_alpfa3>FRO</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>238</oksm_id>
+	<oksm_sh_name>ФОЛКЛЕНДСКИЕ ОСТРОВА (МАЛЬВИНСКИЕ)</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>FK</oksm_id_alpfa2>
+	<oksm_id_alpfa3>FLK</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>239</oksm_id>
+	<oksm_sh_name>ЮЖНАЯ ДЖОРДЖИЯ И ЮЖНЫЕ САНДВИЧЕВЫ ОСТРОВА</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>GS</oksm_id_alpfa2>
+	<oksm_id_alpfa3>SGS</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>242</oksm_id>
+	<oksm_sh_name>ФИДЖИ</oksm_sh_name>
+	<oksm_full_name>Республика Фиджи</oksm_full_name>
+	<oksm_id_alpfa2>FJ</oksm_id_alpfa2>
+	<oksm_id_alpfa3>FJI</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>246</oksm_id>
+	<oksm_sh_name>ФИНЛЯНДИЯ</oksm_sh_name>
+	<oksm_full_name>Финляндская Республика</oksm_full_name>
+	<oksm_id_alpfa2>FI</oksm_id_alpfa2>
+	<oksm_id_alpfa3>FIN</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>248</oksm_id>
+	<oksm_sh_name>ЭЛАНДСКИЕ ОСТРОВА</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>АХ</oksm_id_alpfa2>
+	<oksm_id_alpfa3>ALA</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>250</oksm_id>
+	<oksm_sh_name>ФРАНЦИЯ</oksm_sh_name>
+	<oksm_full_name>Французская Республика</oksm_full_name>
+	<oksm_id_alpfa2>FR</oksm_id_alpfa2>
+	<oksm_id_alpfa3>FRA</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>254</oksm_id>
+	<oksm_sh_name>ФРАНЦУЗСКАЯ ГВИАНА</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>GF</oksm_id_alpfa2>
+	<oksm_id_alpfa3>GUF</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>258</oksm_id>
+	<oksm_sh_name>ФРАНЦУЗСКАЯ ПОЛИНЕЗИЯ</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>PF</oksm_id_alpfa2>
+	<oksm_id_alpfa3>PYF</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>260</oksm_id>
+	<oksm_sh_name>ФРАНЦУЗСКИЕ ЮЖНЫЕ ТЕРРИТОРИИ</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>TF</oksm_id_alpfa2>
+	<oksm_id_alpfa3>ATF</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>262</oksm_id>
+	<oksm_sh_name>ДЖИБУТИ</oksm_sh_name>
+	<oksm_full_name>Республика Джибути</oksm_full_name>
+	<oksm_id_alpfa2>DJ</oksm_id_alpfa2>
+	<oksm_id_alpfa3>DJI</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>266</oksm_id>
+	<oksm_sh_name>ГАБОН</oksm_sh_name>
+	<oksm_full_name>Габонская Республика</oksm_full_name>
+	<oksm_id_alpfa2>GA</oksm_id_alpfa2>
+	<oksm_id_alpfa3>GAB</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>312</oksm_id>
+	<oksm_sh_name>ГВАДЕЛУПА</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>GP</oksm_id_alpfa2>
+	<oksm_id_alpfa3>GLP</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>320</oksm_id>
+	<oksm_sh_name>ГВАТЕМАЛА</oksm_sh_name>
+	<oksm_full_name>Республика Гватемала</oksm_full_name>
+	<oksm_id_alpfa2>GT</oksm_id_alpfa2>
+	<oksm_id_alpfa3>GTM</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>324</oksm_id>
+	<oksm_sh_name>ГВИНЕЯ</oksm_sh_name>
+	<oksm_full_name>Гвинейская Республика</oksm_full_name>
+	<oksm_id_alpfa2>GN</oksm_id_alpfa2>
+	<oksm_id_alpfa3>GIN</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>328</oksm_id>
+	<oksm_sh_name>ГАЙАНА</oksm_sh_name>
+	<oksm_full_name>Республика Гайана</oksm_full_name>
+	<oksm_id_alpfa2>GY</oksm_id_alpfa2>
+	<oksm_id_alpfa3>GUY</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>332</oksm_id>
+	<oksm_sh_name>ГАИТИ</oksm_sh_name>
+	<oksm_full_name>Республика Гаити</oksm_full_name>
+	<oksm_id_alpfa2>HT</oksm_id_alpfa2>
+	<oksm_id_alpfa3>HTI</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>334</oksm_id>
+	<oksm_sh_name>ОСТРОВ ХЕРД И ОСТРОВА МАКДОНАЛЬД</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>HM</oksm_id_alpfa2>
+	<oksm_id_alpfa3>HMD</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>336</oksm_id>
+	<oksm_sh_name>ПАПСКИЙ ПРЕСТОЛ (ГОСУДАРСТВО - ГОРОД ВАТИКАН)</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>VA</oksm_id_alpfa2>
+	<oksm_id_alpfa3>VAT</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>340</oksm_id>
+	<oksm_sh_name>ГОНДУРАС</oksm_sh_name>
+	<oksm_full_name>Республика Гондурас</oksm_full_name>
+	<oksm_id_alpfa2>HN</oksm_id_alpfa2>
+	<oksm_id_alpfa3>HND</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>348</oksm_id>
+	<oksm_sh_name>ВЕНГРИЯ</oksm_sh_name>
+	<oksm_full_name>Венгрия</oksm_full_name>
+	<oksm_id_alpfa2>HU</oksm_id_alpfa2>
+	<oksm_id_alpfa3>HUN</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>352</oksm_id>
+	<oksm_sh_name>ИСЛАНДИЯ</oksm_sh_name>
+	<oksm_full_name>Республика Исландия</oksm_full_name>
+	<oksm_id_alpfa2>IS</oksm_id_alpfa2>
+	<oksm_id_alpfa3>ISL</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>356</oksm_id>
+	<oksm_sh_name>ИНДИЯ</oksm_sh_name>
+	<oksm_full_name>Республика Индия</oksm_full_name>
+	<oksm_id_alpfa2>IN</oksm_id_alpfa2>
+	<oksm_id_alpfa3>IND</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>360</oksm_id>
+	<oksm_sh_name>ИНДОНЕЗИЯ</oksm_sh_name>
+	<oksm_full_name>Республика Индонезия</oksm_full_name>
+	<oksm_id_alpfa2>ID</oksm_id_alpfa2>
+	<oksm_id_alpfa3>IDN</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>364</oksm_id>
+	<oksm_sh_name>ИРАН (ИСЛАМСКАЯ РЕСПУБЛИКА)</oksm_sh_name>
+	<oksm_full_name>Исламская Республика Иран</oksm_full_name>
+	<oksm_id_alpfa2>IR</oksm_id_alpfa2>
+	<oksm_id_alpfa3>IRN</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>368</oksm_id>
+	<oksm_sh_name>ИРАК</oksm_sh_name>
+	<oksm_full_name>Республика Ирак</oksm_full_name>
+	<oksm_id_alpfa2>IQ</oksm_id_alpfa2>
+	<oksm_id_alpfa3>IRQ</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>372</oksm_id>
+	<oksm_sh_name>ИРЛАНДИЯ</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>IE</oksm_id_alpfa2>
+	<oksm_id_alpfa3>IRL</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>376</oksm_id>
+	<oksm_sh_name>ИЗРАИЛЬ</oksm_sh_name>
+	<oksm_full_name>Государство Израиль</oksm_full_name>
+	<oksm_id_alpfa2>IL</oksm_id_alpfa2>
+	<oksm_id_alpfa3>ISR</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>380</oksm_id>
+	<oksm_sh_name>ИТАЛИЯ</oksm_sh_name>
+	<oksm_full_name>Итальянская Республика</oksm_full_name>
+	<oksm_id_alpfa2>IT</oksm_id_alpfa2>
+	<oksm_id_alpfa3>ITA</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>384</oksm_id>
+	<oksm_sh_name>КОТ Д'ИВУАР</oksm_sh_name>
+	<oksm_full_name>Республика Кот д'Ивуар</oksm_full_name>
+	<oksm_id_alpfa2>CI</oksm_id_alpfa2>
+	<oksm_id_alpfa3>CIV</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>388</oksm_id>
+	<oksm_sh_name>ЯМАЙКА</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>JM</oksm_id_alpfa2>
+	<oksm_id_alpfa3>JAM</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>392</oksm_id>
+	<oksm_sh_name>ЯПОНИЯ</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>JP</oksm_id_alpfa2>
+	<oksm_id_alpfa3>JPN</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>398</oksm_id>
+	<oksm_sh_name>КАЗАХСТАН</oksm_sh_name>
+	<oksm_full_name>Республика Казахстан</oksm_full_name>
+	<oksm_id_alpfa2>KZ</oksm_id_alpfa2>
+	<oksm_id_alpfa3>KAZ</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>400</oksm_id>
+	<oksm_sh_name>ИОРДАНИЯ</oksm_sh_name>
+	<oksm_full_name>Иорданское Хашимитское Королевство</oksm_full_name>
+	<oksm_id_alpfa2>JO</oksm_id_alpfa2>
+	<oksm_id_alpfa3>JOR</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>404</oksm_id>
+	<oksm_sh_name>КЕНИЯ</oksm_sh_name>
+	<oksm_full_name>Республика Кения</oksm_full_name>
+	<oksm_id_alpfa2>KE</oksm_id_alpfa2>
+	<oksm_id_alpfa3>KEN</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>408</oksm_id>
+	<oksm_sh_name>КОРЕЯ, НАРОДНО-ДЕМОКРАТИЧЕСКАЯ РЕСПУБЛИКА</oksm_sh_name>
+	<oksm_full_name>Корейская Народно-Демократическая Республика</oksm_full_name>
+	<oksm_id_alpfa2>KP</oksm_id_alpfa2>
+	<oksm_id_alpfa3>PRK</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>410</oksm_id>
+	<oksm_sh_name>КОРЕЯ, РЕСПУБЛИКА</oksm_sh_name>
+	<oksm_full_name>Республика Корея</oksm_full_name>
+	<oksm_id_alpfa2>KR</oksm_id_alpfa2>
+	<oksm_id_alpfa3>KOR</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>414</oksm_id>
+	<oksm_sh_name>КУВЕЙТ</oksm_sh_name>
+	<oksm_full_name>Государство Кувейт</oksm_full_name>
+	<oksm_id_alpfa2>KW</oksm_id_alpfa2>
+	<oksm_id_alpfa3>KWT</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>417</oksm_id>
+	<oksm_sh_name>КИРГИЗИЯ</oksm_sh_name>
+	<oksm_full_name>Киргизская Республика</oksm_full_name>
+	<oksm_id_alpfa2>KG</oksm_id_alpfa2>
+	<oksm_id_alpfa3>KGZ</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>418</oksm_id>
+	<oksm_sh_name>ЛАОССКАЯ НАРОДНО-ДЕМОКРАТИЧЕСКАЯ РЕСПУБЛИКА</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>LA</oksm_id_alpfa2>
+	<oksm_id_alpfa3>LAO</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>422</oksm_id>
+	<oksm_sh_name>ЛИВАН</oksm_sh_name>
+	<oksm_full_name>Ливанская Республика</oksm_full_name>
+	<oksm_id_alpfa2>LB</oksm_id_alpfa2>
+	<oksm_id_alpfa3>LBN</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>426</oksm_id>
+	<oksm_sh_name>ЛЕСОТО</oksm_sh_name>
+	<oksm_full_name>Королевство Лесото</oksm_full_name>
+	<oksm_id_alpfa2>LS</oksm_id_alpfa2>
+	<oksm_id_alpfa3>LSO</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>428</oksm_id>
+	<oksm_sh_name>ЛАТВИЯ</oksm_sh_name>
+	<oksm_full_name>Латвийская Республика</oksm_full_name>
+	<oksm_id_alpfa2>LV</oksm_id_alpfa2>
+	<oksm_id_alpfa3>LVA</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>430</oksm_id>
+	<oksm_sh_name>ЛИБЕРИЯ</oksm_sh_name>
+	<oksm_full_name>Республика Либерия</oksm_full_name>
+	<oksm_id_alpfa2>LR</oksm_id_alpfa2>
+	<oksm_id_alpfa3>LBR</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>434</oksm_id>
+	<oksm_sh_name>ЛИВИЯ</oksm_sh_name>
+	<oksm_full_name>Государство Ливия</oksm_full_name>
+	<oksm_id_alpfa2>LY</oksm_id_alpfa2>
+	<oksm_id_alpfa3>LBY</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>440</oksm_id>
+	<oksm_sh_name>ЛИТВА</oksm_sh_name>
+	<oksm_full_name>Литовская Республика</oksm_full_name>
+	<oksm_id_alpfa2>LT</oksm_id_alpfa2>
+	<oksm_id_alpfa3>LTU</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>442</oksm_id>
+	<oksm_sh_name>ЛЮКСЕМБУРГ</oksm_sh_name>
+	<oksm_full_name>Великое Герцогство Люксембург</oksm_full_name>
+	<oksm_id_alpfa2>LU</oksm_id_alpfa2>
+	<oksm_id_alpfa3>LUX</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>450</oksm_id>
+	<oksm_sh_name>МАДАГАСКАР</oksm_sh_name>
+	<oksm_full_name>Республика Мадагаскар</oksm_full_name>
+	<oksm_id_alpfa2>MG</oksm_id_alpfa2>
+	<oksm_id_alpfa3>MDG</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>454</oksm_id>
+	<oksm_sh_name>МАЛАВИ</oksm_sh_name>
+	<oksm_full_name>Республика Малави</oksm_full_name>
+	<oksm_id_alpfa2>MW</oksm_id_alpfa2>
+	<oksm_id_alpfa3>MWI</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>458</oksm_id>
+	<oksm_sh_name>МАЛАЙЗИЯ</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>MY</oksm_id_alpfa2>
+	<oksm_id_alpfa3>MYS</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>462</oksm_id>
+	<oksm_sh_name>МАЛЬДИВЫ</oksm_sh_name>
+	<oksm_full_name>Мальдивская Республика</oksm_full_name>
+	<oksm_id_alpfa2>MV</oksm_id_alpfa2>
+	<oksm_id_alpfa3>MDV</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>520</oksm_id>
+	<oksm_sh_name>НАУРУ</oksm_sh_name>
+	<oksm_full_name>Республика Науру</oksm_full_name>
+	<oksm_id_alpfa2>NR</oksm_id_alpfa2>
+	<oksm_id_alpfa3>NRU</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>528</oksm_id>
+	<oksm_sh_name>НИДЕРЛАНДЫ</oksm_sh_name>
+	<oksm_full_name>Королевство Нидерландов</oksm_full_name>
+	<oksm_id_alpfa2>NL</oksm_id_alpfa2>
+	<oksm_id_alpfa3>NLD</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>531</oksm_id>
+	<oksm_sh_name>КЮРАСАО</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>CW</oksm_id_alpfa2>
+	<oksm_id_alpfa3>CUW</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>533</oksm_id>
+	<oksm_sh_name>АРУБА</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>AW</oksm_id_alpfa2>
+	<oksm_id_alpfa3>ABW</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>534</oksm_id>
+	<oksm_sh_name>СЕН-МАРТЕН (нидерландская часть)</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>SX</oksm_id_alpfa2>
+	<oksm_id_alpfa3>SXM</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>535</oksm_id>
+	<oksm_sh_name>БОНЭЙР, СИНТ-ЭСТАТИУС И САБА</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>BQ</oksm_id_alpfa2>
+	<oksm_id_alpfa3>BES</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>540</oksm_id>
+	<oksm_sh_name>НОВАЯ КАЛЕДОНИЯ</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>NC</oksm_id_alpfa2>
+	<oksm_id_alpfa3>NCL</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>548</oksm_id>
+	<oksm_sh_name>ВАНУАТУ</oksm_sh_name>
+	<oksm_full_name>Республика Вануату</oksm_full_name>
+	<oksm_id_alpfa2>VU</oksm_id_alpfa2>
+	<oksm_id_alpfa3>VUT</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>554</oksm_id>
+	<oksm_sh_name>НОВАЯ ЗЕЛАНДИЯ</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>NZ</oksm_id_alpfa2>
+	<oksm_id_alpfa3>NZL</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>558</oksm_id>
+	<oksm_sh_name>НИКАРАГУА</oksm_sh_name>
+	<oksm_full_name>Республика Никарагуа</oksm_full_name>
+	<oksm_id_alpfa2>NI</oksm_id_alpfa2>
+	<oksm_id_alpfa3>NIC</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>562</oksm_id>
+	<oksm_sh_name>НИГЕР</oksm_sh_name>
+	<oksm_full_name>Республика Нигер</oksm_full_name>
+	<oksm_id_alpfa2>NE</oksm_id_alpfa2>
+	<oksm_id_alpfa3>NER</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>566</oksm_id>
+	<oksm_sh_name>НИГЕРИЯ</oksm_sh_name>
+	<oksm_full_name>Федеративная Республика Нигерия</oksm_full_name>
+	<oksm_id_alpfa2>NG</oksm_id_alpfa2>
+	<oksm_id_alpfa3>NGA</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>570</oksm_id>
+	<oksm_sh_name>НИУЭ</oksm_sh_name>
+	<oksm_full_name>Республика Ниуэ</oksm_full_name>
+	<oksm_id_alpfa2>NU</oksm_id_alpfa2>
+	<oksm_id_alpfa3>NIU</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>574</oksm_id>
+	<oksm_sh_name>ОСТРОВ НОРФОЛК</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>NF</oksm_id_alpfa2>
+	<oksm_id_alpfa3>NFK</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>578</oksm_id>
+	<oksm_sh_name>НОРВЕГИЯ</oksm_sh_name>
+	<oksm_full_name>Королевство Норвегия</oksm_full_name>
+	<oksm_id_alpfa2>NO</oksm_id_alpfa2>
+	<oksm_id_alpfa3>NOR</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>580</oksm_id>
+	<oksm_sh_name>СЕВЕРНЫЕ МАРИАНСКИЕ ОСТРОВА</oksm_sh_name>
+	<oksm_full_name>Содружество Северных Марианских островов</oksm_full_name>
+	<oksm_id_alpfa2>MP</oksm_id_alpfa2>
+	<oksm_id_alpfa3>MNP</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>581</oksm_id>
+	<oksm_sh_name>МАЛЫЕ ТИХООКЕАНСКИЕ ОТДАЛЕННЫЕ ОСТРОВА СОЕДИНЕННЫХ ШТАТОВ</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>UM</oksm_id_alpfa2>
+	<oksm_id_alpfa3>UMI</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>583</oksm_id>
+	<oksm_sh_name>МИКРОНЕЗИЯ, ФЕДЕРАТИВНЫЕ ШТАТЫ</oksm_sh_name>
+	<oksm_full_name>Федеративные штаты Микронезии</oksm_full_name>
+	<oksm_id_alpfa2>FM</oksm_id_alpfa2>
+	<oksm_id_alpfa3>FSM</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>584</oksm_id>
+	<oksm_sh_name>МАРШАЛЛОВЫ ОСТРОВА</oksm_sh_name>
+	<oksm_full_name>Республика Маршалловы Острова</oksm_full_name>
+	<oksm_id_alpfa2>MH</oksm_id_alpfa2>
+	<oksm_id_alpfa3>MHL</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>585</oksm_id>
+	<oksm_sh_name>ПАЛАУ</oksm_sh_name>
+	<oksm_full_name>Республика Палау</oksm_full_name>
+	<oksm_id_alpfa2>PW</oksm_id_alpfa2>
+	<oksm_id_alpfa3>PLW</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>586</oksm_id>
+	<oksm_sh_name>ПАКИСТАН</oksm_sh_name>
+	<oksm_full_name>Исламская Республика Пакистан</oksm_full_name>
+	<oksm_id_alpfa2>PK</oksm_id_alpfa2>
+	<oksm_id_alpfa3>PAK</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>591</oksm_id>
+	<oksm_sh_name>ПАНАМА</oksm_sh_name>
+	<oksm_full_name>Республика Панама</oksm_full_name>
+	<oksm_id_alpfa2>PA</oksm_id_alpfa2>
+	<oksm_id_alpfa3>PAN</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>598</oksm_id>
+	<oksm_sh_name>ПАПУА-НОВАЯ ГВИНЕЯ</oksm_sh_name>
+	<oksm_full_name>Независимое Государство Папуа Новая Гвинея</oksm_full_name>
+	<oksm_id_alpfa2>PG</oksm_id_alpfa2>
+	<oksm_id_alpfa3>PNG</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>600</oksm_id>
+	<oksm_sh_name>ПАРАГВАЙ</oksm_sh_name>
+	<oksm_full_name>Республика Парагвай</oksm_full_name>
+	<oksm_id_alpfa2>PY</oksm_id_alpfa2>
+	<oksm_id_alpfa3>PRY</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>604</oksm_id>
+	<oksm_sh_name>ПЕРУ</oksm_sh_name>
+	<oksm_full_name>Республика Перу</oksm_full_name>
+	<oksm_id_alpfa2>PE</oksm_id_alpfa2>
+	<oksm_id_alpfa3>PER</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>608</oksm_id>
+	<oksm_sh_name>ФИЛИППИНЫ</oksm_sh_name>
+	<oksm_full_name>Республика Филиппины</oksm_full_name>
+	<oksm_id_alpfa2>PH</oksm_id_alpfa2>
+	<oksm_id_alpfa3>PHL</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>612</oksm_id>
+	<oksm_sh_name>ПИТКЕРН</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>PN</oksm_id_alpfa2>
+	<oksm_id_alpfa3>PCN</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>616</oksm_id>
+	<oksm_sh_name>ПОЛЬША</oksm_sh_name>
+	<oksm_full_name>Республика Польша</oksm_full_name>
+	<oksm_id_alpfa2>PL</oksm_id_alpfa2>
+	<oksm_id_alpfa3>POL</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>620</oksm_id>
+	<oksm_sh_name>ПОРТУГАЛИЯ</oksm_sh_name>
+	<oksm_full_name>Португальская Республика</oksm_full_name>
+	<oksm_id_alpfa2>PT</oksm_id_alpfa2>
+	<oksm_id_alpfa3>PRT</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>624</oksm_id>
+	<oksm_sh_name>ГВИНЕЯ-БИСАУ</oksm_sh_name>
+	<oksm_full_name>Республика Гвинея-Бисау</oksm_full_name>
+	<oksm_id_alpfa2>GW</oksm_id_alpfa2>
+	<oksm_id_alpfa3>GNB</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>663</oksm_id>
+	<oksm_sh_name>СЕН-МАРТЕН (французская часть)</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>MF</oksm_id_alpfa2>
+	<oksm_id_alpfa3>MAF</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>666</oksm_id>
+	<oksm_sh_name>СЕН-ПЬЕР И МИКЕЛОН</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>PM</oksm_id_alpfa2>
+	<oksm_id_alpfa3>SPM</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>670</oksm_id>
+	<oksm_sh_name>СЕНТ-ВИНСЕНТ И ГРЕНАДИНЫ</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>VC</oksm_id_alpfa2>
+	<oksm_id_alpfa3>VCT</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>674</oksm_id>
+	<oksm_sh_name>САН-МАРИНО</oksm_sh_name>
+	<oksm_full_name>Республика Сан-Марино</oksm_full_name>
+	<oksm_id_alpfa2>SM</oksm_id_alpfa2>
+	<oksm_id_alpfa3>SMR</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>678</oksm_id>
+	<oksm_sh_name>САН-ТОМЕ И ПРИНСИПИ</oksm_sh_name>
+	<oksm_full_name>Демократическая Республика Сан-Томе и Принсипи</oksm_full_name>
+	<oksm_id_alpfa2>ST</oksm_id_alpfa2>
+	<oksm_id_alpfa3>STP</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>682</oksm_id>
+	<oksm_sh_name>САУДОВСКАЯ АРАВИЯ</oksm_sh_name>
+	<oksm_full_name>Королевство Саудовская Аравия</oksm_full_name>
+	<oksm_id_alpfa2>SA</oksm_id_alpfa2>
+	<oksm_id_alpfa3>SAU</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>686</oksm_id>
+	<oksm_sh_name>СЕНЕГАЛ</oksm_sh_name>
+	<oksm_full_name>Республика Сенегал</oksm_full_name>
+	<oksm_id_alpfa2>SN</oksm_id_alpfa2>
+	<oksm_id_alpfa3>SEN</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>688</oksm_id>
+	<oksm_sh_name>СЕРБИЯ</oksm_sh_name>
+	<oksm_full_name>Республика Сербия</oksm_full_name>
+	<oksm_id_alpfa2>RS</oksm_id_alpfa2>
+	<oksm_id_alpfa3>SRB</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>690</oksm_id>
+	<oksm_sh_name>СЕЙШЕЛЫ</oksm_sh_name>
+	<oksm_full_name>Республика Сейшелы</oksm_full_name>
+	<oksm_id_alpfa2>SC</oksm_id_alpfa2>
+	<oksm_id_alpfa3>SYC</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>729</oksm_id>
+	<oksm_sh_name>СУДАН</oksm_sh_name>
+	<oksm_full_name>Республика Судан</oksm_full_name>
+	<oksm_id_alpfa2>SD</oksm_id_alpfa2>
+	<oksm_id_alpfa3>SDN</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>732</oksm_id>
+	<oksm_sh_name>ЗАПАДНАЯ САХАРА</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>EH</oksm_id_alpfa2>
+	<oksm_id_alpfa3>ESH</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>740</oksm_id>
+	<oksm_sh_name>СУРИНАМ</oksm_sh_name>
+	<oksm_full_name>Республика Суринам</oksm_full_name>
+	<oksm_id_alpfa2>SR</oksm_id_alpfa2>
+	<oksm_id_alpfa3>SUR</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>744</oksm_id>
+	<oksm_sh_name>ШПИЦБЕРГЕН И ЯН МАЙЕН</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>SJ</oksm_id_alpfa2>
+	<oksm_id_alpfa3>SJM</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>748</oksm_id>
+	<oksm_sh_name>ЭСВАТИНИ</oksm_sh_name>
+	<oksm_full_name>Королевство Эсватини</oksm_full_name>
+	<oksm_id_alpfa2>SZ</oksm_id_alpfa2>
+	<oksm_id_alpfa3>SWZ</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>752</oksm_id>
+	<oksm_sh_name>ШВЕЦИЯ</oksm_sh_name>
+	<oksm_full_name>Королевство Швеция</oksm_full_name>
+	<oksm_id_alpfa2>SE</oksm_id_alpfa2>
+	<oksm_id_alpfa3>SWE</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>756</oksm_id>
+	<oksm_sh_name>ШВЕЙЦАРИЯ</oksm_sh_name>
+	<oksm_full_name>Швейцарская Конфедерация</oksm_full_name>
+	<oksm_id_alpfa2>CH</oksm_id_alpfa2>
+	<oksm_id_alpfa3>CHE</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>760</oksm_id>
+	<oksm_sh_name>СИРИЙСКАЯ АРАБСКАЯ РЕСПУБЛИКА</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>SY</oksm_id_alpfa2>
+	<oksm_id_alpfa3>SYR</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>762</oksm_id>
+	<oksm_sh_name>ТАДЖИКИСТАН</oksm_sh_name>
+	<oksm_full_name>Республика Таджикистан</oksm_full_name>
+	<oksm_id_alpfa2>TJ</oksm_id_alpfa2>
+	<oksm_id_alpfa3>TJK</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>764</oksm_id>
+	<oksm_sh_name>ТАИЛАНД</oksm_sh_name>
+	<oksm_full_name>Королевство Таиланд</oksm_full_name>
+	<oksm_id_alpfa2>TH</oksm_id_alpfa2>
+	<oksm_id_alpfa3>THA</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>768</oksm_id>
+	<oksm_sh_name>ТОГО</oksm_sh_name>
+	<oksm_full_name>Тоголезская Республика</oksm_full_name>
+	<oksm_id_alpfa2>TG</oksm_id_alpfa2>
+	<oksm_id_alpfa3>TGO</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>776</oksm_id>
+	<oksm_sh_name>ТОНГА</oksm_sh_name>
+	<oksm_full_name>Королевство Тонга</oksm_full_name>
+	<oksm_id_alpfa2>TO</oksm_id_alpfa2>
+	<oksm_id_alpfa3>TON</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>780</oksm_id>
+	<oksm_sh_name>ТРИНИДАД И ТОБАГО</oksm_sh_name>
+	<oksm_full_name>Республика Тринидад и Тобаго</oksm_full_name>
+	<oksm_id_alpfa2>TT</oksm_id_alpfa2>
+	<oksm_id_alpfa3>TTO</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>784</oksm_id>
+	<oksm_sh_name>ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>AE</oksm_id_alpfa2>
+	<oksm_id_alpfa3>ARE</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>788</oksm_id>
+	<oksm_sh_name>ТУНИС</oksm_sh_name>
+	<oksm_full_name>Тунисская Республика</oksm_full_name>
+	<oksm_id_alpfa2>TN</oksm_id_alpfa2>
+	<oksm_id_alpfa3>TUN</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>792</oksm_id>
+	<oksm_sh_name>ТУРЦИЯ</oksm_sh_name>
+	<oksm_full_name>Турецкая Республика</oksm_full_name>
+	<oksm_id_alpfa2>TR</oksm_id_alpfa2>
+	<oksm_id_alpfa3>TUR</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>795</oksm_id>
+	<oksm_sh_name>ТУРКМЕНИСТАН</oksm_sh_name>
+	<oksm_full_name>Туркменистан</oksm_full_name>
+	<oksm_id_alpfa2>TM</oksm_id_alpfa2>
+	<oksm_id_alpfa3>TKM</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>796</oksm_id>
+	<oksm_sh_name>ОСТРОВА ТЕРКС И КАЙКОС</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>TC</oksm_id_alpfa2>
+	<oksm_id_alpfa3>TCA</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>798</oksm_id>
+	<oksm_sh_name>ТУВАЛУ</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>TV</oksm_id_alpfa2>
+	<oksm_id_alpfa3>TUV</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>800</oksm_id>
+	<oksm_sh_name>УГАНДА</oksm_sh_name>
+	<oksm_full_name>Республика Уганда</oksm_full_name>
+	<oksm_id_alpfa2>UG</oksm_id_alpfa2>
+	<oksm_id_alpfa3>UGA</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>807</oksm_id>
+	<oksm_sh_name>СЕВЕРНАЯ МАКЕДОНИЯ</oksm_sh_name>
+	<oksm_full_name>Республика Северная Македония</oksm_full_name>
+	<oksm_id_alpfa2>MK</oksm_id_alpfa2>
+	<oksm_id_alpfa3>MKD</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>818</oksm_id>
+	<oksm_sh_name>ЕГИПЕТ</oksm_sh_name>
+	<oksm_full_name>Арабская Республика Египет</oksm_full_name>
+	<oksm_id_alpfa2>EG</oksm_id_alpfa2>
+	<oksm_id_alpfa3>EGY</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>826</oksm_id>
+	<oksm_sh_name>СОЕДИНЕННОЕ КОРОЛЕВСТВО</oksm_sh_name>
+	<oksm_full_name>Соединенное Королевство Великобритании и Северной Ирландии</oksm_full_name>
+	<oksm_id_alpfa2>GB</oksm_id_alpfa2>
+	<oksm_id_alpfa3>GBR</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>833</oksm_id>
+	<oksm_sh_name>ОСТРОВ МЭН</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>IM</oksm_id_alpfa2>
+	<oksm_id_alpfa3>IMN</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>834</oksm_id>
+	<oksm_sh_name>ТАНЗАНИЯ, ОБЪЕДИНЕННАЯ РЕСПУБЛИКА</oksm_sh_name>
+	<oksm_full_name>Объединенная Республика Танзания</oksm_full_name>
+	<oksm_id_alpfa2>TZ</oksm_id_alpfa2>
+	<oksm_id_alpfa3>TZA</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>840</oksm_id>
+	<oksm_sh_name>СОЕДИНЕННЫЕ ШТАТЫ</oksm_sh_name>
+	<oksm_full_name>Соединенные Штаты Америки</oksm_full_name>
+	<oksm_id_alpfa2>US</oksm_id_alpfa2>
+	<oksm_id_alpfa3>USA</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>850</oksm_id>
+	<oksm_sh_name>ВИРГИНСКИЕ ОСТРОВА (США)</oksm_sh_name>
+	<oksm_full_name>Виргинские острова Соединенных Штатов</oksm_full_name>
+	<oksm_id_alpfa2>VI</oksm_id_alpfa2>
+	<oksm_id_alpfa3>VIR</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>854</oksm_id>
+	<oksm_sh_name>БУРКИНА-ФАСО</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>BF</oksm_id_alpfa2>
+	<oksm_id_alpfa3>BFA</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>858</oksm_id>
+	<oksm_sh_name>УРУГВАЙ</oksm_sh_name>
+	<oksm_full_name>Восточная Республика Уругвай</oksm_full_name>
+	<oksm_id_alpfa2>UY</oksm_id_alpfa2>
+	<oksm_id_alpfa3>URY</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>860</oksm_id>
+	<oksm_sh_name>УЗБЕКИСТАН</oksm_sh_name>
+	<oksm_full_name>Республика Узбекистан</oksm_full_name>
+	<oksm_id_alpfa2>UZ</oksm_id_alpfa2>
+	<oksm_id_alpfa3>UZB</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>862</oksm_id>
+	<oksm_sh_name>ВЕНЕСУЭЛА (БОЛИВАРИАНСКАЯ РЕСПУБЛИКА)</oksm_sh_name>
+	<oksm_full_name>Боливарианская Республика Венесуэла</oksm_full_name>
+	<oksm_id_alpfa2>VE</oksm_id_alpfa2>
+	<oksm_id_alpfa3>VEN</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>876</oksm_id>
+	<oksm_sh_name>УОЛЛИС И ФУТУНА</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>WF</oksm_id_alpfa2>
+	<oksm_id_alpfa3>WLF</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>882</oksm_id>
+	<oksm_sh_name>САМОА</oksm_sh_name>
+	<oksm_full_name>Независимое Государство Самоа</oksm_full_name>
+	<oksm_id_alpfa2>WS</oksm_id_alpfa2>
+	<oksm_id_alpfa3>WSM</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>887</oksm_id>
+	<oksm_sh_name>ЙЕМЕН</oksm_sh_name>
+	<oksm_full_name>Йеменская Республика</oksm_full_name>
+	<oksm_id_alpfa2>YE</oksm_id_alpfa2>
+	<oksm_id_alpfa3>YEM</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>894</oksm_id>
+	<oksm_sh_name>ЗАМБИЯ</oksm_sh_name>
+	<oksm_full_name>Республика Замбия</oksm_full_name>
+	<oksm_id_alpfa2>ZM</oksm_id_alpfa2>
+	<oksm_id_alpfa3>ZMB</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>895</oksm_id>
+	<oksm_sh_name>АБХАЗИЯ</oksm_sh_name>
+	<oksm_full_name>Республика Абхазия</oksm_full_name>
+	<oksm_id_alpfa2>AB</oksm_id_alpfa2>
+	<oksm_id_alpfa3>ABH</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>896</oksm_id>
+	<oksm_sh_name>ЮЖНАЯ ОСЕТИЯ</oksm_sh_name>
+	<oksm_full_name>Республика Южная Осетия</oksm_full_name>
+	<oksm_id_alpfa2>OS</oksm_id_alpfa2>
+	<oksm_id_alpfa3>OST</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>626</oksm_id>
+	<oksm_sh_name>ТИМОР-ЛЕСТЕ</oksm_sh_name>
+	<oksm_full_name>Демократическая Республика Тимор-Лесте</oksm_full_name>
+	<oksm_id_alpfa2>TL</oksm_id_alpfa2>
+	<oksm_id_alpfa3>TLS</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>630</oksm_id>
+	<oksm_sh_name>ПУЭРТО-РИКО</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>PR</oksm_id_alpfa2>
+	<oksm_id_alpfa3>PRI</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>634</oksm_id>
+	<oksm_sh_name>КАТАР</oksm_sh_name>
+	<oksm_full_name>Государство Катар</oksm_full_name>
+	<oksm_id_alpfa2>QA</oksm_id_alpfa2>
+	<oksm_id_alpfa3>QAT</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>643</oksm_id>
+	<oksm_sh_name>РОССИЯ</oksm_sh_name>
+	<oksm_full_name>Российская Федерация</oksm_full_name>
+	<oksm_id_alpfa2>RU</oksm_id_alpfa2>
+	<oksm_id_alpfa3>RUS</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>646</oksm_id>
+	<oksm_sh_name>РУАНДА</oksm_sh_name>
+	<oksm_full_name>Руандийская Республика</oksm_full_name>
+	<oksm_id_alpfa2>RW</oksm_id_alpfa2>
+	<oksm_id_alpfa3>RWA</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>654</oksm_id>
+	<oksm_sh_name>СВЯТАЯ ЕЛЕНА, ОСТРОВ ВОЗНЕСЕНИЯ, ТРИСТАН-ДА-КУНЬЯ</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>SH</oksm_id_alpfa2>
+	<oksm_id_alpfa3>SHN</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>659</oksm_id>
+	<oksm_sh_name>СЕНТ-КИТС И НЕВИС</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>KN</oksm_id_alpfa2>
+	<oksm_id_alpfa3>KNA</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>660</oksm_id>
+	<oksm_sh_name>АНГИЛЬЯ</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>AI</oksm_id_alpfa2>
+	<oksm_id_alpfa3>AIA</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>662</oksm_id>
+	<oksm_sh_name>СЕНТ-ЛЮСИЯ</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>LC</oksm_id_alpfa2>
+	<oksm_id_alpfa3>LCA</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>694</oksm_id>
+	<oksm_sh_name>СЬЕРРА-ЛЕОНЕ</oksm_sh_name>
+	<oksm_full_name>Республика Сьерра-Леоне</oksm_full_name>
+	<oksm_id_alpfa2>SL</oksm_id_alpfa2>
+	<oksm_id_alpfa3>SLE</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>702</oksm_id>
+	<oksm_sh_name>СИНГАПУР</oksm_sh_name>
+	<oksm_full_name>Республика Сингапур</oksm_full_name>
+	<oksm_id_alpfa2>SG</oksm_id_alpfa2>
+	<oksm_id_alpfa3>SGP</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>703</oksm_id>
+	<oksm_sh_name>СЛОВАКИЯ</oksm_sh_name>
+	<oksm_full_name>Словацкая Республика</oksm_full_name>
+	<oksm_id_alpfa2>SK</oksm_id_alpfa2>
+	<oksm_id_alpfa3>SVK</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>704</oksm_id>
+	<oksm_sh_name>ВЬЕТНАМ</oksm_sh_name>
+	<oksm_full_name>Социалистическая Республика Вьетнам</oksm_full_name>
+	<oksm_id_alpfa2>VN</oksm_id_alpfa2>
+	<oksm_id_alpfa3>VNM</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>705</oksm_id>
+	<oksm_sh_name>СЛОВЕНИЯ</oksm_sh_name>
+	<oksm_full_name>Республика Словения</oksm_full_name>
+	<oksm_id_alpfa2>SI</oksm_id_alpfa2>
+	<oksm_id_alpfa3>SVN</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>706</oksm_id>
+	<oksm_sh_name>СОМАЛИ</oksm_sh_name>
+	<oksm_full_name>Федеративная Республика Сомали</oksm_full_name>
+	<oksm_id_alpfa2>SO</oksm_id_alpfa2>
+	<oksm_id_alpfa3>SOM</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>710</oksm_id>
+	<oksm_sh_name>ЮЖНАЯ АФРИКА</oksm_sh_name>
+	<oksm_full_name>Южно-Африканская Республика</oksm_full_name>
+	<oksm_id_alpfa2>ZA</oksm_id_alpfa2>
+	<oksm_id_alpfa3>ZAF</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>716</oksm_id>
+	<oksm_sh_name>ЗИМБАБВЕ</oksm_sh_name>
+	<oksm_full_name>Республика Зимбабве</oksm_full_name>
+	<oksm_id_alpfa2>ZW</oksm_id_alpfa2>
+	<oksm_id_alpfa3>ZWE</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>724</oksm_id>
+	<oksm_sh_name>ИСПАНИЯ</oksm_sh_name>
+	<oksm_full_name>Королевство Испания</oksm_full_name>
+	<oksm_id_alpfa2>ES</oksm_id_alpfa2>
+	<oksm_id_alpfa3>ESP</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>728</oksm_id>
+	<oksm_sh_name>ЮЖНЫЙ СУДАН</oksm_sh_name>
+	<oksm_full_name>Республика Южный Судан</oksm_full_name>
+	<oksm_id_alpfa2>SS</oksm_id_alpfa2>
+	<oksm_id_alpfa3>SSD</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>804</oksm_id>
+	<oksm_sh_name>УКРАИНА</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>UA</oksm_id_alpfa2>
+	<oksm_id_alpfa3>UKR</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>466</oksm_id>
+	<oksm_sh_name>МАЛИ</oksm_sh_name>
+	<oksm_full_name>Республика Мали</oksm_full_name>
+	<oksm_id_alpfa2>ML</oksm_id_alpfa2>
+	<oksm_id_alpfa3>MLI</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>470</oksm_id>
+	<oksm_sh_name>МАЛЬТА</oksm_sh_name>
+	<oksm_full_name>Республика Мальта</oksm_full_name>
+	<oksm_id_alpfa2>MT</oksm_id_alpfa2>
+	<oksm_id_alpfa3>MLT</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>474</oksm_id>
+	<oksm_sh_name>МАРТИНИКА</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>MQ</oksm_id_alpfa2>
+	<oksm_id_alpfa3>MTQ</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>478</oksm_id>
+	<oksm_sh_name>МАВРИТАНИЯ</oksm_sh_name>
+	<oksm_full_name>Исламская Республика Мавритания</oksm_full_name>
+	<oksm_id_alpfa2>MR</oksm_id_alpfa2>
+	<oksm_id_alpfa3>MRT</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>480</oksm_id>
+	<oksm_sh_name>МАВРИКИЙ</oksm_sh_name>
+	<oksm_full_name>Республика Маврикий</oksm_full_name>
+	<oksm_id_alpfa2>MU</oksm_id_alpfa2>
+	<oksm_id_alpfa3>MUS</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>484</oksm_id>
+	<oksm_sh_name>МЕКСИКА</oksm_sh_name>
+	<oksm_full_name>Мексиканские Соединенные Штаты</oksm_full_name>
+	<oksm_id_alpfa2>MX</oksm_id_alpfa2>
+	<oksm_id_alpfa3>MEX</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>492</oksm_id>
+	<oksm_sh_name>МОНАКО</oksm_sh_name>
+	<oksm_full_name>Княжество Монако</oksm_full_name>
+	<oksm_id_alpfa2>MC</oksm_id_alpfa2>
+	<oksm_id_alpfa3>MCO</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>496</oksm_id>
+	<oksm_sh_name>МОНГОЛИЯ</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>MN</oksm_id_alpfa2>
+	<oksm_id_alpfa3>MNG</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>498</oksm_id>
+	<oksm_sh_name>МОЛДОВА, РЕСПУБЛИКА</oksm_sh_name>
+	<oksm_full_name>Республика Молдова</oksm_full_name>
+	<oksm_id_alpfa2>MD</oksm_id_alpfa2>
+	<oksm_id_alpfa3>MDA</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>499</oksm_id>
+	<oksm_sh_name>ЧЕРНОГОРИЯ</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>ME</oksm_id_alpfa2>
+	<oksm_id_alpfa3>MNE</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>500</oksm_id>
+	<oksm_sh_name>МОНТСЕРРАТ</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>MS</oksm_id_alpfa2>
+	<oksm_id_alpfa3>MSR</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>504</oksm_id>
+	<oksm_sh_name>МАРОККО</oksm_sh_name>
+	<oksm_full_name>Королевство Марокко</oksm_full_name>
+	<oksm_id_alpfa2>MA</oksm_id_alpfa2>
+	<oksm_id_alpfa3>MAR</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>508</oksm_id>
+	<oksm_sh_name>МОЗАМБИК</oksm_sh_name>
+	<oksm_full_name>Республика Мозамбик</oksm_full_name>
+	<oksm_id_alpfa2>MZ</oksm_id_alpfa2>
+	<oksm_id_alpfa3>MOZ</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>288</oksm_id>
+	<oksm_sh_name>ГАНА</oksm_sh_name>
+	<oksm_full_name>Республика Гана</oksm_full_name>
+	<oksm_id_alpfa2>GH</oksm_id_alpfa2>
+	<oksm_id_alpfa3>GHA</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>292</oksm_id>
+	<oksm_sh_name>ГИБРАЛТАР</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>GI</oksm_id_alpfa2>
+	<oksm_id_alpfa3>GIB</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>296</oksm_id>
+	<oksm_sh_name>КИРИБАТИ</oksm_sh_name>
+	<oksm_full_name>Республика Кирибати</oksm_full_name>
+	<oksm_id_alpfa2>KI</oksm_id_alpfa2>
+	<oksm_id_alpfa3>KIR</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>300</oksm_id>
+	<oksm_sh_name>ГРЕЦИЯ</oksm_sh_name>
+	<oksm_full_name>Греческая Республика</oksm_full_name>
+	<oksm_id_alpfa2>GR</oksm_id_alpfa2>
+	<oksm_id_alpfa3>GRC</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>304</oksm_id>
+	<oksm_sh_name>ГРЕНЛАНДИЯ</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>GL</oksm_id_alpfa2>
+	<oksm_id_alpfa3>GRL</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>308</oksm_id>
+	<oksm_sh_name>ГРЕНАДА</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>GD</oksm_id_alpfa2>
+	<oksm_id_alpfa3>GRD</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>112</oksm_id>
+	<oksm_sh_name>БЕЛАРУСЬ</oksm_sh_name>
+	<oksm_full_name>Республика Беларусь</oksm_full_name>
+	<oksm_id_alpfa2>BY</oksm_id_alpfa2>
+	<oksm_id_alpfa3>BLR</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>116</oksm_id>
+	<oksm_sh_name>КАМБОДЖА</oksm_sh_name>
+	<oksm_full_name>Королевство Камбоджа</oksm_full_name>
+	<oksm_id_alpfa2>KH</oksm_id_alpfa2>
+	<oksm_id_alpfa3>KHM</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>831</oksm_id>
+	<oksm_sh_name>ГЕРНСИ</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>GG</oksm_id_alpfa2>
+	<oksm_id_alpfa3>GGY</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<oksm_id>832</oksm_id>
+	<oksm_sh_name>ДЖЕРСИ</oksm_sh_name>
+	<oksm_full_name></oksm_full_name>
+	<oksm_id_alpfa2>JE</oksm_id_alpfa2>
+	<oksm_id_alpfa3>JEY</oksm_id_alpfa3>
+	<date_beg>27.12.1995</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>

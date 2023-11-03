@@ -21,7 +21,10 @@ class ResultExaminations(NameMixin, DescriptionMixin, DateCreatedMixin):
         related_name="results",
     )
     sportsman = models.ForeignKey(
-        "users.User", verbose_name=_("Спортсмен"), on_delete=models.CASCADE
+        "users.User",
+        verbose_name=_("Спортсмен"),
+        on_delete=models.CASCADE,
+        related_name="results_examination",
     )
     result = models.JSONField(
         _("результат обследования"), blank=True, null=True

@@ -14,14 +14,12 @@ class Examination(NameMixin, DescriptionMixin, DateCreatedMixin):
     Обследование
     """
 
-    template = models.ForeignKey(
-        "examination.ExaminationTemplate",
-        verbose_name=_("Шаблон обследования"),
-        on_delete=models.CASCADE,
+    date_start = models.DateTimeField(
+        verbose_name=_("Дата начала события"), blank=True, null=True
     )
-
-    date = models.DateField(_("Дата обследования"), blank=True, null=True)
-
+    date_end = models.DateTimeField(
+        verbose_name=_("Дата начала события"), blank=True, null=True
+    )
     event = models.ForeignKey(
         "examination.Event",
         verbose_name=_("Событие"),

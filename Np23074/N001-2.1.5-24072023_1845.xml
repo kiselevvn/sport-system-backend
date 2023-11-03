@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="N001" version="2.1.5" date="24.07.2023" />
+
+<records>
+
+<record>
+	<fsos_id>0022</fsos_id>
+	<fsos_sport_type>0030006611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-16</fsos_order_date>
+	<fsos_order_num>997</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта "хоккей"</fsos_order_name>
+	<fsos_file>180</fsos_file>
+	<date_beg>16.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0033</fsos_id>
+	<fsos_sport_type>0150001611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-15</fsos_order_date>
+	<fsos_order_num>983</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта конный спорт"</fsos_order_name>
+	<fsos_file>147</fsos_file>
+	<date_beg>15.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0050</fsos_id>
+	<fsos_sport_type>0500003611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-30</fsos_order_date>
+	<fsos_order_num>1092</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта фигурное катание на коньках"</fsos_order_name>
+	<fsos_file>177</fsos_file>
+	<date_beg>30.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0049</fsos_id>
+	<fsos_sport_type>0200001611Я</fsos_sport_type>
+	<fsos_order_date>2022-10-31</fsos_order_date>
+	<fsos_order_num>877</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта фехтование"</fsos_order_name>
+	<fsos_file>176</fsos_file>
+	<date_beg>31.10.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0048</fsos_id>
+	<fsos_sport_type>0470001611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-15</fsos_order_date>
+	<fsos_order_num>988</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта тхэквондо"</fsos_order_name>
+	<fsos_file>174</fsos_file>
+	<date_beg>15.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0018</fsos_id>
+	<fsos_sport_type>0160001611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-09</fsos_order_date>
+	<fsos_order_num>953</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта "спортивная гимнастика"</fsos_order_name>
+	<fsos_file>169</fsos_file>
+	<date_beg>09.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0017</fsos_id>
+	<fsos_sport_type>0190001611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-23</fsos_order_date>
+	<fsos_order_num>1066</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта "современное пятиборье"</fsos_order_name>
+	<fsos_file>166</fsos_file>
+	<date_beg>23.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0012</fsos_id>
+	<fsos_sport_type>0070001611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-16</fsos_order_date>
+	<fsos_order_num>1004</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта "плавание"</fsos_order_name>
+	<fsos_file>154</fsos_file>
+	<date_beg>16.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0011</fsos_id>
+	<fsos_sport_type>0310005611Я</fsos_sport_type>
+	<fsos_order_date>2022-09-17</fsos_order_date>
+	<fsos_order_num>733</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта "лыжные гонки"</fsos_order_name>
+	<fsos_file>151</fsos_file>
+	<date_beg>17.09.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0019</fsos_id>
+	<fsos_sport_type>0130002611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-15</fsos_order_date>
+	<fsos_order_num>980</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта "теннис"</fsos_order_name>
+	<fsos_file>172</fsos_file>
+	<date_beg>15.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0056</fsos_id>
+	<fsos_sport_type>0860001611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-09</fsos_order_date>
+	<fsos_order_num>961</fsos_order_num>
+	<fsos_order_name>Об утверждении федерального стандарта спортивной подготовки по виду спорта «танцевальный спорт»</fsos_order_name>
+	<fsos_file>283</fsos_file>
+	<date_beg>09.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0014</fsos_id>
+	<fsos_sport_type>0410005611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-02</fsos_order_date>
+	<fsos_order_num>907</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта "прыжки на лыжах с трамплина"</fsos_order_name>
+	<fsos_file>157</fsos_file>
+	<date_beg>02.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0013</fsos_id>
+	<fsos_sport_type>0390001611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-22</fsos_order_date>
+	<fsos_order_num>1054</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта "прыжки в воду"</fsos_order_name>
+	<fsos_file>155</fsos_file>
+	<date_beg>22.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0005</fsos_id>
+	<fsos_sport_type>0660002611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-02</fsos_order_date>
+	<fsos_order_num>903</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта "гольф"</fsos_order_name>
+	<fsos_file>140</fsos_file>
+	<date_beg>02.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0004</fsos_id>
+	<fsos_sport_type>0110002611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-02</fsos_order_date>
+	<fsos_order_num>902</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта "гандбол"</fsos_order_name>
+	<fsos_file>139</fsos_file>
+	<date_beg>02.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0003</fsos_id>
+	<fsos_sport_type>0050002611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-16</fsos_order_date>
+	<fsos_order_num>1005</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта "водное поло"</fsos_order_name>
+	<fsos_file>137</fsos_file>
+	<date_beg>16.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0002</fsos_id>
+	<fsos_sport_type>0250008611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-22</fsos_order_date>
+	<fsos_order_num>1055</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта "бокс"</fsos_order_name>
+	<fsos_file>135</fsos_file>
+	<date_beg>22.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0023</fsos_id>
+	<fsos_sport_type>0520001611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-15</fsos_order_date>
+	<fsos_order_num>984</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта "художественная гимнастика"</fsos_order_name>
+	<fsos_file>182</fsos_file>
+	<date_beg>15.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0001</fsos_id>
+	<fsos_sport_type>0400005611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-22</fsos_order_date>
+	<fsos_order_num>1046</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта "биатлон"</fsos_order_name>
+	<fsos_file>133</fsos_file>
+	<date_beg>22.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0021</fsos_id>
+	<fsos_sport_type>0010002611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-16</fsos_order_date>
+	<fsos_order_num>1000</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта "футбол"</fsos_order_name>
+	<fsos_file>179</fsos_file>
+	<date_beg>16.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0020</fsos_id>
+	<fsos_sport_type>0480001611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-09</fsos_order_date>
+	<fsos_order_num>949</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта "тяжелая атлетика"</fsos_order_name>
+	<fsos_file>175</fsos_file>
+	<date_beg>09.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0016</fsos_id>
+	<fsos_sport_type>0800001611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-02</fsos_order_date>
+	<fsos_order_num>904</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта "скалолазание"</fsos_order_name>
+	<fsos_file>163</fsos_file>
+	<date_beg>02.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0015</fsos_id>
+	<fsos_sport_type>1370001611Л</fsos_sport_type>
+	<fsos_order_date>2022-11-09</fsos_order_date>
+	<fsos_order_num>942</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта "серфинг"</fsos_order_name>
+	<fsos_file>161</fsos_file>
+	<date_beg>09.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0028</fsos_id>
+	<fsos_sport_type>0120002611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-15</fsos_order_date>
+	<fsos_order_num>987</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта волейбол"</fsos_order_name>
+	<fsos_file>138</fsos_file>
+	<date_beg>15.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0027</fsos_id>
+	<fsos_sport_type>0330003611Я</fsos_sport_type>
+	<fsos_order_date>2022-10-31</fsos_order_date>
+	<fsos_order_num>882</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта бобслей"</fsos_order_name>
+	<fsos_file>134</fsos_file>
+	<date_beg>31.10.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0026</fsos_id>
+	<fsos_sport_type>0180002611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-23</fsos_order_date>
+	<fsos_order_num>1062</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта бейсбол"</fsos_order_name>
+	<fsos_file>132</fsos_file>
+	<date_beg>23.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0025</fsos_id>
+	<fsos_sport_type>0140002611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-16</fsos_order_date>
+	<fsos_order_num>1006</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта баскетбол"</fsos_order_name>
+	<fsos_file>131</fsos_file>
+	<date_beg>16.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0024</fsos_id>
+	<fsos_sport_type>0240002611Я</fsos_sport_type>
+	<fsos_order_date>2022-10-31</fsos_order_date>
+	<fsos_order_num>880</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта бадминтон"</fsos_order_name>
+	<fsos_file>130</fsos_file>
+	<date_beg>31.10.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0052</fsos_id>
+	<fsos_sport_type>0320002611Я</fsos_sport_type>
+	<fsos_order_date>2022-10-31</fsos_order_date>
+	<fsos_order_num>875</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта хоккей на траве"</fsos_order_name>
+	<fsos_file>181</fsos_file>
+	<date_beg>31.10.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0051</fsos_id>
+	<fsos_sport_type>0510003611Я</fsos_sport_type>
+	<fsos_order_date>2022-10-31</fsos_order_date>
+	<fsos_order_num>876</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта фристайл"</fsos_order_name>
+	<fsos_file>178</fsos_file>
+	<date_beg>31.10.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0047</fsos_id>
+	<fsos_sport_type>0300005611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-02</fsos_order_date>
+	<fsos_order_num>906</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта триатлон"</fsos_order_name>
+	<fsos_file>173</fsos_file>
+	<date_beg>02.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0046</fsos_id>
+	<fsos_sport_type>0220005611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-09</fsos_order_date>
+	<fsos_order_num>955</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта стрельба из лука"</fsos_order_name>
+	<fsos_file>171</fsos_file>
+	<date_beg>09.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0045</fsos_id>
+	<fsos_sport_type>0460001611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-02</fsos_order_date>
+	<fsos_order_num>908</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта стендовая стрельба"</fsos_order_name>
+	<fsos_file>170</fsos_file>
+	<date_beg>02.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0043</fsos_id>
+	<fsos_sport_type>0430002611Б</fsos_sport_type>
+	<fsos_order_date>2022-11-16</fsos_order_date>
+	<fsos_order_num>992</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта софтбол"</fsos_order_name>
+	<fsos_file>167</fsos_file>
+	<date_beg>16.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0042</fsos_id>
+	<fsos_sport_type>0420003611Я</fsos_sport_type>
+	<fsos_order_date>2022-10-31</fsos_order_date>
+	<fsos_order_num>886</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта сноуборд"</fsos_order_name>
+	<fsos_file>165</fsos_file>
+	<date_beg>31.10.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0041</fsos_id>
+	<fsos_sport_type>0230001611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-30</fsos_order_date>
+	<fsos_order_num>1095</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта синхронное плавание"</fsos_order_name>
+	<fsos_file>162</fsos_file>
+	<date_beg>30.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0036</fsos_id>
+	<fsos_sport_type>0380005611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-09</fsos_order_date>
+	<fsos_order_num>943</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта парусный спорт"</fsos_order_name>
+	<fsos_file>153</fsos_file>
+	<date_beg>09.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0032</fsos_id>
+	<fsos_sport_type>0360004611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-18</fsos_order_date>
+	<fsos_order_num>1017</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта керлинг"</fsos_order_name>
+	<fsos_file>146</fsos_file>
+	<date_beg>18.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0031</fsos_id>
+	<fsos_sport_type>0270001611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-30</fsos_order_date>
+	<fsos_order_num>1090</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта гребной спорт"</fsos_order_name>
+	<fsos_file>144</fsos_file>
+	<date_beg>30.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0030</fsos_id>
+	<fsos_sport_type>0280008611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-09</fsos_order_date>
+	<fsos_order_num>945</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта гребля на байдарках и каноэ"</fsos_order_name>
+	<fsos_file>142</fsos_file>
+	<date_beg>09.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0029</fsos_id>
+	<fsos_sport_type>0060003611Я</fsos_sport_type>
+	<fsos_order_date>2022-10-31</fsos_order_date>
+	<fsos_order_num>881</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта горнолыжный спорт"</fsos_order_name>
+	<fsos_file>141</fsos_file>
+	<date_beg>31.10.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0008</fsos_id>
+	<fsos_sport_type>0550005611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-16</fsos_order_date>
+	<fsos_order_num>1002</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта "альпинизм"</fsos_order_name>
+	<fsos_file>183</fsos_file>
+	<date_beg>16.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0044</fsos_id>
+	<fsos_sport_type>0260001611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-30</fsos_order_date>
+	<fsos_order_num>1091</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта спортивная борьба"</fsos_order_name>
+	<fsos_file>168</fsos_file>
+	<date_beg>30.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0053</fsos_id>
+	<fsos_sport_type>1170001611Л</fsos_sport_type>
+	<fsos_order_date>2022-11-21</fsos_order_date>
+	<fsos_order_num>1035</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта скейтбординг"</fsos_order_name>
+	<fsos_file>164</fsos_file>
+	<date_beg>21.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0034</fsos_id>
+	<fsos_sport_type>0450003611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-16</fsos_order_date>
+	<fsos_order_num>995</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта конькобежный спорт"</fsos_order_name>
+	<fsos_file>148</fsos_file>
+	<date_beg>16.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0007</fsos_id>
+	<fsos_sport_type>0350001611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-24</fsos_order_date>
+	<fsos_order_num>1074</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта "дзюдо"</fsos_order_name>
+	<fsos_file>145</fsos_file>
+	<date_beg>24.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0006</fsos_id>
+	<fsos_sport_type>0930001611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-02</fsos_order_date>
+	<fsos_order_num>909</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта "гребной слалом"</fsos_order_name>
+	<fsos_file>143</fsos_file>
+	<date_beg>02.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0040</fsos_id>
+	<fsos_sport_type>0490003611Я</fsos_sport_type>
+	<fsos_order_date>2022-10-31</fsos_order_date>
+	<fsos_order_num>883</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта санный спорт"</fsos_order_name>
+	<fsos_file>160</fsos_file>
+	<date_beg>31.10.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0039</fsos_id>
+	<fsos_sport_type>0770002611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-18</fsos_order_date>
+	<fsos_order_num>1018</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта регби"</fsos_order_name>
+	<fsos_file>159</fsos_file>
+	<date_beg>18.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0038</fsos_id>
+	<fsos_sport_type>0440001611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-09</fsos_order_date>
+	<fsos_order_num>939</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта пулевая стрельба"</fsos_order_name>
+	<fsos_file>158</fsos_file>
+	<date_beg>09.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0035</fsos_id>
+	<fsos_sport_type>0040002611Я</fsos_sport_type>
+	<fsos_order_date>2022-10-31</fsos_order_date>
+	<fsos_order_num>884</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта настольный теннис"</fsos_order_name>
+	<fsos_file>152</fsos_file>
+	<date_beg>31.10.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0010</fsos_id>
+	<fsos_sport_type>0370005611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-09</fsos_order_date>
+	<fsos_order_num>950</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта "лыжное двоеборье"</fsos_order_name>
+	<fsos_file>150</fsos_file>
+	<date_beg>09.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0009</fsos_id>
+	<fsos_sport_type>0020001611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-16</fsos_order_date>
+	<fsos_order_num>996</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта "легкая атлетика"</fsos_order_name>
+	<fsos_file>149</fsos_file>
+	<date_beg>16.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0037</fsos_id>
+	<fsos_sport_type>0210001611Я</fsos_sport_type>
+	<fsos_order_date>2022-10-31</fsos_order_date>
+	<fsos_order_num>878</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта прыжки на батуте"</fsos_order_name>
+	<fsos_file>156</fsos_file>
+	<date_beg>31.10.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsos_id>0054</fsos_id>
+	<fsos_sport_type>0080001611Я</fsos_sport_type>
+	<fsos_order_date>2022-11-30</fsos_order_date>
+	<fsos_order_num>1099</fsos_order_num>
+	<fsos_order_name>Приказ "Об утверждении федерального стандарта спортивной подготовки по виду спорта Велосипедный спорт"</fsos_order_name>
+	<fsos_file>136</fsos_file>
+	<date_beg>30.11.2022</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>

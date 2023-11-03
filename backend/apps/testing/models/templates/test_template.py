@@ -18,6 +18,9 @@ class TestTemplate(NameMixin, DateCreatedMixin, DescriptionMixin):
     is_published = models.BooleanField(
         _("Является опубликованным"), default=False
     )
+    max_win_score = models.IntegerField(
+        _("Максимальный балл"), blank=True, null=True
+    )
 
     def __str__(self):
         if self.name and self.name != "":

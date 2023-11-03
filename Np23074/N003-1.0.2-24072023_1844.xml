@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="N003" version="1.0.2" date="24.07.2023" />
+
+<records>
+
+<record>
+	<fsas_id>0005</fsas_id>
+	<fsas_sport_type>1150007711Я</fsas_sport_type>
+	<fsas_order_num>1100</fsas_order_num>
+	<fsas_order_name>Об утверждении федерального стандарта спортивной подготовки по виду спорта Спорт слепых	</fsas_order_name>
+	<fsas_order_date>2022-11-30</fsas_order_date>
+	<fsas_file>288</fsas_file>
+	<date_beg>30.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsas_id>0004</fsas_id>
+	<fsas_sport_type>1200002711А</fsas_sport_type>
+	<fsas_order_num>1053</fsas_order_num>
+	<fsas_order_name>Об утверждении федерального стандарта спортивной подготовки по виду спорта Футбол лиц с заболеванием ЦП	</fsas_order_name>
+	<fsas_order_date>2022-11-22</fsas_order_date>
+	<fsas_file>287</fsas_file>
+	<date_beg>22.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsas_id>0003</fsas_id>
+	<fsas_sport_type>1490007711Я	</fsas_sport_type>
+	<fsas_order_num>1082</fsas_order_num>
+	<fsas_order_name>Об утверждении федерального стандарта спортивной подготовки по виду спорта Спорт лиц с интеллектуальными нарушениями	</fsas_order_name>
+	<fsas_order_date>2022-11-28</fsas_order_date>
+	<fsas_file>286</fsas_file>
+	<date_beg>28.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsas_id>0002</fsas_id>
+	<fsas_sport_type>1160007711Я	</fsas_sport_type>
+	<fsas_order_num>1084</fsas_order_num>
+	<fsas_order_name>Об утверждении федерального стандарта спортивной подготовки по виду спорта Спорт лиц с поражением ОДА	</fsas_order_name>
+	<fsas_order_date>2022-11-28</fsas_order_date>
+	<fsas_file>285</fsas_file>
+	<date_beg>28.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fsas_id>0001</fsas_id>
+	<fsas_sport_type>1140007711Я	</fsas_sport_type>
+	<fsas_order_num>1051</fsas_order_num>
+	<fsas_order_name>Об утверждении федерального стандарта спортивной подготовки по виду спорта Спорт глухих</fsas_order_name>
+	<fsas_order_date>2022-11-22</fsas_order_date>
+	<fsas_file>284</fsas_file>
+	<date_beg>22.11.2022</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>

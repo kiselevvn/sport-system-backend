@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="F001" version="1.1.2" date="24.07.2023" />
+
+<records>
+
+<record>
+	<lvl_event_id>A</lvl_event_id>
+	<lvl_event_name>Международные и всероссийские физкультурные мероприятия и спортивные мероприятия</lvl_event_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<lvl_event_id>B</lvl_event_id>
+	<lvl_event_name>Межрегиональные физкультурные мероприятия и спортивные мероприятия, а также физкультурные мероприятия и спортивные мероприятия субъекта Российской Федерации</lvl_event_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<lvl_event_id>C</lvl_event_id>
+	<lvl_event_name>Иные физкультурные мероприятия и спортивные мероприятия</lvl_event_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="C010" version="2.0.4" date="24.07.2023" />
+
+<records>
+
+<record>
+	<fin_id>0003</fin_id>
+	<fin_type>Субсидия</fin_type>
+	<date_beg>03.03.2023</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fin_id>0001</fin_id>
+	<fin_type>Минспорт России</fin_type>
+	<date_beg>03.03.2023</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fin_id>0002</fin_id>
+	<fin_type>Долевое участие Минспорта России</fin_type>
+	<date_beg>03.03.2023</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<fin_id>0004</fin_id>
+	<fin_type>Федеральные тренировочные базы</fin_type>
+	<date_beg>03.03.2023</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>

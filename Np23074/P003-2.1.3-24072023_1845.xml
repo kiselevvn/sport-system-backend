@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="P003" version="2.1.3" date="24.07.2023" />
+
+<records>
+
+<record>
+	<judge_pos_id>0002</judge_pos_id>
+	<judge_pos_name>Главный спортивный судья-секретарь</judge_pos_name>
+	<date_beg>04.10.2021</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<judge_pos_id>0001</judge_pos_id>
+	<judge_pos_name>Главный спортивный судья и (или) технический делегат</judge_pos_name>
+	<date_beg>04.10.2021</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<judge_pos_id>0009</judge_pos_id>
+	<judge_pos_name>Спортивный судья, входящий в состав судейской бригады</judge_pos_name>
+	<date_beg>04.10.2021</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<judge_pos_id>0005</judge_pos_id>
+	<judge_pos_name>Главный спортивный судья</judge_pos_name>
+	<date_beg>04.10.2021</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<judge_pos_id>0004</judge_pos_id>
+	<judge_pos_name>Спортивный судья, входящий в состав судейской бригады</judge_pos_name>
+	<date_beg>04.10.2021</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<judge_pos_id>0003</judge_pos_id>
+	<judge_pos_name>Заместитель главного спортивного судьи, главного судьи-секретаря и спортивный судья, включенный в состав главной судейской коллегии</judge_pos_name>
+	<date_beg>04.10.2021</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<judge_pos_id>0008</judge_pos_id>
+	<judge_pos_name>Помощник спортивного судьи матча и (или) линейный спортивный судья матча</judge_pos_name>
+	<date_beg>04.10.2021</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<judge_pos_id>0007</judge_pos_id>
+	<judge_pos_name>Главный спортивный судья матча (спортивный судья матча) и (или) комиссар (инспектор)</judge_pos_name>
+	<date_beg>04.10.2021</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<judge_pos_id>0006</judge_pos_id>
+	<judge_pos_name>Заместитель главного спортивного судьи, главного судьи-секретаря</judge_pos_name>
+	<date_beg>04.10.2021</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>

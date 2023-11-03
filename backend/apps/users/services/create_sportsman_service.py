@@ -15,6 +15,7 @@ def create_sportsman_service(commit=True, **kwargs):
     user.last_name = kwargs["last_name"]
     user.first_name = kwargs["first_name"]
     user.second_name = kwargs["second_name"]
+    user.birthday = kwargs["birthday"]
     #
     user.is_sportsman = True
 

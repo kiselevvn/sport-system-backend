@@ -14,13 +14,6 @@ class Event(NameMixin, DescriptionMixin, DateCreatedMixin):
     Событие
     """
 
-    date_start = models.DateTimeField(
-        verbose_name=_("Дата начала события"), blank=True, null=True
-    )
-    date_end = models.DateTimeField(
-        verbose_name=_("Дата начала события"), blank=True, null=True
-    )
-
     class Meta:
         verbose_name = _("Событие")
         verbose_name_plural = _("События")

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="C005" version="1.1.6" date="24.07.2023" />
+
+<records>
+
+<record>
+	<section id_section="1" section_name="Физкультурные мероприятия" />
+	<event_kind_id>0001</event_kind_id>
+	<event_kind_name>Международные физкультурные мероприятия</event_kind_name>
+	<date_beg>08.05.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<section id_section="1" section_name="Физкультурные мероприятия" />
+	<event_kind_id>0007</event_kind_id>
+	<event_kind_name>Всероссийские комплексные физкультурные мероприятия</event_kind_name>
+	<date_beg>08.05.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<section id_section="1" section_name="Физкультурные мероприятия" />
+	<event_kind_id>0011</event_kind_id>
+	<event_kind_name>Международные комплексные физкультурные мероприятия</event_kind_name>
+	<date_beg>08.05.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<section id_section="1" section_name="Физкультурные мероприятия" />
+	<event_kind_id>0002</event_kind_id>
+	<event_kind_name>Межрегиональные физкультурные мероприятия</event_kind_name>
+	<date_beg>08.05.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<section id_section="1" section_name="Физкультурные мероприятия" />
+	<event_kind_id>0003</event_kind_id>
+	<event_kind_name>Всероссийские физкультурные мероприятия</event_kind_name>
+	<date_beg>08.05.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<section id_section="2" section_name="Спортивные мероприятия" />
+	<event_kind_id>0010</event_kind_id>
+	<event_kind_name>Международные комплексные спортивные мероприятия</event_kind_name>
+	<date_beg>08.05.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<section id_section="2" section_name="Спортивные мероприятия" />
+	<event_kind_id>0009</event_kind_id>
+	<event_kind_name>Всероссийские комплексные спортивные мероприятия</event_kind_name>
+	<date_beg>08.05.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<section id_section="2" section_name="Спортивные мероприятия" />
+	<event_kind_id>0004</event_kind_id>
+	<event_kind_name>Международные спортивные мероприятия</event_kind_name>
+	<date_beg>08.05.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<section id_section="2" section_name="Спортивные мероприятия" />
+	<event_kind_id>0008</event_kind_id>
+	<event_kind_name>Учебно-тренировочные мероприятия</event_kind_name>
+	<date_beg>08.05.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<section id_section="2" section_name="Спортивные мероприятия" />
+	<event_kind_id>0005</event_kind_id>
+	<event_kind_name>Всероссийские спортивные мероприятия</event_kind_name>
+	<date_beg>08.05.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<section id_section="2" section_name="Спортивные мероприятия" />
+	<event_kind_id>0006</event_kind_id>
+	<event_kind_name>Межрегиональные спортивные мероприятия</event_kind_name>
+	<date_beg>08.05.2009</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>

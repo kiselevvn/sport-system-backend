@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="P010" version="1.2.3" date="24.07.2023" />
+
+<records>
+
+<record>
+	<prep_stage_id>0001</prep_stage_id>
+	<prep_stage_name>Спортивно-оздоровительный этап</prep_stage_name>
+	<date_beg>04.12.2007</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<prep_stage_id>0003</prep_stage_id>
+	<prep_stage_name>Учебно - тренировочный этап (этап спортивной специализации)</prep_stage_name>
+	<date_beg>01.01.2023</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<prep_stage_id>0002</prep_stage_id>
+	<prep_stage_name>Этап начальной подготовки</prep_stage_name>
+	<date_beg>04.12.2007</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<prep_stage_id>0004</prep_stage_id>
+	<prep_stage_name>Этап совершенствования спортивного мастерства</prep_stage_name>
+	<date_beg>04.12.2007</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<prep_stage_id>0005</prep_stage_id>
+	<prep_stage_name>Этап высшего спортивного мастерства</prep_stage_name>
+	<date_beg>04.12.2007</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>

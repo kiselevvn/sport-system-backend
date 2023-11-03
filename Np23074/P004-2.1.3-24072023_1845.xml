@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="P004" version="2.1.3" date="24.07.2023" />
+
+<records>
+
+<record>
+	<judge_cat_id>0003</judge_cat_id>
+	<judge_cat_name>Спортивный судья второй категории</judge_cat_name>
+	<date_beg>27.08.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<judge_cat_id>0004</judge_cat_id>
+	<judge_cat_name>Спортивный судья третьей категории</judge_cat_name>
+	<date_beg>27.08.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<judge_cat_id>0005</judge_cat_id>
+	<judge_cat_name>Юный спортивный судья</judge_cat_name>
+	<date_beg>27.08.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<judge_cat_id>0001</judge_cat_id>
+	<judge_cat_name>Спортивный судья всероссийской категории</judge_cat_name>
+	<date_beg>27.08.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<judge_cat_id>0002</judge_cat_id>
+	<judge_cat_name>Спортивный судья первой категории</judge_cat_name>
+	<date_beg>27.08.2008</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>

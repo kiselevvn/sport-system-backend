@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="P008" version="2.1.2" date="24.07.2023" />
+
+<records>
+
+<record>
+	<doc_id>16</doc_id>
+	<doc_name>Свидетельство о предоставлении временного убежища на территории Российской Федерации</doc_name>
+	<mask_ser>ББ</mask_ser>
+	<mask_num>9999999</mask_num>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<doc_id>15</doc_id>
+	<doc_name>Свидетельство о рождении, выданное уполномоченным органом иностранного государства</doc_name>
+	<mask_ser>S1</mask_ser>
+	<mask_num>000000000009</mask_num>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<doc_id>14</doc_id>
+	<doc_name>Разрешение на временное проживание в Российской Федерации</doc_name>
+	<mask_ser>S1</mask_ser>
+	<mask_num>000000000009</mask_num>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<doc_id>13</doc_id>
+	<doc_name>Документ лица без гражданства</doc_name>
+	<mask_ser>S1</mask_ser>
+	<mask_num>000000000009</mask_num>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<doc_id>12</doc_id>
+	<doc_name>Документ иностранного гражданина</doc_name>
+	<mask_ser>S1</mask_ser>
+	<mask_num>000000000009</mask_num>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<doc_id>11</doc_id>
+	<doc_name>Заграничный паспорт гражданина СССР</doc_name>
+	<mask_ser>S</mask_ser>
+	<mask_num>00000009</mask_num>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<doc_id>10</doc_id>
+	<doc_name>Иной документ, предусмотренный законодательством Российской Федерации</doc_name>
+	<mask_ser>S1</mask_ser>
+	<mask_num>0000000009</mask_num>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<doc_id>28</doc_id>
+	<doc_name>Временное удостоверение личности лица без гражданства в Российской Федерации</doc_name>
+	<mask_ser>S1</mask_ser>
+	<mask_num>000000000009</mask_num>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<doc_id>27</doc_id>
+	<doc_name>Удостоверение личности военнослужащего Российской Федерации</doc_name>
+	<mask_ser>ББ</mask_ser>
+	<mask_num>9999999</mask_num>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<doc_id>26</doc_id>
+	<doc_name>Временное удостоверение, выданное взамен военного билета</doc_name>
+	<mask_ser>ББ</mask_ser>
+	<mask_num>9999999</mask_num>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<doc_id>25</doc_id>
+	<doc_name>Иностранный паспорт</doc_name>
+	<mask_ser>S</mask_ser>
+	<mask_num>000000000009</mask_num>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<doc_id>24</doc_id>
+	<doc_name>Дипломатический паспорт гражданина Российской Федерации</doc_name>
+	<mask_ser>99</mask_ser>
+	<mask_num>9999999</mask_num>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<doc_id>23</doc_id>
+	<doc_name>Военный билет солдата (матроса, сержанта, старшины)</doc_name>
+	<mask_ser>ББ</mask_ser>
+	<mask_num>9999990</mask_num>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<doc_id>21</doc_id>
+	<doc_name>Справка об освобождении из места лишения свободы</doc_name>
+	<mask_ser>S</mask_ser>
+	<mask_num>00000009</mask_num>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<doc_id>20</doc_id>
+	<doc_name>Удостоверение личности офицера</doc_name>
+	<mask_ser>ББ</mask_ser>
+	<mask_num>9999999</mask_num>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<doc_id>19</doc_id>
+	<doc_name>Свидетельство о рождении</doc_name>
+	<mask_ser>R-ББ</mask_ser>
+	<mask_num>999999</mask_num>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<doc_id>18</doc_id>
+	<doc_name>Иной документ, соответствующий свидетельству о предоставлении убежища на территории Российской Федерации</doc_name>
+	<mask_ser>S1</mask_ser>
+	<mask_num>000000000009</mask_num>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<doc_id>17</doc_id>
+	<doc_name>Копия жалобы о лишении статуса беженца</doc_name>
+	<mask_ser>S</mask_ser>
+	<mask_num>000000000009</mask_num>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<doc_id>9</doc_id>
+	<doc_name>Военный билет офицера запаса</doc_name>
+	<mask_ser>ББ</mask_ser>
+	<mask_num>999999</mask_num>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<doc_id>8</doc_id>
+	<doc_name>Паспорт моряка</doc_name>
+	<mask_ser>ББ</mask_ser>
+	<mask_num>999990</mask_num>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<doc_id>7</doc_id>
+	<doc_name>Заграничный паспорт гражданина Российской Федерации</doc_name>
+	<mask_ser>99</mask_ser>
+	<mask_num>9999999</mask_num>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<doc_id>6</doc_id>
+	<doc_name>Паспорт гражданина Российской Федерации</doc_name>
+	<mask_ser>99 99</mask_ser>
+	<mask_num>9999990</mask_num>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<doc_id>5</doc_id>
+	<doc_name>Временное удостоверение личности гражданина Российской Федерации</doc_name>
+	<mask_ser>S</mask_ser>
+	<mask_num>000000000009</mask_num>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<doc_id>4</doc_id>
+	<doc_name>Удостоверение беженца в Российской Федерации</doc_name>
+	<mask_ser>S</mask_ser>
+	<mask_num>000000000009</mask_num>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<doc_id>3</doc_id>
+	<doc_name>Вид на жительство лица без гражданства</doc_name>
+	<mask_ser>S1</mask_ser>
+	<mask_num>000000000009</mask_num>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<doc_id>2</doc_id>
+	<doc_name>Свидетельство о рассмотрении ходатайства о признании беженцем на территории Российской Федерации по существу</doc_name>
+	<mask_ser>S</mask_ser>
+	<mask_num>000000000009</mask_num>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<doc_id>1</doc_id>
+	<doc_name>Паспорт гражданина СССР</doc_name>
+	<mask_ser>R-ББ</mask_ser>
+	<mask_num>999999</mask_num>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<doc_id>22</doc_id>
+	<doc_name>Паспорт Минморфлота СССР</doc_name>
+	<mask_ser>ББ</mask_ser>
+	<mask_num>999999</mask_num>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>

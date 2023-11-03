@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="S002" version="1.1.2" date="24.07.2023" />
+
+<records>
+
+<record>
+	<stat_rep_id>0001</stat_rep_id>
+	<stat_rep_name>1-ФК</stat_rep_name>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<stat_rep_id>0003</stat_rep_id>
+	<stat_rep_name>5-ФК</stat_rep_name>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<stat_rep_id>0002</stat_rep_id>
+	<stat_rep_name>3-АФК</stat_rep_name>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>

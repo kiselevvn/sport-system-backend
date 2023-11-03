@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="E002" version="2.1.3" date="24.07.2023" />
+
+<records>
+
+<record>
+	<trainer_sp_id>0001</trainer_sp_id>
+	<trainer_sp_name>Корпоративный спорт</trainer_sp_name>
+	<date_beg>04.12.2007</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_sp_id>0002</trainer_sp_id>
+	<trainer_sp_name>Массовый спорт</trainer_sp_name>
+	<date_beg>04.12.2007</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_sp_id>0003</trainer_sp_id>
+	<trainer_sp_name>Детско-юношеский спорт</trainer_sp_name>
+	<date_beg>04.12.2007</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_sp_id>0004</trainer_sp_id>
+	<trainer_sp_name>Профессиональный спорт</trainer_sp_name>
+	<date_beg>04.12.2007</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_sp_id>0005</trainer_sp_id>
+	<trainer_sp_name>Спорт высших достижений</trainer_sp_name>
+	<date_beg>04.12.2007</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_sp_id>0006</trainer_sp_id>
+	<trainer_sp_name>Спортивный резерв (спортивная подготовка)</trainer_sp_name>
+	<date_beg>04.12.2007</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_sp_id>0007</trainer_sp_id>
+	<trainer_sp_name>Студенческий спорт</trainer_sp_name>
+	<date_beg>04.12.2007</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_sp_id>0008</trainer_sp_id>
+	<trainer_sp_name>Школьный спорт</trainer_sp_name>
+	<date_beg>04.12.2007</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>

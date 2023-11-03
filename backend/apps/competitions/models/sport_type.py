@@ -5,23 +5,6 @@ from django.utils.translation import gettext as _
 class SportType(models.Model):
     """
     Вид спорта
-
-    9. Одиннадцатый знак отмечает пол и возрастную категорию занимающихся видом спорта, спортивной дисциплиной:
-    9.1. А — мужчины, юноши (юниоры).
-    9.2. Б — женщины, девушки (юниорки).
-    9.3. Г — мужчины, юноши (юниоры), женщины.
-    9.4. Д — девушки (юниорки).
-    9.5. Е — мужчины, девушки (юниорки).
-    9.6. Ж — женщины.
-    9.7. К — мужчины, женщины, девушки (юниорки).
-    9.8. Л — мужчины, женщины.
-    9.9. М — мужчины.
-    9.10. Н — юноши (юниоры), девушки (юниорки).
-    9.11. С — юноши (юниоры), девушки (юниорки), женщины.
-    9.12. Ф — мужчины, юноши (юниоры), девушки (юниорки).
-    9.13. Э — юноши (юниоры), женщины.
-    9.14. Ю — юноши (юниоры).
-    9.15. Я — все категории[2].
     """
 
     code_id = models.CharField(
@@ -34,6 +17,23 @@ class SportType(models.Model):
     )
     is_actual = models.BooleanField(_("Является актуальным"), default=False)
 
+    GROUPS = {
+        "А": "мужчины, юноши (юниоры)",
+        "Б": "женщины, девушки (юниорки)",
+        "Г": "мужчины, юноши (юниоры), женщины",
+        "Д": "девушки (юниорки)",
+        "Е": "мужчины, девушки (юниорки)",
+        "Ж": "женщины",
+        "К": "мужчины, женщины, девушки (юниорки)",
+        "Л": "мужчины, женщины",
+        "М": "мужчины",
+        "Н": "юноши (юниоры), девушки (юниорки)",
+        "С": "юноши (юниоры), девушки (юниорки), женщины",
+        "Ф": "мужчины, юноши (юниоры), девушки (юниорки)",
+        "Э": "юноши (юниоры), женщины.",
+        "Ю": "юноши (юниоры)",
+        "Я": "все категории",
+    }
     SEASON = {
         False: {
             "1": "летний неигровой вид спорта",
@@ -56,7 +56,6 @@ class SportType(models.Model):
             "4": "зимняя игровая спортивная дисциплина",
         },
     }
-
     PROPAGATION = {
         False: {
             "1": "военно-прикладной или служебно-прикладной вид спорта,"
@@ -89,7 +88,6 @@ class SportType(models.Model):
             + " в программу Олимпийских игр.",
         },
     }
-
     DEVELOPMENT = {
         "1": "руководство развитием вида спорта федеральными органами"
         + " исполнительно власти не осуществляется",
@@ -114,7 +112,6 @@ class SportType(models.Model):
         + " ФСИН России, ФСО России, ГФС России,"
         + " Федеральная таможенная служба, МВД России, СВР России, ГУСП",
     }
-
     EXTRA = {
         "1": "не имеется ограничений",
         "2": "имеются ограничения, установленные федеральным"
@@ -123,6 +120,9 @@ class SportType(models.Model):
         "3": "национальный вид спорта Республики Саха (Якутии)",
         "4": "национальный вид спорта Республики Татарстан (Татарстана)",
         "5": "национальный вид спорта Чувашской Республики — Чувашии",
+        "6": "национальный вид спорта Республики Тыва",
+        "7": "национальный вид спорта Республики Ингушетия",
+        "8": "---",
     }
 
     @property
@@ -151,31 +151,59 @@ class SportType(models.Model):
 
     @property
     def get_seaseon_id(self):
-        return self.code_id[7]
+        return self.code_id[6]
 
     @property
     def get_seaseon_label(self):
-        return self.SEASON[self.is_discipline][self.code_id[7]]
+        return self.SEASON[self.is_discipline][self.code_id[6]]
 
     @property
     def get_propagation_id(self):
-        return self.code_id[8]
+        return self.code_id[7]
 
     @property
     def get_propagation_label(self):
-        return self.PROPAGATION[self.is_discipline][self.code_id[8]]
+        return self.PROPAGATION[self.is_discipline][self.code_id[7]]
 
     @property
     def get_development_label(self):
-        return self.DEVELOPMENT[self.code_id[9]]
+        return self.DEVELOPMENT[self.code_id[8]]
 
     @property
     def get_extra_id(self):
-        return self.code_id[10]
+        return self.code_id[9]
 
     @property
     def get_extra_label(self):
-        return self.EXTRA[self.code_id[10]]
+        print(self.code_id)
+        return self.EXTRA[self.code_id[9]]
+
+    @property
+    def get_group_id(self):
+        return self.code_id[10]
+
+    @property
+    def get_group_label(self):
+        return self.GROUPS[self.code_id[10]]
+
+    list_fields = [
+        "id",
+        "name",
+        "is_actual",
+        "code_id",
+        "is_discipline",
+        "discipline_id",
+        "public_id",
+        "get_seaseon_id",
+        "get_seaseon_label",
+        "get_propagation_id",
+        "get_propagation_label",
+        "get_development_label",
+        "get_extra_id",
+        "get_extra_label",
+        "get_group_id",
+        "get_group_label",
+    ]
 
     class Meta:
         verbose_name = _("Вид спорта")

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="C007" version="1.1.2" date="24.07.2023" />
+
+<records>
+
+<record>
+	<id_place_ev>0004</id_place_ev>
+	<name_place_ev>Онлайн</name_place_ev>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<id_place_ev>0003</id_place_ev>
+	<name_place_ev>По месту нахождения участников</name_place_ev>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<id_place_ev>0002</id_place_ev>
+	<name_place_ev>Горные районы</name_place_ev>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<id_place_ev>0001</id_place_ev>
+	<name_place_ev>По назначению</name_place_ev>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>

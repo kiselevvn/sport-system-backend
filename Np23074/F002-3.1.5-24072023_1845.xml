@@ -1,0 +1,2971 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="F002" version="3.1.5" date="24.07.2023" />
+
+<records>
+
+<record>
+	<guid>00000030-0029-cf0d-0328-6ce3eb45d40f</guid>
+	<parent_guid></parent_guid>
+	<sp_facility_id>29.0000000</sp_facility_id>
+	<sp_facility_name>ЦЕНТР ШАХМАТНО-ШАШЕЧНЫЙ</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0009-cf0d-0087-6ce3eb45d40f</guid>
+	<parent_guid></parent_guid>
+	<sp_facility_id>09.0000000</sp_facility_id>
+	<sp_facility_name>КАНАЛ ДЛЯ ГРЕБНОГО СЛАЛОМА</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0011-cf0d-0097-6ce3eb45d40f</guid>
+	<parent_guid></parent_guid>
+	<sp_facility_id>11.0000000</sp_facility_id>
+	<sp_facility_name>КОМПЛЕКС ГОРНОЛЫЖНЫЙ</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0028-cf0d-0325-6ce3eb45d40f</guid>
+	<parent_guid></parent_guid>
+	<sp_facility_id>28.0000000</sp_facility_id>
+	<sp_facility_name>ЦЕНТР ПАРУСНЫЙ</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0027-cf0d-0321-6ce3eb45d40f</guid>
+	<parent_guid></parent_guid>
+	<sp_facility_id>27.0000000</sp_facility_id>
+	<sp_facility_name>ЦЕНТР БОУЛИНГА</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0015-cf0d-0181-6ce3eb45d40f</guid>
+	<parent_guid></parent_guid>
+	<sp_facility_id>15.0000000</sp_facility_id>
+	<sp_facility_name>МАНЕЖ ЛЕГКОАТЛЕТИЧЕСКИЙ</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0002-cf0d-0008-6ce3eb45d40f</guid>
+	<parent_guid></parent_guid>
+	<sp_facility_id>02.0000000</sp_facility_id>
+	<sp_facility_name>АРЕНА</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0025-cf0d-0306-6ce3eb45d40f</guid>
+	<parent_guid></parent_guid>
+	<sp_facility_id>25.0000000</sp_facility_id>
+	<sp_facility_name>ТРАССА САННО-БОБСЛЕЙНАЯ</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0023-cf0d-0287-6ce3eb45d40f</guid>
+	<parent_guid></parent_guid>
+	<sp_facility_id>23.0000000</sp_facility_id>
+	<sp_facility_name>СТРЕЛЬБИЩЕ</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0008-cf0d-0081-6ce3eb45d40f</guid>
+	<parent_guid></parent_guid>
+	<sp_facility_id>08.0000000</sp_facility_id>
+	<sp_facility_name>КАНАЛ ГРЕБНОЙ</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0010-cf0d-0090-6ce3eb45d40f</guid>
+	<parent_guid></parent_guid>
+	<sp_facility_id>10.0000000</sp_facility_id>
+	<sp_facility_name>КОМПЛЕКС БИАТЛОННО-ЛЫЖНЫЙ</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0005-cf0d-0033-6ce3eb45d40f</guid>
+	<parent_guid></parent_guid>
+	<sp_facility_id>05.0000000</sp_facility_id>
+	<sp_facility_name>ВЕЛОТРЕК</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0017-cf0d-0211-6ce3eb45d40f</guid>
+	<parent_guid></parent_guid>
+	<sp_facility_id>17.0000000</sp_facility_id>
+	<sp_facility_name>ОВАЛ КОНЬКОБЕЖНЫЙ</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0001-cf0d-0001-6ce3eb45d40f</guid>
+	<parent_guid></parent_guid>
+	<sp_facility_id>01.0000000</sp_facility_id>
+	<sp_facility_name>АВТОДРОМ</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0003-cf0d-0012-6ce3eb45d40f</guid>
+	<parent_guid></parent_guid>
+	<sp_facility_id>03.0000000</sp_facility_id>
+	<sp_facility_name>АРЕНА ЛЕДОВАЯ</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0013-cf0d-0161-6ce3eb45d40f</guid>
+	<parent_guid></parent_guid>
+	<sp_facility_id>13.0000000</sp_facility_id>
+	<sp_facility_name>КОМПЛЕКС ЛЫЖНЫЙ</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0018-cf0d-0218-6ce3eb45d40f</guid>
+	<parent_guid></parent_guid>
+	<sp_facility_id>18.0000000</sp_facility_id>
+	<sp_facility_name>ПАРК ДЛЯ ЭКСТРЕМАЛЬНЫХ ВИДОВ СПОРТА</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0021-cf0d-0259-6ce3eb45d40f</guid>
+	<parent_guid></parent_guid>
+	<sp_facility_id>21.0000000</sp_facility_id>
+	<sp_facility_name>СНОУБОРД ПАРК – ФРИСТАЙЛ ЦЕНТР</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0026-cf0d-0311-6ce3eb45d40f</guid>
+	<parent_guid></parent_guid>
+	<sp_facility_id>26.0000000</sp_facility_id>
+	<sp_facility_name>ТРАССА СПОРТИВНАЯ</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0014-cf0d-0169-6ce3eb45d40f</guid>
+	<parent_guid></parent_guid>
+	<sp_facility_id>14.0000000</sp_facility_id>
+	<sp_facility_name>КОМПЛЕКС ТРАМПЛИНОВ ДЛЯ ПРЫЖКОВ НА ЛЫЖАХ</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0024-cf0d-0293-6ce3eb45d40f</guid>
+	<parent_guid></parent_guid>
+	<sp_facility_id>24.0000000</sp_facility_id>
+	<sp_facility_name>ТИР СТРЕЛКОВЫЙ</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0004-cf0d-0020-6ce3eb45d40f</guid>
+	<parent_guid></parent_guid>
+	<sp_facility_id>04.0000000</sp_facility_id>
+	<sp_facility_name>БАССЕЙН</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0020-cf0d-0244-6ce3eb45d40f</guid>
+	<parent_guid></parent_guid>
+	<sp_facility_id>20.0000000</sp_facility_id>
+	<sp_facility_name>ПОЛЕ СПОРТИВНОЕ</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0019-cf0d-0226-6ce3eb45d40f</guid>
+	<parent_guid></parent_guid>
+	<sp_facility_id>19.0000000</sp_facility_id>
+	<sp_facility_name>ПЛОЩАДКА СПОРТИВНАЯ</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0022-cf0d-0268-6ce3eb45d40f</guid>
+	<parent_guid></parent_guid>
+	<sp_facility_id>22.0000000</sp_facility_id>
+	<sp_facility_name>СТАДИОН</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0006-cf0d-0040-6ce3eb45d40f</guid>
+	<parent_guid></parent_guid>
+	<sp_facility_id>06.0000000</sp_facility_id>
+	<sp_facility_name>ДИСТАНЦИЯ СПОРТИВНАЯ</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0007-cf0d-0059-6ce3eb45d40f</guid>
+	<parent_guid></parent_guid>
+	<sp_facility_id>07.0000000</sp_facility_id>
+	<sp_facility_name>ЗАЛ СПОРТИВНЫЙ</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0016-cf0d-0185-6ce3eb45d40f</guid>
+	<parent_guid></parent_guid>
+	<sp_facility_id>16.0000000</sp_facility_id>
+	<sp_facility_name>МНОГОФУНКЦИОНАЛЬНЫЙ СПОРТИВНЫЙ КОМПЛЕКС (ФИЗКУЛЬТУРНО-ОЗДОРОВИТЕЛЬНЫЙ КОМПЛЕКС)</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0100-6ce3eb45d40f</guid>
+	<parent_guid></parent_guid>
+	<sp_facility_id>12.0000000</sp_facility_id>
+	<sp_facility_name>КОМПЛЕКС КОННОСПОРТИВНЫЙ</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0001-cf0d-0006-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0001-cf0d-0001-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>01.1000000</sp_facility_id>
+	<sp_facility_name>крытый</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0001-cf0d-0002-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0001-cf0d-0001-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>01.2000000</sp_facility_id>
+	<sp_facility_name>открытый</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0001-cf0d-0007-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0001-cf0d-0001-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>01.1120000</sp_facility_id>
+	<sp_facility_name>крытый специализированный с асфальтовым покрытием</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0001-cf0d-0005-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0001-cf0d-0001-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>01.2130000</sp_facility_id>
+	<sp_facility_name>открытый специализированный с асфальтобетонным покрытием</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0001-cf0d-0004-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0001-cf0d-0001-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>01.2120000</sp_facility_id>
+	<sp_facility_name>открытый специализированный с асфальтовым покрытием</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0001-cf0d-0003-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0001-cf0d-0001-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>01.2110000</sp_facility_id>
+	<sp_facility_name>открытый специализированный с грунтовым покрытием</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0002-cf0d-0010-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0002-cf0d-0008-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>02.1301000</sp_facility_id>
+	<sp_facility_name>крытая трансформируемая постоянная</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0002-cf0d-0009-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0002-cf0d-0008-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>02.1000000</sp_facility_id>
+	<sp_facility_name>крытая</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0002-cf0d-0011-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0002-cf0d-0008-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>02.1301010</sp_facility_id>
+	<sp_facility_name>крытая трансформируемая постоянная для единоборств</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0003-cf0d-0016-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0003-cf0d-0012-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>03.1200101</sp_facility_id>
+	<sp_facility_name>крытая универсальная с катком 30х61 м с тренировочной ледовой площадкой</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0003-cf0d-0013-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0003-cf0d-0012-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>03.1000000</sp_facility_id>
+	<sp_facility_name>крытая</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0003-cf0d-0014-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0003-cf0d-0012-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>03.1000010</sp_facility_id>
+	<sp_facility_name>крытая для кёрлинга</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0003-cf0d-0017-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0003-cf0d-0012-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>03.1200100</sp_facility_id>
+	<sp_facility_name>крытая универсальная с катком 30х61 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0003-cf0d-0019-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0003-cf0d-0012-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>03.1300010</sp_facility_id>
+	<sp_facility_name>крытая трансформируемая для кёрлинга</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0003-cf0d-0015-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0003-cf0d-0012-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>03.1100010</sp_facility_id>
+	<sp_facility_name>крытая специализированная для кёрлинга</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0003-cf0d-0018-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0003-cf0d-0012-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>03.1300101</sp_facility_id>
+	<sp_facility_name>крытая трансформируемая с катком 30х61 м с тренировочной ледовой площадкой</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0004-cf0d-0028-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0004-cf0d-0020-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>04.2000000</sp_facility_id>
+	<sp_facility_name>открытый</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0004-cf0d-0021-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0004-cf0d-0020-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>04.1000000</sp_facility_id>
+	<sp_facility_name>крытый</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0004-cf0d-0022-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0004-cf0d-0020-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>04.1100010</sp_facility_id>
+	<sp_facility_name>крытый специализированный для прыжков в воду</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0004-cf0d-0023-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0004-cf0d-0020-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>04.1100020</sp_facility_id>
+	<sp_facility_name>крытый специализированный гидроканал для гребли на байдарке и каноэ</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0004-cf0d-0024-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0004-cf0d-0020-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>04.1100040</sp_facility_id>
+	<sp_facility_name>крытый специализированный гидроканал для гребного спорта</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0004-cf0d-0025-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0004-cf0d-0020-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>04.1100050</sp_facility_id>
+	<sp_facility_name>крытый специализированный для воднолыжного спорта</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0004-cf0d-0027-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0004-cf0d-0020-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>04.1200200</sp_facility_id>
+	<sp_facility_name>крытый универсальный с длиной чаши 25 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0004-cf0d-0029-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0004-cf0d-0020-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>04.2100010</sp_facility_id>
+	<sp_facility_name>открытый специализированный для прыжков в воду</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0004-cf0d-0030-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0004-cf0d-0020-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>04.2100050</sp_facility_id>
+	<sp_facility_name>открытый специализированный для воднолыжного спорта</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0004-cf0d-0031-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0004-cf0d-0020-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>04.2200100</sp_facility_id>
+	<sp_facility_name>открытый универсальный с длиной чаши 50 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0004-cf0d-0032-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0004-cf0d-0020-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>04.2200200</sp_facility_id>
+	<sp_facility_name>открытый универсальный с длиной чаши 25 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0004-cf0d-0026-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0004-cf0d-0020-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>04.1200100</sp_facility_id>
+	<sp_facility_name>крытый универсальный с длиной чаши 50 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0005-cf0d-0036-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0005-cf0d-0033-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>05.1100200</sp_facility_id>
+	<sp_facility_name>крытый специализированный с длиной дорожки 333,33 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0005-cf0d-0035-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0005-cf0d-0033-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>05.1100100</sp_facility_id>
+	<sp_facility_name>крытый специализированный с длиной дорожки 250 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0005-cf0d-0034-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0005-cf0d-0033-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>05.1000000</sp_facility_id>
+	<sp_facility_name>крытый</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0005-cf0d-0037-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0005-cf0d-0033-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>05.2000000</sp_facility_id>
+	<sp_facility_name>открытый</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0005-cf0d-0039-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0005-cf0d-0033-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>05.2100200</sp_facility_id>
+	<sp_facility_name>открытый специализированный с длиной дорожки 333,33 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0005-cf0d-0038-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0005-cf0d-0033-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>05.2100100</sp_facility_id>
+	<sp_facility_name>открытый специализированный с длиной дорожки 250 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0006-cf0d-0051-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0006-cf0d-0040-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>06.2002070</sp_facility_id>
+	<sp_facility_name>открытая временная для велоспорта</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0006-cf0d-0053-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0006-cf0d-0040-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>06.2012010</sp_facility_id>
+	<sp_facility_name>открытая водная временная для плавания в открытой воде</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0006-cf0d-0046-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0006-cf0d-0040-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>06.2011030</sp_facility_id>
+	<sp_facility_name>открытая постоянная для гребного спорта</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0006-cf0d-0042-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0006-cf0d-0040-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>06.2001070</sp_facility_id>
+	<sp_facility_name>открытая постоянная для велоспорта</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0006-cf0d-0041-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0006-cf0d-0040-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>06.2000000</sp_facility_id>
+	<sp_facility_name>открытая</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0006-cf0d-0052-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0006-cf0d-0040-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>06.2002080</sp_facility_id>
+	<sp_facility_name>открытая временная для легкой атлетики</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0006-cf0d-0050-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0006-cf0d-0040-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>06.2002090</sp_facility_id>
+	<sp_facility_name>открытая  временная для спортивного ориентирования</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0006-cf0d-0044-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0006-cf0d-0040-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>06.2011010</sp_facility_id>
+	<sp_facility_name>открытая постоянная для плавания</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0006-cf0d-0043-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0006-cf0d-0040-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>06.2001080</sp_facility_id>
+	<sp_facility_name>открытая постоянная для легкой атлетики</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0006-cf0d-0056-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0006-cf0d-0040-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>06.2012040</sp_facility_id>
+	<sp_facility_name>открытая временная для водно-моторного спорта</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0006-cf0d-0055-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0006-cf0d-0040-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>06.2012030</sp_facility_id>
+	<sp_facility_name>открытая временная для гребного спорта</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0006-cf0d-0047-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0006-cf0d-0040-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>06.2011040</sp_facility_id>
+	<sp_facility_name>открытая постоянная для водно-моторного спорта</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0006-cf0d-0054-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0006-cf0d-0040-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>06.2012020</sp_facility_id>
+	<sp_facility_name>открытая временная для парусного спорта</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0006-cf0d-0048-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0006-cf0d-0040-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>06.2011050</sp_facility_id>
+	<sp_facility_name>открытая постоянная для воднолыжного спорта</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0006-cf0d-0045-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0006-cf0d-0040-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>06.2011020</sp_facility_id>
+	<sp_facility_name>открытая постоянная для парусного спорта</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0006-cf0d-0057-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0006-cf0d-0040-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>06.2012050</sp_facility_id>
+	<sp_facility_name>открытая временная для воднолыжного спорта</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0006-cf0d-0058-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0006-cf0d-0040-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>06.2012060</sp_facility_id>
+	<sp_facility_name>открытая временная для рафтинга</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0006-cf0d-0049-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0006-cf0d-0040-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>06.2011060</sp_facility_id>
+	<sp_facility_name>открытая постоянная для рафтинга</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0007-cf0d-0062-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0007-cf0d-0059-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>07.1100020</sp_facility_id>
+	<sp_facility_name>крытый специализированный скалодром</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0007-cf0d-0075-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0007-cf0d-0059-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>07.1210400</sp_facility_id>
+	<sp_facility_name>крытый универсальный менее 36х18 м с покрытием из древесины</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0007-cf0d-0076-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0007-cf0d-0059-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>07.1220000</sp_facility_id>
+	<sp_facility_name>крытый универсальный с синтетическим покрытием</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0007-cf0d-0077-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0007-cf0d-0059-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>07.1220100</sp_facility_id>
+	<sp_facility_name>крытый универсальный 42х24 м с синтетическим покрытием</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0007-cf0d-0078-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0007-cf0d-0059-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>07.1220200</sp_facility_id>
+	<sp_facility_name>крытый универсальный более 42х24 м с синтетическим покрытием</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0007-cf0d-0067-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0007-cf0d-0059-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>07.1100070</sp_facility_id>
+	<sp_facility_name>крытый специализированный для  тяжелой атлетики</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0007-cf0d-0066-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0007-cf0d-0059-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>07.1100060</sp_facility_id>
+	<sp_facility_name>крытый специализированный для  спортивной гимнастики</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0007-cf0d-0073-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0007-cf0d-0059-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>07.1210200</sp_facility_id>
+	<sp_facility_name>крытый универсальный более 42х24 м с покрытием из древесины</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0007-cf0d-0074-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0007-cf0d-0059-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>07.1210300</sp_facility_id>
+	<sp_facility_name>крытый универсальный 36х18 м с покрытием из древесины</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0007-cf0d-0079-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0007-cf0d-0059-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>07.1220300</sp_facility_id>
+	<sp_facility_name>крытый универсальный 36х18 м с синтетическим покрытием</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0007-cf0d-0080-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0007-cf0d-0059-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>07.1220400</sp_facility_id>
+	<sp_facility_name>крытый универсальный менее 36х18 м с синтетическим покрытием</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0007-cf0d-0069-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0007-cf0d-0059-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>07.1100090</sp_facility_id>
+	<sp_facility_name>крытый специализированный для танцевального спорта</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0007-cf0d-0060-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0007-cf0d-0059-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>07.1000000</sp_facility_id>
+	<sp_facility_name>крытый</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0007-cf0d-0061-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0007-cf0d-0059-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>07.1100010</sp_facility_id>
+	<sp_facility_name>крытый специализированный для спортивной акробатики</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0007-cf0d-0068-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0007-cf0d-0059-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>07.1100080</sp_facility_id>
+	<sp_facility_name>крытый специализированный для  легкой атлетики</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0007-cf0d-0063-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0007-cf0d-0059-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>07.1100030</sp_facility_id>
+	<sp_facility_name>крытый специализированный для  единоборств</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0007-cf0d-0064-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0007-cf0d-0059-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>07.1100040</sp_facility_id>
+	<sp_facility_name>крытый специализированный для  фехтования</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0007-cf0d-0070-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0007-cf0d-0059-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>07.1100000</sp_facility_id>
+	<sp_facility_name>крытый специализированный для  художественной гимнастики</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0007-cf0d-0071-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0007-cf0d-0059-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>07.1210000</sp_facility_id>
+	<sp_facility_name>крытый универсальный с покрытием из древесины</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0007-cf0d-0065-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0007-cf0d-0059-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>07.1100050</sp_facility_id>
+	<sp_facility_name>крытый специализированный для прыжков на батуте</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0007-cf0d-0072-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0007-cf0d-0059-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>07.1210100</sp_facility_id>
+	<sp_facility_name>крытый универсальный 42х24 м с покрытием из древесины</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0008-cf0d-0082-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0008-cf0d-0081-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>08.2000000</sp_facility_id>
+	<sp_facility_name>открытый</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0008-cf0d-0083-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0008-cf0d-0081-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>08.2201001</sp_facility_id>
+	<sp_facility_name>открытый универсальный постоянный с обводным каналом</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0008-cf0d-0084-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0008-cf0d-0081-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>08.2201002</sp_facility_id>
+	<sp_facility_name>открытый универсальный постоянный без обводного канала</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0008-cf0d-0085-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0008-cf0d-0081-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>08.2202001</sp_facility_id>
+	<sp_facility_name>открытый универсальный временный с обводным каналом</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0008-cf0d-0086-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0008-cf0d-0081-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>08.2202002</sp_facility_id>
+	<sp_facility_name>открытый универсальный временный без обводного канала</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0009-cf0d-0089-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0009-cf0d-0087-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>09.2101010</sp_facility_id>
+	<sp_facility_name>открытый специализированный постоянный для гребного слалома</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0009-cf0d-0088-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0009-cf0d-0087-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>09.2000000</sp_facility_id>
+	<sp_facility_name>открытый</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0010-cf0d-0095-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0010-cf0d-0090-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>10.2120001</sp_facility_id>
+	<sp_facility_name>открытый специализированный с искусственным покрытием трасс в летний период</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0010-cf0d-0096-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0010-cf0d-0090-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>10.2110002</sp_facility_id>
+	<sp_facility_name>открытый специализированный с лыжероллерными трассами для летнего периода</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0010-cf0d-0091-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0010-cf0d-0090-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>10.1120000</sp_facility_id>
+	<sp_facility_name>с крытыми трассами специализированный с искусственным покрытием</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0010-cf0d-0093-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0010-cf0d-0090-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>10.2110000</sp_facility_id>
+	<sp_facility_name>открытый специализированный с естественным снежным покровом</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0010-cf0d-0094-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0010-cf0d-0090-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>10.2110001</sp_facility_id>
+	<sp_facility_name>открытый с естественным снежным покровом и системой искусственного оснежения</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0010-cf0d-0092-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0010-cf0d-0090-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>10.2000000</sp_facility_id>
+	<sp_facility_name>открытый</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0011-cf0d-0099-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0011-cf0d-0097-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>11.2000000</sp_facility_id>
+	<sp_facility_name>открытый</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0011-cf0d-0098-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0011-cf0d-0097-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>11.1000000</sp_facility_id>
+	<sp_facility_name>крытый</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0136-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2211320</sp_facility_id>
+	<sp_facility_name>открытый универсальный с натуральным покрытием, с постоянной трассой до 11800 м для марафона</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0112-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.1211700</sp_facility_id>
+	<sp_facility_name>крытый универсальный с натуральным покрытием, с манежем менее 800 м²</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0140-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2211530</sp_facility_id>
+	<sp_facility_name>открытый универсальный с натуральным покрытием, с постоянной дорожкой другого метража</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0107-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.1211401</sp_facility_id>
+	<sp_facility_name>крытый универсальный с натуральным покрытием, с манежем 1200 м² (20х60 м), со стационарным судейским помещением</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0106-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.1211400</sp_facility_id>
+	<sp_facility_name>крытый универсальный с натуральным покрытием, с манежем 1200 м² (20х60 м)</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0124-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2211300</sp_facility_id>
+	<sp_facility_name>открытый универсальный с натуральным покрытием, с постоянным полем от 1200 м² до 4000 м²</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0159-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2221700</sp_facility_id>
+	<sp_facility_name>открытый универсальный с искусственным покрытием, с постоянным полем менее 800 м²</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0133-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2211701</sp_facility_id>
+	<sp_facility_name>открытый универсальный с натуральным покрытием, с постоянным полем менее 800 м², со стационарным судейским помещением</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0128-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2211500</sp_facility_id>
+	<sp_facility_name>открытый универсальный с натуральным покрытием, с постоянным полем от 800 м² до 1200 м²</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0127-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2211401</sp_facility_id>
+	<sp_facility_name>открытый универсальный с натуральным покрытием, с постоянным полем 1200 м² (20х60 м), со стационарным судейским помещением</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0126-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2211400</sp_facility_id>
+	<sp_facility_name>открытый универсальный с натуральным покрытием, с постоянным полем 1200 м² (20х60 м)</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0125-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2211301</sp_facility_id>
+	<sp_facility_name>открытый универсальный с натуральным покрытием, с постоянным полем от 1200 м² до 4000 м², со стационарным судейским помещением</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0158-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2221601</sp_facility_id>
+	<sp_facility_name>открытый универсальный с искусственным покрытием, с постоянным полем 800 м² (20х40 м), со стационарным судейским помещением</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0157-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2221600</sp_facility_id>
+	<sp_facility_name>открытый универсальный с искусственным покрытием, с постоянным полем 800 м² (20х40 м)</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0129-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2211501</sp_facility_id>
+	<sp_facility_name>открытый универсальный с натуральным покрытием, с постоянным полем от 800 м² до 1200 м², со стационарным судейским помещением</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0130-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2211600</sp_facility_id>
+	<sp_facility_name>открытый универсальный с натуральным покрытием, с постоянным полем 800 м² (20х40 м)</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0131-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2211601</sp_facility_id>
+	<sp_facility_name>открытый универсальный с натуральным покрытием, с постоянным полем 800 м² (20х40 м), со стационарным судейским помещением</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0101-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.1211110</sp_facility_id>
+	<sp_facility_name>крытый универсальный с натуральным покрытием, с постоянной площадкой не менее 50х6 м для выводки</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0102-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.1211200</sp_facility_id>
+	<sp_facility_name>крытый универсальный с натуральным покрытием, с манежем 4000 м² и более</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0103-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.1211201</sp_facility_id>
+	<sp_facility_name>крытый универсальный с натуральным покрытием, с манежем 4000 м² и более, со стационарным судейским помещением</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0104-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.1211300</sp_facility_id>
+	<sp_facility_name>крытый универсальный с натуральным покрытием, с манежем от 1200 м² до 4000 м²</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0105-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.1211301</sp_facility_id>
+	<sp_facility_name>крытый универсальный с натуральным покрытием, с манежем от 1200 м² до 4000 м², со стационарным судейским помещением</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0139-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2211520</sp_facility_id>
+	<sp_facility_name>открытый универсальный с натуральным покрытием, с постоянной дорожкой 2000 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0138-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2211510</sp_facility_id>
+	<sp_facility_name>открытый универсальный с натуральным покрытием, с постоянной дорожкой 1600 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0137-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2211420</sp_facility_id>
+	<sp_facility_name>открытый универсальный с натуральным покрытием, с постоянной трассой 11800 м и более для марафона</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0132-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2211700</sp_facility_id>
+	<sp_facility_name>открытый универсальный с натуральным покрытием, с постоянным полем менее 800 м²</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0123-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2211201</sp_facility_id>
+	<sp_facility_name>открытый универсальный с натуральным покрытием, с постоянным полем 4000 м² и более со стационарным судейским помещением</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0122-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2211200</sp_facility_id>
+	<sp_facility_name>открытый универсальный с натуральным покрытием, с постоянным полем 4000 м² и более</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0121-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2211110</sp_facility_id>
+	<sp_facility_name>открытый универсальный с натуральным покрытием, с постоянной площадкой не менее 50х6 м для выводки</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0120-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2000000</sp_facility_id>
+	<sp_facility_name>открытый</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0154-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2221510</sp_facility_id>
+	<sp_facility_name>открытый универсальный с искусственным покрытием, с постоянной дорожкой 1600 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0153-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2221501</sp_facility_id>
+	<sp_facility_name>открытый универсальный с искусственным покрытием, с постоянным полем от 800 м² до 1200 м², со стационарным судейским помещением</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0152-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2221500</sp_facility_id>
+	<sp_facility_name>открытый универсальный с искусственным покрытием, с постоянным полем от 800 м² до 1200 м²</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0151-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2221401</sp_facility_id>
+	<sp_facility_name>открытый универсальный с искусственным покрытием, с постоянным полем 1200 м² (20х60 м), со стационарным судейским помещением</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0149-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2221301</sp_facility_id>
+	<sp_facility_name>открытый универсальный с искусственным покрытием, с постоянным полем 4000 м² и более со стационарным судейским помещением</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0148-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2221300</sp_facility_id>
+	<sp_facility_name>открытый универсальный с искусственным покрытием, с постоянным полем 4000 м² и более</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0147-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2221201</sp_facility_id>
+	<sp_facility_name>открытый универсальный с искусственным покрытием, с постоянным полем 4000 м² и более, со стационарным судейским помещением</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0119-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.1221700</sp_facility_id>
+	<sp_facility_name>крытый универсальный с искусственным покрытием, с манежем менее 800 м²</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0118-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.1221600</sp_facility_id>
+	<sp_facility_name>крытый универсальный с искусственным покрытием, с манежем 800 м² (20х40 м)</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0117-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.1221500</sp_facility_id>
+	<sp_facility_name>крытый универсальный с искусственным покрытием, с манежем от 800 м² до 1200 м²</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0116-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.1221400</sp_facility_id>
+	<sp_facility_name>крытый универсальный с искусственным покрытием с манежем 1200 м² (20х60 м)</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0114-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.1221101</sp_facility_id>
+	<sp_facility_name>крытый универсальный с искусственным покрытием, с манежем 4000 м² и более</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0113-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.1221110</sp_facility_id>
+	<sp_facility_name>крытый универсальный с искусственным покрытием, с постоянной площадкой не менее 50х6 м для выводки</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0150-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2221400</sp_facility_id>
+	<sp_facility_name>открытый универсальный с искусственным покрытием, с постоянным полем 1200 м² (20х60 м)</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0155-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2221520</sp_facility_id>
+	<sp_facility_name>открытый универсальный с искусственным покрытием, с постоянной дорожкой 2000 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0156-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2221530</sp_facility_id>
+	<sp_facility_name>открытый универсальный с искусственным покрытием, с постоянной дорожкой другого метража</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0160-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2221701</sp_facility_id>
+	<sp_facility_name>открытый универсальный с искусственным покрытием, с постоянным полем менее 800 м², со стационарным судейским помещением</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0111-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.1211601</sp_facility_id>
+	<sp_facility_name>крытый универсальный с натуральным покрытием, с манежем 800 м² (20х40 м), со стационарным судейским помещением</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0110-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.1211600</sp_facility_id>
+	<sp_facility_name>крытый универсальный с натуральным покрытием, с манежем 800 м² (20х40 м)</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0109-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.1211501</sp_facility_id>
+	<sp_facility_name>крытый универсальный с натуральным покрытием, с манежем от 800 м² до 1200 м², со стационарным судейским помещением</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0146-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2221200</sp_facility_id>
+	<sp_facility_name>открытый универсальный с искусственным покрытием, с постоянным полем 4000 м² и более</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0135-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2211210</sp_facility_id>
+	<sp_facility_name>открытый универсальный с натуральным покрытием,с постоянной трассой более 4000 м для кросса</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0108-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.1211500</sp_facility_id>
+	<sp_facility_name>крытый универсальный с натуральным покрытием, с манежем от 800 м² до 1200 м²</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0115-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.1221300</sp_facility_id>
+	<sp_facility_name>крытый универсальный с искусственным покрытием, с манежем от 1200 м² до 4000 м²</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0134-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2211110</sp_facility_id>
+	<sp_facility_name>открытый универсальный с натуральным покрытием, с постоянной трассой до 4000 м для кросса</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0145-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2221110</sp_facility_id>
+	<sp_facility_name>открытый универсальный с искусственным покрытием, с постоянной площадкой не менее 50х6 м для выводки</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0144-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2212420</sp_facility_id>
+	<sp_facility_name>открытый универсальный с натуральным покрытием, с временной трассой 11800 м и более для марафона</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0143-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2212320</sp_facility_id>
+	<sp_facility_name>открытый универсальный с натуральным покрытием, с временной трассой до 11800 м для марафона</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0142-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2212210</sp_facility_id>
+	<sp_facility_name>открытый универсальный с натуральным покрытием, с временной трассой более 4000 м для кросса</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0012-cf0d-0141-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0012-cf0d-0100-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>12.2212110</sp_facility_id>
+	<sp_facility_name>открытый универсальный с натуральным покрытием, с временной трассой до 4000 м для кросса</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0013-cf0d-0163-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0013-cf0d-0161-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>13.1120000</sp_facility_id>
+	<sp_facility_name>крытый специализированный с искусственным покрытием</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0013-cf0d-0165-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0013-cf0d-0161-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>13.2110000</sp_facility_id>
+	<sp_facility_name>открытый специализированный с естественным снежным покровом</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0013-cf0d-0166-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0013-cf0d-0161-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>13.2110001</sp_facility_id>
+	<sp_facility_name>открытый специализированный с естественным снежным покровом и системой искусственного оснежения</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0013-cf0d-0167-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0013-cf0d-0161-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>13.2120001</sp_facility_id>
+	<sp_facility_name>открытый специализированный с лыжероллерными трассами для летнего периода</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0013-cf0d-0164-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0013-cf0d-0161-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>13.2000000</sp_facility_id>
+	<sp_facility_name>открытый</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0013-cf0d-0162-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0013-cf0d-0161-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>13.1000000</sp_facility_id>
+	<sp_facility_name>крытый</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0013-cf0d-0168-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0013-cf0d-0161-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>13.2120002</sp_facility_id>
+	<sp_facility_name>открытый специализированный с искусственным покрытием трасс в летний период</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0014-cf0d-0178-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0014-cf0d-0169-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>14.2020300</sp_facility_id>
+	<sp_facility_name>открытый с искусственным покрытием с трамплином (К60; К65; К74; К72; К82)</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0014-cf0d-0179-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0014-cf0d-0169-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>14.2020400</sp_facility_id>
+	<sp_facility_name>открытый с искусственным покрытием с трамплином (К88; К90; К95)</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0014-cf0d-0180-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0014-cf0d-0169-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>14.2020500</sp_facility_id>
+	<sp_facility_name>открытый с искусственным покрытием с трамплином (К120; К125)</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0014-cf0d-0171-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0014-cf0d-0169-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>14.2010100</sp_facility_id>
+	<sp_facility_name>открытый с естественным снежным покровом с трамплином (К13,5; К15; К17; К20; К25)</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0014-cf0d-0170-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0014-cf0d-0169-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>14.2000000</sp_facility_id>
+	<sp_facility_name>открытый</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0014-cf0d-0172-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0014-cf0d-0169-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>14.2010200</sp_facility_id>
+	<sp_facility_name>открытый с естественным снежным покровом с трамплином (К30; К35; К40; К45; К48; К50; К52,5)</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0014-cf0d-0173-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0014-cf0d-0169-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>14.2010300</sp_facility_id>
+	<sp_facility_name>открытый с естественным снежным покровом с трамплином (К60; К65; К74; К72; К82)</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0014-cf0d-0174-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0014-cf0d-0169-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>14.2010400</sp_facility_id>
+	<sp_facility_name>открытый с естественным снежным покровом с трамплином (К88; К90; К95)</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0014-cf0d-0175-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0014-cf0d-0169-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>14.2010500</sp_facility_id>
+	<sp_facility_name>открытый с естественным снежным покровом с трамплином (К120; К125)</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0014-cf0d-0176-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0014-cf0d-0169-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>14.2020100</sp_facility_id>
+	<sp_facility_name>открытый с искусственным покрытием с трамплином (К13,5; К15; К17; К20; К25)</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0014-cf0d-0177-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0014-cf0d-0169-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>14.2020200</sp_facility_id>
+	<sp_facility_name>открытый с искусственным покрытием с трамплином (К30; К35; К40; К45; К48; К50; К52,5)</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0015-cf0d-0182-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0015-cf0d-0181-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>15.1000000</sp_facility_id>
+	<sp_facility_name>крытый</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0015-cf0d-0183-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0015-cf0d-0181-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>15.1100100</sp_facility_id>
+	<sp_facility_name>крытый специализированный с длиной дорожки 400 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0015-cf0d-0184-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0015-cf0d-0181-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>15.1100200</sp_facility_id>
+	<sp_facility_name>крытый специализированный с длиной дорожки 200 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0016-cf0d-0202-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0016-cf0d-0185-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>16.1001402</sp_facility_id>
+	<sp_facility_name>крытый, постоянный с бассейном  менее 25 м  и ледовой площадкой менее 30х60 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0016-cf0d-0201-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0016-cf0d-0185-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>16.1001401</sp_facility_id>
+	<sp_facility_name>крытый, постоянный с бассейном  менее 25 м и универсальным спортивным залом 42х24 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0016-cf0d-0192-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0016-cf0d-0185-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>16.1001113</sp_facility_id>
+	<sp_facility_name>крытый, постоянный с бассейном менее 25 м, ледовой площадкой 30х60 м и универсальным спортивным залом менее 36х18 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0016-cf0d-0208-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0016-cf0d-0185-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>16.1001703</sp_facility_id>
+	<sp_facility_name>крытый, постоянный с бассейном менее 25 м, ледовой площадкой 30х60 м и универсальным спортивным залом 42х24 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0016-cf0d-0191-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0016-cf0d-0185-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>16.1001103</sp_facility_id>
+	<sp_facility_name>крытый, постоянный с бассейном 25 м, ледовой площадкой 30х60 м и универсальным спортивным залом 42х24 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0016-cf0d-0200-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0016-cf0d-0185-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>16.1001303</sp_facility_id>
+	<sp_facility_name>крытый, постоянный с бассейном 25 м, ледовой площадкой менее 30х60 м и универсальным спортивным залом 36х18 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0016-cf0d-0204-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0016-cf0d-0185-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>16.1001501</sp_facility_id>
+	<sp_facility_name>крытый, постоянный с бассейном  менее 25 м и универсальным спортивным залом 36х18 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0016-cf0d-0210-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0016-cf0d-0185-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>16.1001903</sp_facility_id>
+	<sp_facility_name>крытый, постоянный с бассейном менее 25 м, ледовой площадкой 30х60 м и универсальным спортивным залом 36х18 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0016-cf0d-0193-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0016-cf0d-0185-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>16.1001123</sp_facility_id>
+	<sp_facility_name>крытый, постоянный с бассейном менее 25 м, ледовой площадкой менее 30х60 м и универсальным спортивным залом 36х18 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0016-cf0d-0203-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0016-cf0d-0185-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>16.1001403</sp_facility_id>
+	<sp_facility_name>крытый, постоянный с бассейном 25 м, ледовой площадкой менее 30х60 м и универсальным спортивным залом менее 36х18 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0016-cf0d-0207-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0016-cf0d-0185-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>16.1001603</sp_facility_id>
+	<sp_facility_name>крытый, постоянный с бассейном 25 м, ледовой площадкой 30х60 м и универсальным спортивным залом менее 36х18 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0016-cf0d-0206-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0016-cf0d-0185-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>16.1001601</sp_facility_id>
+	<sp_facility_name>крытый, постоянный с бассейном  менее 25 м и универсальным спортивным залом менее 36х18 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0016-cf0d-0205-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0016-cf0d-0185-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>16.1001503</sp_facility_id>
+	<sp_facility_name>крытый, постоянный с бассейном 25 м, ледовой площадкой 30х60 м и универсальным спортивным залом 36х18 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0016-cf0d-0194-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0016-cf0d-0185-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>16.1001133</sp_facility_id>
+	<sp_facility_name>крытый, постоянный с бассейном менее 25 м, ледовой площадкой менее 30х60 м и универсальным спортивным залом менее 36х18 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0016-cf0d-0195-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0016-cf0d-0185-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>16.1001201</sp_facility_id>
+	<sp_facility_name>крытый, постоянный с бассейном  25 м и универсальным спортивным залом 36х18 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0016-cf0d-0196-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0016-cf0d-0185-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>16.1001202</sp_facility_id>
+	<sp_facility_name>крытый, постоянный с бассейном  25 м и ледовой площадкой менее 30х60 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0016-cf0d-0197-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0016-cf0d-0185-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>16.1001203</sp_facility_id>
+	<sp_facility_name>крытый, постоянный с бассейном 25 м, ледовой площадкой менее 30х60 м и универсальным спортивным залом 42х24 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0016-cf0d-0198-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0016-cf0d-0185-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>16.1001301</sp_facility_id>
+	<sp_facility_name>крытый, постоянный с бассейном  25 м и универсальным спортивным залом менее 36х18 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0016-cf0d-0199-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0016-cf0d-0185-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>16.1001302</sp_facility_id>
+	<sp_facility_name>крытый, постоянный с бассейном  менее 25 м и ледовой площадкой  30х60 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0016-cf0d-0186-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0016-cf0d-0185-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>16.1001004</sp_facility_id>
+	<sp_facility_name>крытый, постоянный</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0016-cf0d-0187-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0016-cf0d-0185-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>16.1001041</sp_facility_id>
+	<sp_facility_name>крытый фитнес-клуб с выделенными спортивными зонами: тренажерный зал и/или зона кардио тренажеров и/или зона для проведения групповых занятий</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0016-cf0d-0188-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0016-cf0d-0185-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>16.1001042</sp_facility_id>
+	<sp_facility_name>крытый фитнес-клуб с выделенными спортивными зонами: тренажерный зал, зона кардио тренажеров, зона для проведения групповых занятий, аква зона, зона для занятий единоборствами, зона тестирования уровня физической подготовки</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0016-cf0d-0189-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0016-cf0d-0185-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>16.1001101</sp_facility_id>
+	<sp_facility_name>крытый, постоянный с бассейном  25 м и универсальным спортивным залом 42х24 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0016-cf0d-0190-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0016-cf0d-0185-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>16.1001102</sp_facility_id>
+	<sp_facility_name>крытый, постоянный с бассейном  25 м и ледовой площадкой 30х60 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0016-cf0d-0209-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0016-cf0d-0185-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>16.1001803</sp_facility_id>
+	<sp_facility_name>крытый, постоянный с бассейном менее 25 м, ледовой площадкой менее 30х60 м и универсальным спортивным залом 42х24 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0017-cf0d-0214-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0017-cf0d-0211-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>17.2200101</sp_facility_id>
+	<sp_facility_name>открытый универсальный с длиной дорожки 400 м с охлаждаемой центральной зоной</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0017-cf0d-0217-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0017-cf0d-0211-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>17.3200102</sp_facility_id>
+	<sp_facility_name>полуоткрытый универсальный с длиной дорожки 400 м без охлаждаемой зоны в центре</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0017-cf0d-0216-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0017-cf0d-0211-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>17.3200101</sp_facility_id>
+	<sp_facility_name>полуоткрытый универсальный с длиной дорожки 400 м с охлаждаемой центральной зоной</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0017-cf0d-0212-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0017-cf0d-0211-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>17.1200101</sp_facility_id>
+	<sp_facility_name>крытый универсальный с длиной дорожки 400 м c охлаждаемой центральной зоной</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0017-cf0d-0213-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0017-cf0d-0211-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>17.1200102</sp_facility_id>
+	<sp_facility_name>крытый универсальный с длиной дорожки 400 м без охлаждаемой зоны в центре</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0017-cf0d-0215-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0017-cf0d-0211-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>17.2200102</sp_facility_id>
+	<sp_facility_name>открытый универсальный с длиной дорожки 400 м без охлаждаемой зоны в центре</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0018-cf0d-0222-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0018-cf0d-0218-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>18.2100020</sp_facility_id>
+	<sp_facility_name>открытый специализированный для скейтбординга</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0018-cf0d-0225-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0018-cf0d-0218-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>18.2100041</sp_facility_id>
+	<sp_facility_name>открытый специализированный с зоной для велосипедных дисциплин и зоной для скейтбординга</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0018-cf0d-0223-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0018-cf0d-0218-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>18.2100031</sp_facility_id>
+	<sp_facility_name>открытый с выделенными дорожками для передвижения на роликах и скейтбордах</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0018-cf0d-0224-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0018-cf0d-0218-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>18.2100032</sp_facility_id>
+	<sp_facility_name>открытый с  выделенными дорожками для передвижения на самокатах и велосипедах</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0018-cf0d-0219-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0018-cf0d-0218-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>18.1100010</sp_facility_id>
+	<sp_facility_name>крытый специализированный для велосипедных дисциплин</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0018-cf0d-0220-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0018-cf0d-0218-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>18.1100020</sp_facility_id>
+	<sp_facility_name>крытый специализированный для скейтбординга</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0018-cf0d-0221-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0018-cf0d-0218-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>18.2100010</sp_facility_id>
+	<sp_facility_name>открытый специализированный для велосипедных дисциплин</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0019-cf0d-0230-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0019-cf0d-0226-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>19.2100020</sp_facility_id>
+	<sp_facility_name>открытая специализированная для пэйнтбола</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0019-cf0d-0243-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0019-cf0d-0226-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>19.2220000</sp_facility_id>
+	<sp_facility_name>открытая универсальная с искусственным покрытием</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0019-cf0d-0235-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0019-cf0d-0226-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>19.2110010</sp_facility_id>
+	<sp_facility_name>открытая специализированная с естественным льдом для хоккея с мячом</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0019-cf0d-0228-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0019-cf0d-0226-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>19.1120070</sp_facility_id>
+	<sp_facility_name>корт теннисный крытый специализированный с искусственным покрытием</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0019-cf0d-0229-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0019-cf0d-0226-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>19.2100010</sp_facility_id>
+	<sp_facility_name>открытая специализированная тренажерная</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0019-cf0d-0227-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0019-cf0d-0226-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>19.0000070</sp_facility_id>
+	<sp_facility_name>корт теннисный</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0019-cf0d-0239-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0019-cf0d-0226-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>19.2120030</sp_facility_id>
+	<sp_facility_name>открытая специализированная с искусственным льдом для айсштока</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0019-cf0d-0240-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0019-cf0d-0226-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>19.2120040</sp_facility_id>
+	<sp_facility_name>открытая специализированная с искусственным льдом для хоккея с мячом</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0019-cf0d-0242-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0019-cf0d-0226-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>19.2210000</sp_facility_id>
+	<sp_facility_name>открытая универсальная с натуральным покрытием</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0019-cf0d-0241-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0019-cf0d-0226-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>19.2120070</sp_facility_id>
+	<sp_facility_name>корт теннисный открытый специализированный с искусственным покрытием</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0019-cf0d-0232-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0019-cf0d-0226-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>19.2100060</sp_facility_id>
+	<sp_facility_name>открытая специализированная городошная</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0019-cf0d-0233-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0019-cf0d-0226-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>19.2100080</sp_facility_id>
+	<sp_facility_name>открытый скалодром специализированный</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0019-cf0d-0234-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0019-cf0d-0226-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>19.2100090</sp_facility_id>
+	<sp_facility_name>открытая специализированная для пляжного волейбола</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0019-cf0d-0236-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0019-cf0d-0226-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>19.2110070</sp_facility_id>
+	<sp_facility_name>корт теннисный открытый специализированный с натуральным покрытием</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0019-cf0d-0237-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0019-cf0d-0226-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>19.2120010</sp_facility_id>
+	<sp_facility_name>открытая специализированная с искусственным льдом для хоккея</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0019-cf0d-0238-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0019-cf0d-0226-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>19.2120020</sp_facility_id>
+	<sp_facility_name>открытая специализированная с искусственным льдом для фигурного катания на коньках</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0019-cf0d-0231-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0019-cf0d-0226-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>19.2100050</sp_facility_id>
+	<sp_facility_name>открытая специализированная для пляжного волейбола</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0020-cf0d-0251-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0020-cf0d-0244-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>20.2110060</sp_facility_id>
+	<sp_facility_name>открытое специализированное с натуральным покрытием для хоккея на траве</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0020-cf0d-0253-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0020-cf0d-0244-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>20.2110150</sp_facility_id>
+	<sp_facility_name>открытое специализированное с натуральным газоном размером не более 96х45 м для футбола</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0020-cf0d-0254-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0020-cf0d-0244-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>20.2120010</sp_facility_id>
+	<sp_facility_name>открытое специализированное с искусственным покрытием для американского футбола</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0020-cf0d-0255-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0020-cf0d-0244-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>20.2120020</sp_facility_id>
+	<sp_facility_name>открытое специализированное с искусственным покрытием для бейсбола и софтбола</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0020-cf0d-0250-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0020-cf0d-0244-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>20.2110030</sp_facility_id>
+	<sp_facility_name>открытое специализированное с натуральным покрытием для регби</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0020-cf0d-0247-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0020-cf0d-0244-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>20.2100400</sp_facility_id>
+	<sp_facility_name>открытое специализированное для стрельбы из лука и арбалета</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0020-cf0d-0246-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0020-cf0d-0244-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>20.2000060</sp_facility_id>
+	<sp_facility_name>открытое специализированное для хоккея на траве</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0020-cf0d-0248-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0020-cf0d-0244-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>20.2110010</sp_facility_id>
+	<sp_facility_name>открытое специализированное с натуральным покрытием для американского футбола</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0020-cf0d-0245-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0020-cf0d-0244-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>20.2000050</sp_facility_id>
+	<sp_facility_name>открытое специализированное футбольное</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0020-cf0d-0256-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0020-cf0d-0244-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>20.2120030</sp_facility_id>
+	<sp_facility_name>открытое специализированное с искусственным покрытием для регби</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0020-cf0d-0249-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0020-cf0d-0244-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>20.2110020</sp_facility_id>
+	<sp_facility_name>открытое специализированное с натуральным покрытием для бейсбола и софтбола</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0020-cf0d-0257-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0020-cf0d-0244-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>20.2120150</sp_facility_id>
+	<sp_facility_name>открытое специализированное с искусственным газоном размером не более 96х45 м для футбола</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0020-cf0d-0258-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0020-cf0d-0244-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>20.2120060</sp_facility_id>
+	<sp_facility_name>открытое специализированное с искусственным покрытием для хоккея на траве</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0020-cf0d-0252-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0020-cf0d-0244-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>20.2110070</sp_facility_id>
+	<sp_facility_name>открытое специализированное с натуральным покрытием для гольфа</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0021-cf0d-0266-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0021-cf0d-0259-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>21.2100007</sp_facility_id>
+	<sp_facility_name>открытый специализированный с зоной «Джиббинг»</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0021-cf0d-0265-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0021-cf0d-0259-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>21.2100006</sp_facility_id>
+	<sp_facility_name>открытый специализированный с зоной «Слоупстайл»</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0021-cf0d-0264-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0021-cf0d-0259-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>21.2100005</sp_facility_id>
+	<sp_facility_name>открытый специализированный с зоной «Квортерпайп-нестандартная труба»</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0021-cf0d-0262-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0021-cf0d-0259-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>21.2100003</sp_facility_id>
+	<sp_facility_name>открытый специализированный с зоной «Биг эйр»</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0021-cf0d-0263-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0021-cf0d-0259-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>21.2100004</sp_facility_id>
+	<sp_facility_name>открытый специализированный с зоной «Квортерпайп-традиционная труба»</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0021-cf0d-0261-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0021-cf0d-0259-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>21.2100002</sp_facility_id>
+	<sp_facility_name>открытый специализированный с зоной «Хафпайп - нестандартная труба»</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0021-cf0d-0267-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0021-cf0d-0259-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>21.2100008</sp_facility_id>
+	<sp_facility_name>открытый специализированный с зоной «Могул/Дабл могул»</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0021-cf0d-0260-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0021-cf0d-0259-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>21.2100001</sp_facility_id>
+	<sp_facility_name>открытый специализированный с зоной «Хафпайп - традиционная труба»</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0022-cf0d-0276-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0022-cf0d-0268-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>22.2120030</sp_facility_id>
+	<sp_facility_name>открытый специализированный с искусственным покрытием для бейсбола и софтбола</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0022-cf0d-0275-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0022-cf0d-0268-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>22.2110030</sp_facility_id>
+	<sp_facility_name>открытый специализированный с натуральным покрытием для бейсбола и софтбола</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0022-cf0d-0272-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0022-cf0d-0268-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>22.2120010</sp_facility_id>
+	<sp_facility_name>открытый специализированный с искусственным  покрытием для футбола</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0022-cf0d-0271-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0022-cf0d-0268-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>22.2110010</sp_facility_id>
+	<sp_facility_name>открытый специализированный с натуральным покрытием для футбола</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0022-cf0d-0273-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0022-cf0d-0268-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>22.2110020</sp_facility_id>
+	<sp_facility_name>открытый специализированный с натуральным покрытием для американского футбола</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0022-cf0d-0285-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0022-cf0d-0268-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>22.2220080</sp_facility_id>
+	<sp_facility_name>открытый универсальный с искусственным покрытием для футбола и легкой атлетики</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0022-cf0d-0284-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0022-cf0d-0268-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>22.2210080</sp_facility_id>
+	<sp_facility_name>открытый универсальный с натуральным покрытием для футбола и легкой атлетики</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0022-cf0d-0283-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0022-cf0d-0268-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>22.2120070</sp_facility_id>
+	<sp_facility_name>открытый специализированный с искусственным льдом для хоккея с мячом</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0022-cf0d-0282-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0022-cf0d-0268-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>22.2120060</sp_facility_id>
+	<sp_facility_name>открытый специализированный с искусственным покрытием для хоккея на траве</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0022-cf0d-0281-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0022-cf0d-0268-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>22.2110070</sp_facility_id>
+	<sp_facility_name>открытый специализированный с естественным льдом для хоккея с мячом</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0022-cf0d-0280-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0022-cf0d-0268-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>22.2110060</sp_facility_id>
+	<sp_facility_name>открытый специализированный с натуральным покрытием для хоккея на траве</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0022-cf0d-0278-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0022-cf0d-0268-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>22.2120040</sp_facility_id>
+	<sp_facility_name>открытый специализированный с искусственным покрытием для легкой атлетики</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0022-cf0d-0286-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0022-cf0d-0268-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>22.2230080</sp_facility_id>
+	<sp_facility_name>открытый универсальный с натуральным покрытием для футбола и искусственным покрытием для легкой атлетики</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0022-cf0d-0279-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0022-cf0d-0268-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>22.2110050</sp_facility_id>
+	<sp_facility_name>открытый специализированный с натуральным покрытием для регби</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0022-cf0d-0269-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0022-cf0d-0268-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>22.1110010</sp_facility_id>
+	<sp_facility_name>крытый специализированный с натуральным покрытием для футбола</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0022-cf0d-0270-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0022-cf0d-0268-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>22.1120010</sp_facility_id>
+	<sp_facility_name>крытый специализированный с искусственным покрытием для футбола</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0022-cf0d-0277-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0022-cf0d-0268-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>22.2110040</sp_facility_id>
+	<sp_facility_name>открытый специализированный с натуральным покрытием для легкой атлетики</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0022-cf0d-0274-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0022-cf0d-0268-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>22.2120020</sp_facility_id>
+	<sp_facility_name>открытый специализированный с искусственным покрытием для американского футбола</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0023-cf0d-0288-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0023-cf0d-0287-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>23.2100001</sp_facility_id>
+	<sp_facility_name>открытое специализированное  с площадками «круглый стенд»</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0023-cf0d-0289-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0023-cf0d-0287-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>23.2100002</sp_facility_id>
+	<sp_facility_name>открытое специализированное с площадками «траншейный стенд»</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0023-cf0d-0290-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0023-cf0d-0287-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>23.2200003</sp_facility_id>
+	<sp_facility_name>открытое универсальное с площадками «линейная стрельба» и «автоматический мульти-трап»</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0023-cf0d-0292-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0023-cf0d-0287-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>23.2300005</sp_facility_id>
+	<sp_facility_name>открытое универсальное с площадками для всех видов стендовой стрельбы</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0023-cf0d-0291-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0023-cf0d-0287-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>23.2200004</sp_facility_id>
+	<sp_facility_name>открытое универсальное и площадками «спорт-трап», «русский спортинг» и «спортинг»</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0024-cf0d-0298-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0024-cf0d-0293-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>24.2100200</sp_facility_id>
+	<sp_facility_name>открытый специализированный с галереями 300 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0024-cf0d-0305-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0024-cf0d-0293-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>24.3200100</sp_facility_id>
+	<sp_facility_name>полуоткрытый универсальный с галереями 50 и 25 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0024-cf0d-0303-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0024-cf0d-0293-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>24.3100300</sp_facility_id>
+	<sp_facility_name>полуоткрытый специализированный с галереями 50 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0024-cf0d-0304-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0024-cf0d-0293-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>24.3100400</sp_facility_id>
+	<sp_facility_name>полуоткрытый специализированный с галереями 25 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0024-cf0d-0300-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0024-cf0d-0293-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>24.2100300</sp_facility_id>
+	<sp_facility_name>открытый специализированный с галереями 25 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0024-cf0d-0297-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0024-cf0d-0293-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>24.1200100</sp_facility_id>
+	<sp_facility_name>крытый универсальный с галереями 50, 25 и 10 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0024-cf0d-0299-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0024-cf0d-0293-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>24.2100300</sp_facility_id>
+	<sp_facility_name>открытый специализированный с галереями 50 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0024-cf0d-0302-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0024-cf0d-0293-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>24.3100200</sp_facility_id>
+	<sp_facility_name>полуоткрытый специализированный с галереями 300 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0024-cf0d-0294-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0024-cf0d-0293-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>24.1100210</sp_facility_id>
+	<sp_facility_name>крытый специализированный с галереей 50 м для пулевой стрельбы</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0024-cf0d-0295-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0024-cf0d-0293-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>24.1100310</sp_facility_id>
+	<sp_facility_name>крытый специализированный с галереей 25 м для пулевой стрельбы</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0024-cf0d-0296-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0024-cf0d-0293-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>24.1100420</sp_facility_id>
+	<sp_facility_name>крытый специализированный с галереей 10 м для пневматической стрельбы</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0024-cf0d-0301-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0024-cf0d-0293-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>24.2200100</sp_facility_id>
+	<sp_facility_name>открытый универсальный с галереями 300, 50 и 25 м</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0025-cf0d-0310-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0025-cf0d-0306-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>25.2200001</sp_facility_id>
+	<sp_facility_name>открытая универсальная летняя</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0025-cf0d-0308-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0025-cf0d-0306-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>25.2100003</sp_facility_id>
+	<sp_facility_name>разгонная эстакада ледовая</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0025-cf0d-0307-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0025-cf0d-0306-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>25.2100002</sp_facility_id>
+	<sp_facility_name>разгонная эстакада летняя</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0025-cf0d-0309-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0025-cf0d-0306-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>25.2200000</sp_facility_id>
+	<sp_facility_name>открытая универсальная</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0026-cf0d-0319-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0026-cf0d-0311-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>26.2031030</sp_facility_id>
+	<sp_facility_name>открытая с асфальтобетонным покрытием постоянная для велоспорта</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0026-cf0d-0313-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0026-cf0d-0311-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>26.1011000</sp_facility_id>
+	<sp_facility_name>крытая со снежным покрытием постоянная</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0026-cf0d-0315-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0026-cf0d-0311-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>26.2002060</sp_facility_id>
+	<sp_facility_name>открытая временная для легкой атлетики</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0026-cf0d-0316-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0026-cf0d-0311-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>26.2011000</sp_facility_id>
+	<sp_facility_name>открытая постоянная со снежным покрытием</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0026-cf0d-0317-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0026-cf0d-0311-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>26.2011010</sp_facility_id>
+	<sp_facility_name>открытая с грунтовым покрытием постоянная для велоспорта-BMX</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0026-cf0d-0312-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0026-cf0d-0311-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>26.1011010</sp_facility_id>
+	<sp_facility_name>крытая с грунтовым покрытием постоянная для велоспорта-BMX</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0026-cf0d-0314-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0026-cf0d-0311-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>26.2002050</sp_facility_id>
+	<sp_facility_name>открытая временная для рафтинга</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0026-cf0d-0318-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0026-cf0d-0311-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>26.2021010</sp_facility_id>
+	<sp_facility_name>открытая с асфальтовым покрытием постоянная для велоспорта-BMX</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0026-cf0d-0320-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0026-cf0d-0311-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>26.2031040</sp_facility_id>
+	<sp_facility_name>открытая с асфальтобетонным покрытием постоянная для автомобильного спорта</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0027-cf0d-0324-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0027-cf0d-0321-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>27.1120000</sp_facility_id>
+	<sp_facility_name>крытый специализированный с искусственным покрытием дорожек</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0027-cf0d-0323-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0027-cf0d-0321-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>27.1110000</sp_facility_id>
+	<sp_facility_name>крытый специализированный с деревянными покрытием дорожек</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0027-cf0d-0322-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0027-cf0d-0321-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>27.1100001</sp_facility_id>
+	<sp_facility_name>крытый специализированный без устройств автоматической установки кеглей</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0028-cf0d-0326-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0028-cf0d-0325-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>28.0200000</sp_facility_id>
+	<sp_facility_name>универсальный</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0028-cf0d-0327-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0028-cf0d-0325-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>28.0200002</sp_facility_id>
+	<sp_facility_name>универсальный яхт-клуб</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<guid>00000030-0029-cf0d-0329-6ce3eb45d40f</guid>
+	<parent_guid>00000030-0029-cf0d-0328-6ce3eb45d40f</parent_guid>
+	<sp_facility_id>29.1100000</sp_facility_id>
+	<sp_facility_name>крытый специализированный</sp_facility_name>
+	<date_beg>25.02.2016</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>

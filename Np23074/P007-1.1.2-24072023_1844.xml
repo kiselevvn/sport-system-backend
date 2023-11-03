@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="P007" version="1.1.2" date="24.07.2023" />
+
+<records>
+
+<record>
+	<trainer_iaq_id>0018</trainer_iaq_id>
+	<trainer_iaq_name>(5 уровень) Тренер по начальной подготовке</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0017</trainer_iaq_id>
+	<trainer_iaq_name>(5 уровень) Тренер по направлению подготовки (в соответствии с федеральным стандартом спортивной подготовки по виду спорта)</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0019</trainer_iaq_id>
+	<trainer_iaq_name>(5 уровень) Тренер</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0020</trainer_iaq_id>
+	<trainer_iaq_name>(5 уровень) Старший тренер</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0021</trainer_iaq_id>
+	<trainer_iaq_name>(6 уровень) Тренер по виду спорта (группе спортивных дисциплин)</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0022</trainer_iaq_id>
+	<trainer_iaq_name>(6 уровень) Тренер</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0010</trainer_iaq_id>
+	<trainer_iaq_name>(7 уровень) Старший тренер спортивной сборной команды по виду адаптивного спорта (спортивной дисциплине, группе спортивных дисциплин)</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0011</trainer_iaq_id>
+	<trainer_iaq_name>(7 уровень)  Главный тренер спортивной сборной команды субъекта Российской Федерации по виду адаптивного спорта (спортивной дисциплине, группе спортивных дисциплин)</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0001</trainer_iaq_id>
+	<trainer_iaq_name>(5 уровень) Тренер по адаптивной физической культуре и адаптивному спорту по общей физической подготовке</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0002</trainer_iaq_id>
+	<trainer_iaq_name>(5 уровень) Тренер по адаптивной физической культуре и адаптивному спорту по функциональной подготовке</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0003</trainer_iaq_id>
+	<trainer_iaq_name>(5 уровень) Тренер по адаптивной физической культуре и адаптивному спорту по направлению подготовки (в соответствии с федеральным стандартом спортивной подготовки по виду адаптивного спорта)</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0004</trainer_iaq_id>
+	<trainer_iaq_name>(5 уровень) Тренер по адаптивному спорту</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0005</trainer_iaq_id>
+	<trainer_iaq_name>(6 уровень) Тренер по виду адаптивного спорта (группе спортивных дисциплин)</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0006</trainer_iaq_id>
+	<trainer_iaq_name>(6 уровень) Тренер по виду (группе спортивных дисциплин) адаптивного спорта</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0007</trainer_iaq_id>
+	<trainer_iaq_name>(6 уровень) Тренер команды по виду адаптивного спорта (спортивной дисциплине, группе спортивных дисциплин)</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0008</trainer_iaq_id>
+	<trainer_iaq_name>(6 уровень) Старший тренер по виду адаптивного спорта (группе спортивных дисциплин)</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0009</trainer_iaq_id>
+	<trainer_iaq_name>(7 уровень) Тренер спортивной сборной команды по виду адаптивного спорта (спортивной дисциплине, группе спортивных дисциплин)</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0012</trainer_iaq_id>
+	<trainer_iaq_name>(7 уровень) Тренер спортивной сборной команды Российской Федерации по виду адаптивного спорта (спортивной дисциплине, группе спортивных дисциплин)</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0013</trainer_iaq_id>
+	<trainer_iaq_name>(7 уровень)  Старший тренер спортивной сборной команды Российской Федерации по виду адаптивного спорта (спортивной дисциплине, группе спортивных дисциплин)</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0014</trainer_iaq_id>
+	<trainer_iaq_name>(7 уровень) Главный тренер спортивной сборной команды Российской Федерации по виду адаптивного спорта (спортивной дисциплине, группе спортивных дисциплин)</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0015</trainer_iaq_id>
+	<trainer_iaq_name>(5 уровень) Тренер по общей физической подготовке</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0016</trainer_iaq_id>
+	<trainer_iaq_name>(5 уровень) Тренер по функциональной подготовке</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0023</trainer_iaq_id>
+	<trainer_iaq_name>(6 уровень) Старший тренер</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0024</trainer_iaq_id>
+	<trainer_iaq_name>(6 уровень) Старший тренер по виду спорта (группе спортивных дисциплин)</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0025</trainer_iaq_id>
+	<trainer_iaq_name>(6 уровень) Тренер-консультант</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0026</trainer_iaq_id>
+	<trainer_iaq_name>(6 уровень) Тренер-физиолог</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0027</trainer_iaq_id>
+	<trainer_iaq_name>(6 уровень) Тренер команды по виду спорта (спортивной дисциплине, группе спортивных дисциплин)</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0028</trainer_iaq_id>
+	<trainer_iaq_name>(6 уровень) Тренер спортивной сборной команды по виду спорта (спортивной дисциплине, группе спортивных дисциплин)</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0029</trainer_iaq_id>
+	<trainer_iaq_name>(6 уровень) Тренер спортивной сборной команды Российской Федерации по виду спорта (спортивной дисциплине, группе спортивных дисциплин)</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0030</trainer_iaq_id>
+	<trainer_iaq_name>(6 уровень) Старший тренер спортивной сборной команды по виду спорта (спортивной дисциплине, группе спортивных дисциплин)</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0031</trainer_iaq_id>
+	<trainer_iaq_name>(6 уровень) Старший тренер команды по виду спорта (спортивной дисциплине, группе спортивных дисциплин)</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0032</trainer_iaq_id>
+	<trainer_iaq_name>(7 уровень) Старший тренер по резерву спортивной сборной команды Российской Федерации (по виду спорта, спортивной дисциплине, группе спортивных дисциплин)</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0033</trainer_iaq_id>
+	<trainer_iaq_name>(7 уровень) Старший тренер спортивной сборной команды Российской Федерации по виду спорта (спортивной дисциплине, группе спортивных дисциплин)</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0034</trainer_iaq_id>
+	<trainer_iaq_name>(7 уровень) Главный тренер спортивной сборной команды Российской Федерации по виду спорта (спортивной дисциплине, группе спортивных дисциплин)</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0035</trainer_iaq_id>
+	<trainer_iaq_name>(5 уровень) Инструктор-методист по адаптивной физической культуре и адаптивному спорту</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0036</trainer_iaq_id>
+	<trainer_iaq_name>(6 уровень) Инструктор-методист по виду спорта (спортивной дисциплине) адаптивного спорта</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0037</trainer_iaq_id>
+	<trainer_iaq_name>(6 уровень) Старший инструктор-методист по адаптивной физической культуре</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0038</trainer_iaq_id>
+	<trainer_iaq_name>(6 уровень) Старший инструктор-методист по виду (спортивной дисциплине) адаптивного спорта</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0039</trainer_iaq_id>
+	<trainer_iaq_name>(6 уровень) Инструктор-методист спортивной сборной команды Российской Федерации (субъекта Российской Федерации) по виду (спортивной дисциплине) адаптивного спорта</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0040</trainer_iaq_id>
+	<trainer_iaq_name>(6 уровень) Старший инструктор-методист спортивной сборной команды Российской Федерации (субъекта Российской Федерации) по виду (спортивной дисциплине) адаптивного спорта</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0041</trainer_iaq_id>
+	<trainer_iaq_name>(5 уровень) Инструктор по физической культуре</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0042</trainer_iaq_id>
+	<trainer_iaq_name>(5 уровень) Инструктор по организационно-массовой работе</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0043</trainer_iaq_id>
+	<trainer_iaq_name>(5 уровень) Инструктор-методист спортивной школы</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0044</trainer_iaq_id>
+	<trainer_iaq_name>(5 уровень) Инструктор-методист физкультурно-спортивных организаций</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0045</trainer_iaq_id>
+	<trainer_iaq_name>(6 уровень) Инструктор-методист спортивной школы</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0046</trainer_iaq_id>
+	<trainer_iaq_name>(6 уровень) Инструктор-методист физкультурно-спортивных организаций</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0047</trainer_iaq_id>
+	<trainer_iaq_name>(6 уровень) Инструктор по организационно-массовой работе</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0048</trainer_iaq_id>
+	<trainer_iaq_name>(6 уровень) Инструктор по основной деятельности</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0049</trainer_iaq_id>
+	<trainer_iaq_name>(6 уровень) Методист образовательного учреждения</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0050</trainer_iaq_id>
+	<trainer_iaq_name>(6 уровень) Методист по физической культуре</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0051</trainer_iaq_id>
+	<trainer_iaq_name>(7 уровень) Старший инструктор-методист спортивной школы</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<trainer_iaq_id>0052</trainer_iaq_id>
+	<trainer_iaq_name>(7 уровень) Старший инструктор-методист физкультурно-спортивных организаций</trainer_iaq_name>
+	<date_beg>23.03.2020</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>

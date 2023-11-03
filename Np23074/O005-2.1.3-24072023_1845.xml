@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="O005" version="2.1.3" date="24.07.2023" />
+
+<records>
+
+<record>
+	<sf_doct_acr_id>0008</sf_doct_acr_id>
+	<sf_doct_acr_name>Справка о развитии вида спорта в мире и Российской Федерации</sf_doct_acr_name>
+	<sf_code>О</sf_code>
+	<date_beg>20.02.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<sf_doct_acr_id>0007</sf_doct_acr_id>
+	<sf_doct_acr_name>Проект программы развития вида (видов) спорта</sf_doct_acr_name>
+	<sf_code>О</sf_code>
+	<date_beg>20.02.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<sf_doct_acr_id>0009</sf_doct_acr_id>
+	<sf_doct_acr_name>Копии утвержденного годового отчета и годового бухгалтерского баланса общественной организации за год</sf_doct_acr_name>
+	<sf_code>О</sf_code>
+	<date_beg>20.02.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<sf_doct_acr_id>0010</sf_doct_acr_id>
+	<sf_doct_acr_name>Копии протоколов всероссийских спортивных соревнований, проведенных общественной организацией за год</sf_doct_acr_name>
+	<sf_code>О</sf_code>
+	<date_beg>20.02.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<sf_doct_acr_id>0011</sf_doct_acr_id>
+	<sf_doct_acr_name>Копия протокола учредительного съезда (конференции) или общего собрания о создании общественной организации, об утверждении ее устава и о формировании руководящих органов и контрольно-ревизионного органа</sf_doct_acr_name>
+	<sf_code></sf_code>
+	<date_beg>20.02.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<sf_doct_acr_id>0012</sf_doct_acr_id>
+	<sf_doct_acr_name>Копия свидетельства о государственной регистрации некоммерческой организации</sf_doct_acr_name>
+	<sf_code></sf_code>
+	<date_beg>20.02.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<sf_doct_acr_id>0014</sf_doct_acr_id>
+	<sf_doct_acr_name>Копия документа, подтверждающего членство общественной организации в общероссийской спортивной федерации (при наличии общероссийской спортивной федерации по соответствующему виду спорта)</sf_doct_acr_name>
+	<sf_code>Р</sf_code>
+	<date_beg>20.02.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<sf_doct_acr_id>0015</sf_doct_acr_id>
+	<sf_doct_acr_name>Проект документа, регламентирующего порядок отбора спортсменов для включения их в состав спортивной сборной команды субъекта Российской Федерации по виду спорта, развитие которого осуществляет общественная организация</sf_doct_acr_name>
+	<sf_code>Р</sf_code>
+	<date_beg>20.02.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<sf_doct_acr_id>0016</sf_doct_acr_id>
+	<sf_doct_acr_name>Проект программы развития соответствующего вида спорта в субъекте Российской Федерации</sf_doct_acr_name>
+	<sf_code>Р</sf_code>
+	<date_beg>20.02.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<sf_doct_acr_id>0017</sf_doct_acr_id>
+	<sf_doct_acr_name>Копия программы развития, с проектом ее корректировки, с учетом реализованных мероприятий в прошедшем периоде</sf_doct_acr_name>
+	<sf_code>Р</sf_code>
+	<date_beg>20.02.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<sf_doct_acr_id>0018</sf_doct_acr_id>
+	<sf_doct_acr_name>Справка об источниках финансирования деятельности общественной организации, проведенных основных мероприятиях, результатах выступления спортивной сборной команды субъекта Российской Федерации на чемпионатах и первенствах России по виду спорта, развитие которого осуществляет общественная организация</sf_doct_acr_name>
+	<sf_code>Р</sf_code>
+	<date_beg>20.02.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<sf_doct_acr_id>0019</sf_doct_acr_id>
+	<sf_doct_acr_name>Копия протокола спортивного соревнования, проведенного общественной организацией</sf_doct_acr_name>
+	<sf_code>Р</sf_code>
+	<date_beg>20.02.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<sf_doct_acr_id>0002</sf_doct_acr_id>
+	<sf_doct_acr_name>Перечень лиц, являющихся членами соответствующих спортивных федераций</sf_doct_acr_name>
+	<sf_code></sf_code>
+	<date_beg>20.02.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<sf_doct_acr_id>0003</sf_doct_acr_id>
+	<sf_doct_acr_name>Сведения о персональном составе руководящих органов соответствующих спортивных федераций</sf_doct_acr_name>
+	<sf_code></sf_code>
+	<date_beg>20.02.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<sf_doct_acr_id>0004</sf_doct_acr_id>
+	<sf_doct_acr_name>Засвидетельствованные в нотариальном порядке копии учредительных документов соответствующих спортивных федераций</sf_doct_acr_name>
+	<sf_code></sf_code>
+	<date_beg>20.02.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<sf_doct_acr_id>0005</sf_doct_acr_id>
+	<sf_doct_acr_name>Уведомление постоянно действующего руководящего органа общероссийской спортивной федерации о том, что региональная спортивная федерация является структурным подразделением общероссийской спортивной федерации</sf_doct_acr_name>
+	<sf_code></sf_code>
+	<date_beg>20.02.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<sf_doct_acr_id>0006</sf_doct_acr_id>
+	<sf_doct_acr_name>Сведения о членстве общероссийских спортивных федераций в международных физкультурно-спортивных организациях</sf_doct_acr_name>
+	<sf_code>О</sf_code>
+	<date_beg>20.02.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<sf_doct_acr_id>0013</sf_doct_acr_id>
+	<sf_doct_acr_name>Письменное согласование общероссийской спортивной федерации на государственную аккредитацию общественной организации</sf_doct_acr_name>
+	<sf_code>Р</sf_code>
+	<date_beg>20.02.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<sf_doct_acr_id>0001</sf_doct_acr_id>
+	<sf_doct_acr_name>Выписка из Единого государственного реестра юридических лиц</sf_doct_acr_name>
+	<sf_code></sf_code>
+	<date_beg>20.02.2009</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>

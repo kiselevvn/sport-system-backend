@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="A001" version="1.0.1" date="24.07.2023" />
+
+<records>
+
+<record>
+	<id_guide>E005</id_guide>
+	<name_guide>Классификатор причин отказа во внесении сведений во Всероссийский реестр видов спорта или изменении сведений, включенных  во Всероссийский реестр видов спорта</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>18.05.2023</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>C011</id_guide>
+	<name_guide>Классификатор причин отказа во внесении сведений о физкультурном мероприятии или спортивном мероприятии в ЕКП, изменении или исключении сведений о физкультурном мероприятии или спортивном мероприятии, размещенных в ЕКП</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>18.05.2023</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>N003</id_guide>
+	<name_guide>Справочник федеральных стандартов спортивной подготовки по видам спорта лиц с ограниченными возможностями здоровья и инвалидов</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>25.04.2023</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>O003</id_guide>
+	<name_guide>Справочник органов местного самоуправления</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>18.03.2023</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>D011</id_guide>
+	<name_guide>Классификатор типов документов, прикладываемых к представлению для присвоения спортивного звания или спортивного разряда квалификационной категории спортивного судьи</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>13.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>E003</id_guide>
+	<name_guide>Классификатор типов документов, прикладываемых к заявлению о признании вида спорта</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>13.03.2023</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>P011</id_guide>
+	<name_guide>Классификатор возрастных групп</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>12.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>E004</id_guide>
+	<name_guide>Классификатор типов документов, прикладываемых к заявлению о внесении изменений во Всероссийский реестр видов спорта</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>13.03.2023</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>S002</id_guide>
+	<name_guide>Классификатор типов отчетов</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>13.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>P010</id_guide>
+	<name_guide>Классификатор этапов спортивной подготовки</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>12.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>P009</id_guide>
+	<name_guide>Классификатор типов документов, подтверждающих законное представительство</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>12.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>P008</id_guide>
+	<name_guide>Классификатор типов документов, удостоверяющих личность</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>01.11.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>P007</id_guide>
+	<name_guide>Классификатор профессиональной квалификации тренеров (независимой оценки квалификации тренера)</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>07.09.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>P006</id_guide>
+	<name_guide>Классификатор квалификационных категорий тренеров</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>12.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>D004</id_guide>
+	<name_guide>Классификатор причин отказа в присвоении спортивного звания или спортивного разряда</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>13.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>D003</id_guide>
+	<name_guide>Классификатор спортивных разрядов</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>12.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>D002</id_guide>
+	<name_guide>Классификатор ученых званий и степеней</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>12.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>C009</id_guide>
+	<name_guide>Общероссийский классификатор валют</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>13.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>C008</id_guide>
+	<name_guide>Классификатор органов/организаций</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>13.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>C007</id_guide>
+	<name_guide>Справочник прочих мест проведения мероприятий</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>13.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>C006</id_guide>
+	<name_guide>Классификатор групп физкультурных мероприятий</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>12.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>C003</id_guide>
+	<name_guide>Классификатор причин исключения физкультурного или спортивного мероприятия из Единого календарного плана, календарного плана официальных физкультурных и спортивных мероприятий субъекта Российской Федерации, календарного плана физкультурных и спортивных мероприятий муниципального образования</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>12.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>P002</id_guide>
+	<name_guide>Классификатор уровней образования</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>12.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>D001</id_guide>
+	<name_guide>Классификатор спортивных званий</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>12.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>C004</id_guide>
+	<name_guide>Классификатор статусов мероприятий</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>12.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>T005</id_guide>
+	<name_guide>Общероссийский классификатор стран мира</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>12.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>N002</id_guide>
+	<name_guide>Справочник федеральных стандартов спортивной подготовки по неолимпийским видам спорта</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>17.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>N001</id_guide>
+	<name_guide>Справочник федеральных стандартов спортивной подготовки по олимпийским видам спорта</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>17.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>O002</id_guide>
+	<name_guide>Региональные органы исполнительной власти в сфере физической культуры и спорта</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>01.11.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>T003</id_guide>
+	<name_guide>Справочник муниципальных образований</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>15.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>T002</id_guide>
+	<name_guide>Справочник субъектов Российской Федерации</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>31.10.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>T001</id_guide>
+	<name_guide>Справочник федеральных округов Российской Федерации</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>15.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>P005</id_guide>
+	<name_guide>Классификатор видов представительства</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>12.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>P004</id_guide>
+	<name_guide>Классификатор квалификационных категорий спортивных судей</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>12.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>P012</id_guide>
+	<name_guide>Классификатор типов полисов страхования</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>13.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>P003</id_guide>
+	<name_guide>Классификатор статуса спортивного судьи в соответствии с правилами вида спорта</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>01.11.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>O007</id_guide>
+	<name_guide>Классификатор причин отказа во внесении или изменении сведений в реестре общероссийских и аккредитованных региональных спортивных федераций</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>13.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>O006</id_guide>
+	<name_guide>Классификатор  типов документов, прилагаемых к заявлению о внесении или изменении сведений в реестре общероссийских и аккредитованных региональных спортивных федераций</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>13.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>O005</id_guide>
+	<name_guide>Классификатор типов документов, прилагаемых к заявлению о государственной аккредитации общественной организации и наделения ее статусом общероссийской или региональной спортивной федерации</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>13.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>O004</id_guide>
+	<name_guide>Классификатор спортивных федераций</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>12.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>C010</id_guide>
+	<name_guide>Классификатор типов финансирования спортивных мероприятий</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>03.03.2023</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>F003</id_guide>
+	<name_guide>Классификатор единовременной пропускной способности объекта спорта</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>13.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>F001</id_guide>
+	<name_guide>Классификатор уровней проведения мероприятий</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>13.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>F002</id_guide>
+	<name_guide>Классификатор объектов спорта</name_guide>
+	<hierarchy>Да</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>12.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>E002</id_guide>
+	<name_guide>Классификатор частей спорта</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>07.09.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>E001</id_guide>
+	<name_guide>Классификатор видов спорта и спортивных дисциплин</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>12.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>D010</id_guide>
+	<name_guide>Классификатор причин отказа в присвоении, восстановлении или лишении квалификационной категории спортивного судьи</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>13.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>D009</id_guide>
+	<name_guide>Классификатор типов документов, прикладываемых к представлению для присвоения спортивного звания или спортивного разряда</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>13.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>D008</id_guide>
+	<name_guide>Классификатор причин лишения и восстановления квалификационной категории спортивного судьи</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>13.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>D007</id_guide>
+	<name_guide>Классификатор причин лишения и восстановления спортивного звания или спортивного разряда</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>13.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>D006</id_guide>
+	<name_guide>Классификатор причин отказа в восстановлении спортивного звания или спортивного разряда</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>13.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>D005</id_guide>
+	<name_guide>Классификатор причин отказа в лишении спортивного звания или спортивного разряда</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>13.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>C005</id_guide>
+	<name_guide>Классификатор мероприятий</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>12.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>P001</id_guide>
+	<name_guide>Классификатор пола</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>12.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>S001</id_guide>
+	<name_guide>Классификатор видов отчетов</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>12.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>C002</id_guide>
+	<name_guide>Классификатор причин изменения сведений о физкультурном или спортивном мероприятии в Едином календарном плане, календарном плане официальных физкультурных и спортивных мероприятий субъекта Российской Федерации, календарном плане физкультурных и спортивных мероприятий муниципального образования</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>12.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>O001</id_guide>
+	<name_guide>Классификатор физкультурно-спортивных организаций</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>24.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+<record>
+	<id_guide>C001</id_guide>
+	<name_guide>Классификатор типов документов, прикладываемых к предложению на включение физкультурного или спортивного мероприятия в Единый календарный план, календарный план официальных физкультурных и спортивных мероприятий субъекта Российской Федерации, календарный план физкультурных и спортивных мероприятий муниципального образования</name_guide>
+	<hierarchy>Нет</hierarchy>
+	<lvl_guide></lvl_guide>
+	<comm_guide></comm_guide>
+	<pack_guide>Да</pack_guide>
+	<npa_guide></npa_guide>
+	<date_beg>12.08.2022</date_beg>
+	<date_end></date_end>
+</record>
+
+</records>
+
+</packet>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="T001" version="2.1.4" date="24.07.2023" />
+
+<records>
+
+<record>
+	<rf_fed_id>030</rf_fed_id>
+	<rf_fed_name>Центральный федеральный округ</rf_fed_name>
+	<rf_fed_sh_name>ЦФО</rf_fed_sh_name>
+	<date_beg>30.12.1993</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rf_fed_id>031</rf_fed_id>
+	<rf_fed_name>Северо-Западный федеральный округ</rf_fed_name>
+	<rf_fed_sh_name>СЗФО</rf_fed_sh_name>
+	<date_beg>30.12.1993</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rf_fed_id>033</rf_fed_id>
+	<rf_fed_name>Приволжский федеральный округ</rf_fed_name>
+	<rf_fed_sh_name>ПФО</rf_fed_sh_name>
+	<date_beg>30.12.1993</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rf_fed_id>034</rf_fed_id>
+	<rf_fed_name>Уральский федеральный округ</rf_fed_name>
+	<rf_fed_sh_name>УрФО</rf_fed_sh_name>
+	<date_beg>30.12.1993</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rf_fed_id>038</rf_fed_id>
+	<rf_fed_name>Северо-Кавказский федеральный округ</rf_fed_name>
+	<rf_fed_sh_name>СКФО</rf_fed_sh_name>
+	<date_beg>30.12.1993</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rf_fed_id>040</rf_fed_id>
+	<rf_fed_name>Южный федеральный округ</rf_fed_name>
+	<rf_fed_sh_name>ЮФО</rf_fed_sh_name>
+	<date_beg>30.12.1993</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rf_fed_id>041</rf_fed_id>
+	<rf_fed_name>Сибирский федеральный округ</rf_fed_name>
+	<rf_fed_sh_name>СФО</rf_fed_sh_name>
+	<date_beg>30.12.1993</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<rf_fed_id>042</rf_fed_id>
+	<rf_fed_name>Дальневосточный федеральный округ</rf_fed_name>
+	<rf_fed_sh_name>ДФО/ДВФО</rf_fed_sh_name>
+	<date_beg>30.12.1993</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>

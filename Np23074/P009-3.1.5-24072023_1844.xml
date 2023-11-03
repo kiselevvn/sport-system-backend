@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="P009" version="3.1.5" date="24.07.2023" />
+
+<records>
+
+<record>
+	<lr_doc_id>0004</lr_doc_id>
+	<lr_doc_name>Удостоверение, решение или другой документ о назначении опекуна (попечителя), выдаваемые органами опеки и попечительства в соответствии с законодательством Российской Федерации об опеке и попечительстве</lr_doc_name>
+	<lr_mask_ser>R-ББ</lr_mask_ser>
+	<lr_mask_num>999999 </lr_mask_num>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<lr_doc_id>0002</lr_doc_id>
+	<lr_doc_name>Свидетельство об установлении отцовства</lr_doc_name>
+	<lr_mask_ser>R-ББ</lr_mask_ser>
+	<lr_mask_num>999999 </lr_mask_num>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<lr_doc_id>0003</lr_doc_id>
+	<lr_doc_name>Свидетельство об усыновлении</lr_doc_name>
+	<lr_mask_ser>R-ББ</lr_mask_ser>
+	<lr_mask_num>999999 </lr_mask_num>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<lr_doc_id>0001</lr_doc_id>
+	<lr_doc_name>Свидетельство о рождении</lr_doc_name>
+	<lr_mask_ser>R-ББ</lr_mask_ser>
+	<lr_mask_num>999999 </lr_mask_num>
+	<date_beg>01.11.2022</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>

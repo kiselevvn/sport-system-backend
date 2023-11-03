@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="E005" version="1.0.3" date="24.07.2023" />
+
+<records>
+
+<record>
+	<section id_section="42" section_name="Причины для отказа во внесении сведений	" />
+	<vrvs_ref_id>0007</vrvs_ref_id>
+	<vrvs_ref_name>Выявление недостоверных сведений в заявлении и документах для включения вида спорта во второй раздел реестра;	</vrvs_ref_name>
+	<date_beg>24.08.2018</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<section id_section="42" section_name="Причины для отказа во внесении сведений	" />
+	<vrvs_ref_id>0008</vrvs_ref_id>
+	<vrvs_ref_name>Несоответствие вида спорта требованиям, предусмотренным пунктом 33 порядка, а также требованиям, предусмотренным пунктом 4 порядка (для видов спорта, признанных в соответствии с подпунктом "г" пункта 50 порядка)	</vrvs_ref_name>
+	<date_beg>24.08.2018</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<section id_section="42" section_name="Причины для отказа во внесении сведений	" />
+	<vrvs_ref_id>0009</vrvs_ref_id>
+	<vrvs_ref_name>Отсутствие в учредительных документах общероссийской общественной организации уставных целей по развитию соответствующего вида спорта	</vrvs_ref_name>
+	<date_beg>24.08.2018</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<section id_section="43" section_name="Причины для отказа в изменении сведений	" />
+	<vrvs_ref_id>0004</vrvs_ref_id>
+	<vrvs_ref_name>Наличие вида спорта, спортивной дисциплины в программе Олимпийских игр, Паралимпийских игр, Сурдлимпийских игр, в случае внесения изменений в реестр</vrvs_ref_name>
+	<date_beg>24.08.2018</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<section id_section="43" section_name="Причины для отказа в изменении сведений	" />
+	<vrvs_ref_id>0001</vrvs_ref_id>
+	<vrvs_ref_name>Выявление недостоверных сведений в заявлении и документах для внесения изменений в реестр</vrvs_ref_name>
+	<date_beg>24.08.2018</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<section id_section="43" section_name="Причины для отказа в изменении сведений	" />
+	<vrvs_ref_id>0006</vrvs_ref_id>
+	<vrvs_ref_name>Отсутствие тренеров, имеющих профессиональное образование, в случае внесения изменений в реестр</vrvs_ref_name>
+	<date_beg>24.08.2018</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<section id_section="43" section_name="Причины для отказа в изменении сведений	" />
+	<vrvs_ref_id>0005</vrvs_ref_id>
+	<vrvs_ref_name>Несоответствие вида спорта или спортивной дисциплины требованиям, в случае внесения изменений в реестр</vrvs_ref_name>
+	<date_beg>24.08.2018</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<section id_section="43" section_name="Причины для отказа в изменении сведений	" />
+	<vrvs_ref_id>0002</vrvs_ref_id>
+	<vrvs_ref_name>Отсутствие розыгрыша медалей по итогам спортивных соревнований в виде спорта, спортивной дисциплине, признаваемых в результате объединения или разделения видов спорта, спортивных дисциплин</vrvs_ref_name>
+	<date_beg>24.08.2018</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<section id_section="43" section_name="Причины для отказа в изменении сведений	" />
+	<vrvs_ref_id>0003</vrvs_ref_id>
+	<vrvs_ref_name>Изменения возрастных групп участников спортивных соревнований, создающие угрозу для жизни и здоровья занимающихся</vrvs_ref_name>
+	<date_beg>24.08.2018</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>

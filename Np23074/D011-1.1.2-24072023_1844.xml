@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="D011" version="1.1.2" date="24.07.2023" />
+
+<records>
+
+<record>
+	<judge_dt_id>0013</judge_dt_id>
+	<judge_dt_name>Копия архивной справки</judge_dt_name>
+	<date_beg>27.08.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<judge_dt_id>0012</judge_dt_id>
+	<judge_dt_name>Копия документа, подтверждающего присвоение соответствующей квалификационной категории спортивного судьи</judge_dt_name>
+	<date_beg>27.08.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<judge_dt_id>0001</judge_dt_id>
+	<judge_dt_name>Заверенная печатью (при наличии) и подписью руководителя региональной спортивной федерации, подразделения федерального органа или должностного лица копия карточки учета судейской деятельности спортивного судьи</judge_dt_name>
+	<date_beg>27.08.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<judge_dt_id>0002</judge_dt_id>
+	<judge_dt_name>Копия паспорта гражданина Российской Федерации</judge_dt_name>
+	<date_beg>27.08.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<judge_dt_id>0003</judge_dt_id>
+	<judge_dt_name>Копия паспорта иностранного гражданина либо иного документа, удостоверяющего личность иностранного гражданина</judge_dt_name>
+	<date_beg>27.08.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<judge_dt_id>0004</judge_dt_id>
+	<judge_dt_name>Копия документа, удостоверяющего личность лица без гражданства в Российской Федерации</judge_dt_name>
+	<date_beg>27.08.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<judge_dt_id>0005</judge_dt_id>
+	<judge_dt_name>Копия военного билета</judge_dt_name>
+	<date_beg>27.08.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<judge_dt_id>0006</judge_dt_id>
+	<judge_dt_name>2 фотографии размером 3 x 4 см.</judge_dt_name>
+	<date_beg>27.08.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<judge_dt_id>0008</judge_dt_id>
+	<judge_dt_name>Копия удостоверения «судья по спорту всесоюзной категории»</judge_dt_name>
+	<date_beg>27.08.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<judge_dt_id>0009</judge_dt_id>
+	<judge_dt_name>Копия удостоверения «мастер спорта России международного класса»</judge_dt_name>
+	<date_beg>27.08.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<judge_dt_id>0010</judge_dt_id>
+	<judge_dt_name>Копия удостоверения «гроссмейстер России»</judge_dt_name>
+	<date_beg>27.08.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<judge_dt_id>0011</judge_dt_id>
+	<judge_dt_name>Копия удостоверения «мастер спорта России»</judge_dt_name>
+	<date_beg>27.08.2008</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<judge_dt_id>0007</judge_dt_id>
+	<judge_dt_name>Копия удостоверения «судья по спорту республиканской категории»</judge_dt_name>
+	<date_beg>27.08.2008</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>

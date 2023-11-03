@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="O001" version="2.3.5" date="24.07.2023" />
+
+<records>
+
+<record>
+	<ost_id>0010</ost_id>
+	<ost_name>Специализированная детско-юношеская спортивная школа олимпийского резерва</ost_name>
+	<ost_sh_name>СДЮСШОР</ost_sh_name>
+	<date_beg>30.10.2015</date_beg>
+	<date_end>19.06.2023</date_end>
+</record>
+
+<record>
+	<ost_id>0005</ost_id>
+	<ost_name>Центр спортивной подготовки</ost_name>
+	<ost_sh_name>ЦСП</ost_sh_name>
+	<date_beg>30.10.2015</date_beg>
+	<date_end>19.06.2023</date_end>
+</record>
+
+<record>
+	<ost_id>0011</ost_id>
+	<ost_name>Центр паралимпийской подготовки</ost_name>
+	<ost_sh_name>ЦПП</ost_sh_name>
+	<date_beg>30.10.2015</date_beg>
+	<date_end>19.06.2023</date_end>
+</record>
+
+<record>
+	<ost_id>0007</ost_id>
+	<ost_name>Спортивно-адаптивная школа</ost_name>
+	<ost_sh_name>САШ</ost_sh_name>
+	<date_beg>30.10.2015</date_beg>
+	<date_end>19.06.2023</date_end>
+</record>
+
+<record>
+	<ost_id>0012</ost_id>
+	<ost_name>Другие юридические лица</ost_name>
+	<ost_sh_name>Другое</ost_sh_name>
+	<date_beg>30.10.2015</date_beg>
+	<date_end>19.06.2023</date_end>
+</record>
+
+<record>
+	<ost_id>0003</ost_id>
+	<ost_name>Спортивно-адаптивная школа</ost_name>
+	<ost_sh_name>САШ</ost_sh_name>
+	<date_beg>30.10.2015</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<ost_id>0004</ost_id>
+	<ost_name>Спортивная школа олимпийского резерва</ost_name>
+	<ost_sh_name>СШОР</ost_sh_name>
+	<date_beg>30.10.2015</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<ost_id>0001</ost_id>
+	<ost_name>Училище олимпийского резерва</ost_name>
+	<ost_sh_name>УОР</ost_sh_name>
+	<date_beg>30.10.2015</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<ost_id>0002</ost_id>
+	<ost_name>Спортивная школа</ost_name>
+	<ost_sh_name>СШ</ost_sh_name>
+	<date_beg>30.10.2015</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<ost_id>0006</ost_id>
+	<ost_name>Спортивная школа</ost_name>
+	<ost_sh_name>СШ</ost_sh_name>
+	<date_beg>30.10.2015</date_beg>
+	<date_end>19.06.2023</date_end>
+</record>
+
+<record>
+	<ost_id>0009</ost_id>
+	<ost_name>Детско-юношеская спортивно-адаптивная школа</ost_name>
+	<ost_sh_name>ДЮСАШ</ost_sh_name>
+	<date_beg>30.10.2015</date_beg>
+	<date_end>19.06.2023</date_end>
+</record>
+
+<record>
+	<ost_id>0008</ost_id>
+	<ost_name>Спортивная детско-юношеская школа олимпийского резерва</ost_name>
+	<ost_sh_name>СДЮШОР</ost_sh_name>
+	<date_beg>30.10.2015</date_beg>
+	<date_end>19.06.2023</date_end>
+</record>
+
+</records>
+
+</packet>

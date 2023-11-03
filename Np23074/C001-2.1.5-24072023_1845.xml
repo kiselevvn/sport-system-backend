@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="C001" version="2.1.5" date="24.07.2023" />
+
+<records>
+
+<record>
+	<ekp_dt_id>0009</ekp_dt_id>
+	<ekp_dt_name>Решение международной спортивной федерации, осуществляющей развитие соответствующего вида спорта в мире и (или) в Европе, о проведении международного соревнования на территории Российской Федерации</ekp_dt_name>
+	<date_beg>08.05.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<ekp_dt_id>0006</ekp_dt_id>
+	<ekp_dt_name>Проект консолидированной сметы расходов</ekp_dt_name>
+	<date_beg>08.05.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<ekp_dt_id>0007</ekp_dt_id>
+	<ekp_dt_name>Подтверждение о правомочности использования в наименовании спортивного соревнования имени, символики, наименования</ekp_dt_name>
+	<date_beg>08.05.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<ekp_dt_id>0008</ekp_dt_id>
+	<ekp_dt_name>Дополнительные документы</ekp_dt_name>
+	<date_beg>08.05.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<ekp_dt_id>0001</ekp_dt_id>
+	<ekp_dt_name>Проект положения о межрегиональных и всероссийских официальных спортивных соревнованиях</ekp_dt_name>
+	<date_beg>08.05.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<ekp_dt_id>0002</ekp_dt_id>
+	<ekp_dt_name>Согласование органа исполнительной власти субъекта Российской Федерации в области физической культуры и спорта</ekp_dt_name>
+	<date_beg>08.05.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<ekp_dt_id>0003</ekp_dt_id>
+	<ekp_dt_name>Календарный план (копия календарного плана) спортивных соревнований международной спортивной федерации</ekp_dt_name>
+	<date_beg>08.05.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<ekp_dt_id>0004</ekp_dt_id>
+	<ekp_dt_name>Согласование высшего исполнительного органа государственной власти субъекта Российской Федерации</ekp_dt_name>
+	<date_beg>08.05.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<ekp_dt_id>0005</ekp_dt_id>
+	<ekp_dt_name>Копия регламента (контракта) о проведении международного спортивного соревнования</ekp_dt_name>
+	<date_beg>08.05.2009</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>

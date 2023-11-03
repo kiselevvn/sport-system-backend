@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+
+<zglv code="C006" version="1.1.2" date="24.07.2023" />
+
+<records>
+
+<record>
+	<group_pe_id>0001</group_pe_id>
+	<group_pe_name>Среди детей и учащейся молодежи</group_pe_name>
+	<date_beg>08.05.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<group_pe_id>0002</group_pe_id>
+	<group_pe_name>Среди лиц средних и старших возрастных групп населения</group_pe_name>
+	<date_beg>08.05.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<group_pe_id>0003</group_pe_id>
+	<group_pe_name>Среди инвалидов и лиц с ограниченными возможностями здоровья</group_pe_name>
+	<date_beg>08.05.2009</date_beg>
+	<date_end/>
+</record>
+
+<record>
+	<group_pe_id>0004</group_pe_id>
+	<group_pe_name>Среди всех групп населения</group_pe_name>
+	<date_beg>08.05.2009</date_beg>
+	<date_end/>
+</record>
+
+</records>
+
+</packet>
