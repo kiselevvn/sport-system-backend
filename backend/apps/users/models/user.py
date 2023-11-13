@@ -12,6 +12,10 @@ class User(AbstractBaseUser, PermissionsMixin):
     Пользователь системы
     """
 
+    class Gender(models.IntegerChoices):
+        MALE = 0, _("Мужчина")
+        FEMALE = 1, _("Женщина")
+
     username_validator = UnicodeUsernameValidator()
 
     username = models.CharField(
@@ -30,6 +34,9 @@ class User(AbstractBaseUser, PermissionsMixin):
     first_name = models.CharField(_("Имя"), max_length=30, blank=True)
     last_name = models.CharField(_("Фамилия"), max_length=150, blank=True)
     second_name = models.CharField(_("Отчество"), max_length=150, blank=True)
+    gender = models.IntegerField(
+        _("Пол"), choices=Gender.choices, null=True, blank=True
+    )
     is_sportsman = models.BooleanField(
         _("Пользователь является спортсменом"), default=False
     )

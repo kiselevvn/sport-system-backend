@@ -1,7 +1,7 @@
-from .examination_selectors import ExaminationSelectors
-from .examination_template_selectors import ExaminationTemplateSelectors
+from .examination import ExaminationSelector
+from .examination_template import ExaminationTemplateSelector
 
 __all__ = [
-    "ExaminationSelectors",
-    "ExaminationTemplateSelectors",
+    "ExaminationSelector",
+    "ExaminationTemplateSelector",
 ]

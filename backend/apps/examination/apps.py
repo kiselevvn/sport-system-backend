@@ -3,7 +3,6 @@ from django.apps import AppConfig
 
 class ExaminationConfig(AppConfig):
     """
-    Examination of the sportsmans
     Осмотр спортсменов
     """
 

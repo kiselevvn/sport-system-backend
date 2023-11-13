@@ -6,7 +6,7 @@ from backend.apps.examination.models import (  # Event, GroupExaminations,
 )
 
 
-class ExaminationSelectors:
+class ExaminationSelector:
     """ """
 
     def all():

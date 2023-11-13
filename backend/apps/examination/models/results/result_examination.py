@@ -1,19 +1,18 @@
 from django.db import models
 from django.utils.translation import gettext as _
 
-from backend.apps.services.models import (
-    DateCreatedMixin,
-    DescriptionMixin,
-    NameMixin,
-)
 
-
-class ResultExaminations(NameMixin, DescriptionMixin, DateCreatedMixin):
+class ResultExamination(models.Model):
     """
-    Event
-    Группа обследований
+    Результат обследования
     """
 
+    template = models.ForeignKey(
+        "examination.ExaminationTemplate",
+        verbose_name=_("Обследование"),
+        on_delete=models.CASCADE,
+        related_name="results_indicators",
+    )
     examination = models.ForeignKey(
         "examination.Examination",
         verbose_name=_("Обследование"),
@@ -29,7 +28,10 @@ class ResultExaminations(NameMixin, DescriptionMixin, DateCreatedMixin):
     result = models.JSONField(
         _("результат обследования"), blank=True, null=True
     )
+    date = models.DateTimeField(
+        auto_now_add=True, verbose_name=_("Дата проведения")
+    )
 
     class Meta:
-        verbose_name = _("Группа обследований")
-        verbose_name_plural = _("Группы обследований")
+        verbose_name = _("Результат обследования")
+        verbose_name_plural = _("Результат обследований")

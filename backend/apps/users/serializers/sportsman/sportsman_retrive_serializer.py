@@ -10,6 +10,7 @@ class SportsmanRetriveSerializer(serializers.ModelSerializer):
         fields = [
             "id",
             "email",
+            "gender",
             "username",
             "first_name",
             "last_name",

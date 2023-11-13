@@ -7,6 +7,7 @@ from .mixins import (
     OrderMixin,
     ShortNameMixin,
 )
+from .np import *
 
 __all__ = [
     "NameMixin",

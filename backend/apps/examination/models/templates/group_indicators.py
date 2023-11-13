@@ -21,7 +21,9 @@ class GroupIndicators(
     Группа медецинских показателей
     """
 
-    indicators = models.ManyToManyField(Indicator, verbose_name=_("Показатели"))
+    indicators = models.ManyToManyField(
+        Indicator, verbose_name=_("Показатели")
+    )
 
     class Meta:
         verbose_name = _("Группа медецинских показателей")

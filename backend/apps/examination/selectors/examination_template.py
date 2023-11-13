@@ -7,7 +7,7 @@ from backend.apps.examination.models import (
 )
 
 
-class ExaminationTemplateSelectors:
+class ExaminationTemplateSelector:
     """ """
 
     def all():
@@ -16,7 +16,8 @@ class ExaminationTemplateSelectors:
                 lookup="groups_indicators",
                 queryset=GroupIndicators.objects.prefetch_related(
                     Prefetch(
-                        lookup="indicators", queryset=Indicator.objects.all()
+                        lookup="indicators",
+                        queryset=Indicator.objects.select_related("unit"),
                     )
                 ),
             )
