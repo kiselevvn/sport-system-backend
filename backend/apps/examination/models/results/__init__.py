@@ -1,6 +1,7 @@
 from .event import Event
 from .examination import Examination
 from .group_examinations import GroupExaminations
+from .indicator_weight import IndicatorWeight
 from .result_examination import ResultExamination
 from .result_indicator import ResultIndicator
 
@@ -10,4 +11,5 @@ __all__ = [
     "GroupExaminations",
     "ResultExamination",
     "ResultIndicator",
+    "IndicatorWeight",
 ]

@@ -1,6 +1,6 @@
 from rest_framework.serializers import ModelSerializer
 
-from backend.apps.examination.models import Examination, ResultExaminations
+from backend.apps.examination.models import Examination, ResultExamination
 
 
 class ResultsExaminationSerializer(ModelSerializer):
@@ -9,7 +9,7 @@ class ResultsExaminationSerializer(ModelSerializer):
     """
 
     class Meta:
-        model = ResultExaminations
+        model = ResultExamination
         # fields = ["id", ]
         fields = "__all__"
 

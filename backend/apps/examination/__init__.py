@@ -1,1 +1,1 @@
-default_app_config = "backend.apps.examination.apps.NpConfig"
+default_app_config = "backend.apps.examination.apps.ExaminationConfig"

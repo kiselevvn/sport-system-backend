@@ -20,6 +20,8 @@ PROJECT_APPS = [
     "backend.src",
     # Вспомогательные функции
     "backend.apps.services",
+    # Справочная база NP
+    "backend.apps.np",
     # Пользователи
     "backend.apps.users",
     # Социальный модуль

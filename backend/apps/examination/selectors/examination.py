@@ -1,9 +1,6 @@
 from django.db.models import Prefetch
 
-from backend.apps.examination.models import (  # Event, GroupExaminations,
-    Examination,
-    ResultExaminations,
-)
+from backend.apps.examination.models import Examination, ResultExamination
 
 
 class ExaminationSelector:
@@ -14,6 +11,6 @@ class ExaminationSelector:
             "template", "event"
         ).prefetch_related(
             Prefetch(
-                lookup="results", queryset=ResultExaminations.objects.all()
+                lookup="results", queryset=ResultExamination.objects.all()
             )
         )

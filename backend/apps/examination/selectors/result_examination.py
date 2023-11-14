@@ -1,16 +1,12 @@
 from django.db.models import Count, Prefetch
 
-from backend.apps.examination.models import (
-    Examination,
-    ResultExamination,
-    ResultIndicator,
-)
+from backend.apps.examination.models import ResultExamination, ResultIndicator
 
 
 # Prefetch(
 #     lookup="results", queryset=ResultExamination.objects.all()
 # )
-class ResultExaminationSelector:
+class ResultExaminationelector:
     """ """
 
     def all():

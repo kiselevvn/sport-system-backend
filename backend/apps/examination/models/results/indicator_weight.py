@@ -1,9 +1,6 @@
 from django.db import models
 from django.utils.translation import gettext as _
 
-from .enum_types_indiactor import EnumTypesIndiactor
-from ..templates.unit import Unit
-
 
 class IndicatorWeight(models.Model):
     """
@@ -12,13 +9,13 @@ class IndicatorWeight(models.Model):
 
     value = models.FloatField(_("Значение"), default=1)
     examination_template = models.ForeignKey(
-        "templates.ExaminationTemplate",
+        "examination.ExaminationTemplate",
         verbose_name=_("Показатель"),
         on_delete=models.CASCADE,
         related_name="indicator_weights",
     )
     indicator = models.ForeignKey(
-        "templates.Indicator",
+        "examination.Indicator",
         verbose_name=_("Показатель"),
         on_delete=models.CASCADE,
         related_name="indicator_weights",

@@ -65,7 +65,7 @@ class NpService:
             (models.Model,),
             {
                 **fields,
-                "__module__": f"backend.apps.services.models.{class_name}",
+                "__module__": f"backend.apps.np.models.{class_name}",
             },
         )
 
@@ -76,6 +76,6 @@ class NpService:
         models_pool = []
         for fn in cls.get_file_names():
             nodes = cls.get_nodes(file_name=fn)
-            model = cls.create_django_model_from_xml(nodes[0], file_name=fn)
+            model = cls._create_django_model_from_xml(nodes[0], file_name=fn)
             models_pool.append(model)
         return models_pool
