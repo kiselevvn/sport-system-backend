@@ -15,7 +15,7 @@ class SportType(models.Model):
         verbose_name=_("Наименование"),
         max_length=250,
     )
-    is_actual = models.BooleanField(_("Является актуальным"), default=False)
+    is_actual = models.BooleanField(_("Является актуальным"), default=True)
 
     GROUPS = {
         "А": "мужчины, юноши (юниоры)",

@@ -34,5 +34,5 @@ class IndicatorWeight(models.Model):
     )
 
     class Meta:
-        verbose_name = _("Показатель")
-        verbose_name_plural = _("Показатели")
+        verbose_name = _("Вес показателя")
+        verbose_name_plural = _("Веса показателей")

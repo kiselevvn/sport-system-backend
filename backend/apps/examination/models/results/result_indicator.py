@@ -1,14 +1,8 @@
 from django.db import models
 from django.utils.translation import gettext as _
 
-from backend.apps.services.models import (
-    DateCreatedMixin,
-    DescriptionMixin,
-    NameMixin,
-)
 
-
-class ResultIndicator(NameMixin, DescriptionMixin, DateCreatedMixin):
+class ResultIndicator(models.Model):
     """
     Результат показателя
     """
@@ -17,6 +11,18 @@ class ResultIndicator(NameMixin, DescriptionMixin, DateCreatedMixin):
     result_examination = models.ForeignKey(
         "examination.ResultExamination",
         verbose_name=_("Обследование"),
+        on_delete=models.CASCADE,
+        related_name="results_indicators",
+    )
+    group_indicators = models.ForeignKey(
+        "examination.GroupIndicators",
+        verbose_name=_("Группа показателя"),
+        on_delete=models.CASCADE,
+        related_name="results_indicators",
+    )
+    indicator = models.ForeignKey(
+        "examination.Indicator",
+        verbose_name=_("Показатель"),
         on_delete=models.CASCADE,
         related_name="results_indicators",
     )

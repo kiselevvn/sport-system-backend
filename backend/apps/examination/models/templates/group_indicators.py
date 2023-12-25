@@ -1,28 +1,25 @@
 from django.db import models
 from django.utils.translation import gettext as _
 
-from backend.apps.services.models import (
-    DescriptionMixin,
-    NameMixin,
-    OrderMixin,
-    ShortNameMixin,
-)
-
 from .indicator import Indicator
 
 
-class GroupIndicators(
-    NameMixin,
-    ShortNameMixin,
-    DescriptionMixin,
-):
+class GroupIndicators(models.Model):
     """
-    Group of medical indicators
     Группа медецинских показателей
     """
 
-    indicators = models.ManyToManyField(
-        Indicator, verbose_name=_("Показатели")
+    name = models.CharField(
+        verbose_name=_("Наименование"), max_length=125, blank=True, null=True
+    )
+    short_name = models.CharField(
+        verbose_name=_("Краткое наименование"),
+        max_length=50,
+        blank=True,
+        null=True,
+    )
+    description = models.TextField(
+        verbose_name=_("Описание"), blank=True, null=True
     )
 
     class Meta:

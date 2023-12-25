@@ -8,4 +8,4 @@ class TestingConfig(AppConfig):
 
     default_auto_field = "django.db.models.AutoField"
     name = "backend.apps.testing"
-    verbose_name = "Тестирование спортсменов"
+    verbose_name = "4. Тестирование спортсменов"

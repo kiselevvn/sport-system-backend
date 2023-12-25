@@ -21,13 +21,15 @@ PROJECT_APPS = [
     # Вспомогательные функции
     "backend.apps.services",
     # Справочная база NP
-    "backend.apps.np",
+    # "backend.apps.np",
     # Пользователи
     "backend.apps.users",
+    # Рейтинговые списки
+    "backend.apps.ekp",
     # Социальный модуль
     # "backend.apps.social",
     # Спортивные испытания
-    "backend.apps.competitions",
+    # "backend.apps.competitions",
     # Обследования
     "backend.apps.examination",
     # Тестирование

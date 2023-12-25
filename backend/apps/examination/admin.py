@@ -1,4 +1,5 @@
 from django.contrib import admin
+
 from . import models
 
 
@@ -22,8 +23,8 @@ class GroupIndicatorsAdmin(admin.ModelAdmin):
     pass
 
 
-@admin.register(models.Event)
-class EventAdmin(admin.ModelAdmin):
+@admin.register(models.IndicatorWeight)
+class IndicatorWeightAdmin(admin.ModelAdmin):
     pass
 
 
@@ -34,4 +35,14 @@ class ExaminationAdmin(admin.ModelAdmin):
 
 @admin.register(models.GroupExaminations)
 class GroupExaminationsAdmin(admin.ModelAdmin):
+    pass
+
+
+@admin.register(models.ResultExamination)
+class ResultExaminationAdmin(admin.ModelAdmin):
+    pass
+
+
+@admin.register(models.ResultIndicator)
+class ResultIndicatorAdmin(admin.ModelAdmin):
     pass

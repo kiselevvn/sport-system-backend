@@ -13,18 +13,20 @@ class ExaminationTemplate(NameMixin, DescriptionMixin):
 
     groups_indicators - группа показателей медецинского обследования
     сгрупированных по общему признаку
-
-
-
     """
 
     groups_indicators = models.ManyToManyField(
         GroupIndicators, verbose_name=_("Группа показателей")
     )
 
-    scheme = models.JSONField(_("Схема ограничений ввода"), blank=True, null=True)
+    scheme = models.JSONField(
+        _("Схема ограничений ввода"), blank=True, null=True
+    )
 
-    is_publish = models.BooleanField(verbose_name=_("Является опубликованным"), default=False,)
+    is_publish = models.BooleanField(
+        verbose_name=_("Является опубликованным"),
+        default=False,
+    )
 
     class Meta:
         verbose_name = _("Шаблон медицинского обследования")

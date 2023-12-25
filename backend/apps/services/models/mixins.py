@@ -10,8 +10,7 @@ class NameMixin(models.Model):
     """
 
     name = models.CharField(
-        verbose_name=_("Наименование"),
-        max_length=125, blank=True, null=True
+        verbose_name=_("Наименование"), max_length=125, blank=True, null=True
     )
 
     class Meta:
@@ -26,7 +25,10 @@ class ShortNameMixin(models.Model):
     """
 
     short_name = models.CharField(
-        verbose_name=_("Краткое наименование"), max_length=125, blank=True, null=True
+        verbose_name=_("Краткое наименование"),
+        max_length=50,
+        blank=True,
+        null=True,
     )
 
     class Meta:
@@ -55,7 +57,9 @@ class OrderMixin(models.Model):
     Содержит поле 'order' - (Сортировка)
     """
 
-    order = models.PositiveIntegerField(verbose_name=_("Фактический порядковый номер"), default=0)
+    order = models.PositiveIntegerField(
+        verbose_name=_("Фактический порядковый номер"), default=0
+    )
 
     class Meta:
         abstract = True
@@ -68,7 +72,9 @@ class DateCreatedMixin(models.Model):
     Содержит поле 'date_created' - (Дата Создания)
     """
 
-    date_created = models.DateTimeField(auto_now_add=True, verbose_name=_("Дата создания"))
+    date_created = models.DateTimeField(
+        auto_now_add=True, verbose_name=_("Дата создания")
+    )
 
     class Meta:
         abstract = True
