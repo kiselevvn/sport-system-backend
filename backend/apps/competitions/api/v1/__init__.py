@@ -1,5 +1,7 @@
-from .sport_type_views import SportTypeViewSet
+from .sport_category_viewset import SportCategoryViewSet
+from .sport_discipline_viewset import SportDisciplineViewSet
 
 __all__ = [
-    "SportTypeViewSet",
+    "SportDisciplineViewSet",
+    "SportCategoryViewSet",
 ]

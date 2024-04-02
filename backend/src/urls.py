@@ -57,10 +57,14 @@ urlpatterns = [
                     "examinations/",
                     include("apps.examination.api.urls"),
                 ),
-                #     path(
-                #         "competitions/",
-                #         include("apps.competitions.api.urls"),
-                #     ),
+                path(
+                    "np/",
+                    include("apps.np.api.urls"),
+                ),
+                path(
+                    "competitions/",
+                    include("apps.competitions.api.urls"),
+                ),
             ]
         ),
     ),

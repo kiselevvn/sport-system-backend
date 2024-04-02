@@ -30,6 +30,19 @@ class ResultIndicator(models.Model):
         _("результат обследования"), blank=True, null=True
     )
 
+    def save_result_value(self, commit=True):
+        new_value = None
+        if self.indicator in (
+            self.indicator.Type.FLOAT,
+            self.indicator.Type.INTEGER,
+        ):
+            new_value = self.result["value"]
+        if self.value == new_value:
+            return False, None
+        self.value = new_value
+        self.save()
+        return True, self
+
     class Meta:
         verbose_name = _("Результат показателя")
         verbose_name_plural = _("Результат показателей")

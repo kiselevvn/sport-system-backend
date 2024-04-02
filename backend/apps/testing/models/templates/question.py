@@ -1,10 +1,8 @@
 from django.db import models
 from django.utils.translation import gettext as _
 
-from backend.apps.services.models import DateCreatedMixin
 
-
-class Question(DateCreatedMixin):
+class Question(models.Model):
     """
     Вопрос
     """

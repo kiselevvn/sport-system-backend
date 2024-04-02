@@ -1,0 +1,188 @@
+@startuml
+
+    class "Explanation of the symbols used" as DESCRIPTION #FFF {
+    - AutoField (identifiers)
+    ..
+    + Regular field (anything)
+    ..
+    # ForeignKey (ManyToMany)
+    ..
+    ~ ForeignKey (OneToOne, OneToMany)
+    --
+}
+
+
+class "examination.Examination <2. Медицинские обследования>" as examination.Examination #f3d6f4 {
+    Обследование
+    ..
+    Обследование
+    --
+    - id (AutoField) - ID
+    + name (CharField) - Наименование
+    + description (TextField) - Описание
+    --
+}
+
+
+class "examination.GroupExaminations <2. Медицинские обследования>" as examination.GroupExaminations #f3d6f4 {
+    Группа обследований
+    ..
+    Группа обследований
+    --
+    - id (AutoField) - ID
+    + name (CharField) - Наименование
+    ~ event (ForeignKey) - Событие
+    # examinations (ManyToManyField) - Обследования
+    --
+}
+examination.GroupExaminations *-- ekp.Event
+examination.GroupExaminations *--* examination.Examination
+
+
+class "examination.ResultExamination <2. Медицинские обследования>" as examination.ResultExamination #f3d6f4 {
+    Результат обследования
+    ..
+    Результат обследования
+    --
+    - id (AutoField) - ID
+    ~ template (ForeignKey) - Обследование
+    ~ examination (ForeignKey) - Обследование
+    ~ sportsman (ForeignKey) - Спортсмен
+    + result (JSONField) - результат обследования
+    + date (DateTimeField) - Дата проведения
+    --
+}
+examination.ResultExamination *-- examination.ExaminationTemplate
+examination.ResultExamination *-- examination.Examination
+examination.ResultExamination *-- users.User
+
+
+class "examination.ResultIndicator <2. Медицинские обследования>" as examination.ResultIndicator #f3d6f4 {
+    Результат показателя
+    ..
+    Результат показателя
+    --
+    - id (AutoField) - ID
+    + value (FloatField) - Значение
+    ~ result_examination (ForeignKey) - Обследование
+    ~ group_indicators (ForeignKey) - Группа показателя
+    ~ indicator (ForeignKey) - Показатель
+    + result (JSONField) - результат обследования
+    --
+}
+examination.ResultIndicator *-- examination.ResultExamination
+examination.ResultIndicator *-- examination.GroupIndicators
+examination.ResultIndicator *-- examination.Indicator
+
+
+class "examination.Unit <2. Медицинские обследования>" as examination.Unit #f3d6f4 {
+    Единица измерения
+    ..
+    Unit
+    Единица измерения
+    --
+    - id (AutoField) - ID
+    + name (CharField) - Наименование
+    + short_name (CharField) - Краткое наименование
+    + description (TextField) - Описание
+    --
+}
+
+
+class "examination.Indicator <2. Медицинские обследования>" as examination.Indicator #f3d6f4 {
+    Показатель
+    ..
+    Indicator
+    Показатель
+    --
+    - id (AutoField) - ID
+    + name (CharField) - Наименование
+    + description (TextField) - Описание
+    + type_indicator (PositiveIntegerField) - Type Indicator
+    + value_property_indicator (PositiveIntegerField) - Type Indicator
+    ~ category_indicator (ForeignKey) - Группа показателей
+    ~ unit (ForeignKey) - Unit
+    + property_data (JSONField) - Данные
+    + property_function (CharField) - Функция
+    + is_property (BooleanField) - Является вычисляемым свойством
+    --
+}
+examination.Indicator *-- examination.CategoryIndicators
+examination.Indicator *-- examination.Unit
+
+
+class "examination.CategoryIndicators <2. Медицинские обследования>" as examination.CategoryIndicators #f3d6f4 {
+    Категория медецинских показателей
+    ..
+    Категория медецинских показателей
+    --
+    - id (AutoField) - ID
+    + name (CharField) - Наименование
+    --
+}
+
+
+class "examination.ExaminationTemplate <2. Медицинские обследования>" as examination.ExaminationTemplate #f3d6f4 {
+    Шаблон медицинского обследования
+    ..
+    Medical Examination Template
+    Шаблон медицинского обследования
+    --
+    - id (AutoField) - ID
+    + name (CharField) - Наименование
+    + description (TextField) - Описание
+    + scheme (JSONField) - Схема ограничений ввода
+    + is_publish (BooleanField) - Является опубликованным
+    --
+}
+
+
+class "examination.ExaminationTemplateIndicators <2. Медицинские обследования>" as examination.ExaminationTemplateIndicators #f3d6f4 {
+    Показатель шаблона обследований
+    ..
+    Показатель шаблона обследований
+    --
+    - id (AutoField) - ID
+    ~ examination_template (ForeignKey) - Шаблон обследования
+    ~ indicator (ForeignKey) - Показатель
+    ~ group_indicator (ForeignKey) - Группа показателей
+    --
+}
+examination.ExaminationTemplateIndicators *-- examination.ExaminationTemplate
+examination.ExaminationTemplateIndicators *-- examination.Indicator
+examination.ExaminationTemplateIndicators *-- examination.GroupIndicators
+
+
+class "examination.GroupIndicators <2. Медицинские обследования>" as examination.GroupIndicators #f3d6f4 {
+    Группа медецинских показателей
+    ..
+    Группа медецинских показателей
+    --
+    - id (AutoField) - ID
+    + name (CharField) - Наименование
+    + short_name (CharField) - Краткое наименование
+    + description (TextField) - Описание
+    --
+}
+
+
+class "examination.IndicatorWeight <2. Медицинские обследования>" as examination.IndicatorWeight #f3d6f4 {
+    Вес показателя
+    ..
+    Вес показателя
+    --
+    - id (AutoField) - ID
+    + value (FloatField) - Значение
+    ~ examination_template (ForeignKey) - Показатель
+    ~ indicator (ForeignKey) - Показатель
+    + max_limit_value (FloatField) - Максимальное значение
+    + min_limit_value (FloatField) - Минимальное значение
+    + last_update_value (DateTimeField) - Последнее обновленеие значения
+    + last_update_limits (DateTimeField) - Последнее обновленеие пределов
+    --
+}
+examination.IndicatorWeight *-- examination.ExaminationTemplate
+examination.IndicatorWeight *-- examination.Indicator
+
+
+@enduml

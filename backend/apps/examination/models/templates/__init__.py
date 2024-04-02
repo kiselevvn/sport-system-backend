@@ -1,3 +1,4 @@
+from .category_indicators import CategoryIndicators
 from .examination_template import ExaminationTemplate
 from .examination_template_indicators import ExaminationTemplateIndicators
 from .group_indicators import GroupIndicators
@@ -12,4 +13,5 @@ __all__ = [
     "IndicatorWeight",
     "ExaminationTemplate",
     "ExaminationTemplateIndicators",
+    "CategoryIndicators",
 ]

@@ -1,10 +1,8 @@
 from django.db import models
 from django.utils.translation import gettext as _
 
-from backend.apps.services.models import DateCreatedMixin
 
-
-class Answer(DateCreatedMixin):
+class Answer(models.Model):
     """
     Вариант ответа
     """
@@ -25,6 +23,9 @@ class Answer(DateCreatedMixin):
     score = models.PositiveIntegerField(
         _("Кол-во баллов"), blank=True, null=True
     )
+
+    def __str__(self):
+        return f"{self.text}"
 
     class Meta:
         verbose_name = _("Вариант ответа")

@@ -1,0 +1,43 @@
+@startuml
+
+    class "Explanation of the symbols used" as DESCRIPTION #FFF {
+    - AutoField (identifiers)
+    ..
+    + Regular field (anything)
+    ..
+    # ForeignKey (ManyToMany)
+    ..
+    ~ ForeignKey (OneToOne, OneToMany)
+    --
+}
+
+
+class "competitions.SportCategory <3. Спортивные результаты>" as competitions.SportCategory #f2d6f4 {
+    Вид спорта
+    ..
+    Вид спорта
+    --
+    - id (AutoField) - ID
+    + code_id (CharField) - Код
+    + name (CharField) - Наименование
+    + is_actual (BooleanField) - Является актуальным
+    --
+}
+
+
+class "competitions.SportDiscipline <3. Спортивные результаты>" as competitions.SportDiscipline #f2d6f4 {
+    Спортивная дисциплина
+    ..
+    Вид спорта
+    --
+    - id (AutoField) - ID
+    + code_id (CharField) - Код
+    + name (CharField) - Наименование
+    + is_actual (BooleanField) - Является актуальным
+    ~ sport_category (ForeignKey) - Вид спорта
+    --
+}
+competitions.SportDiscipline *-- competitions.SportCategory
+
+
+@enduml

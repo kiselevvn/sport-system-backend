@@ -6,11 +6,13 @@ from backend.apps.testing.selectors import TestTemplateSelectors
 from backend.apps.testing.serializers import TestTemplateSerializer
 
 
-class TestTemplateViewSet(viewsets.ViewSet):
+class TestTemplateViewSet(viewsets.ModelViewSet):
     """
     Набор представлений
     Шаблон тестирования
     """
+
+    serializer_class = TestTemplateSerializer
 
     def list(self, request):
         queryset = TestTemplateSelectors.all()

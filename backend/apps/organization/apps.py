@@ -2,5 +2,6 @@ from django.apps import AppConfig
 
 
 class OrganizationConfig(AppConfig):
+    default_auto_field = "django.db.models.BigAutoField"
     name = "backend.apps.organization"
-    verbose_name = "Образовательные группы"
+    verbose_name = "7. Физкультурно-спортивные организации"

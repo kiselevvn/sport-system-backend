@@ -43,9 +43,9 @@ class User(AbstractBaseUser, PermissionsMixin):
     is_employee = models.BooleanField(
         _("Пользователь является сотрудником"), default=False
     )
-    is_examination_templates_manager = models.BooleanField(
-        _("User is examination templates manager"), default=False
-    )
+    # is_examination_templates_manager = models.BooleanField(
+    #     _("User is examination templates manager"), default=False
+    # )
 
     email = models.EmailField(_("Адрес электронной почты"), blank=True)
     is_staff = models.BooleanField(
@@ -60,6 +60,24 @@ class User(AbstractBaseUser, PermissionsMixin):
         help_text=_("Является активныи"),
     )
     date_joined = models.DateTimeField(_("date joined"), default=timezone.now)
+
+    sportsman_organiztion_group = models.ForeignKey(
+        "organization.EducationGroup",
+        verbose_name=_("Группа"),
+        on_delete=models.CASCADE,
+        blank=True,
+        null=True,
+    )
+    sportsman_organiztion_child_group = models.ForeignKey(
+        "organization.ChildGroup",
+        verbose_name=_("Подгруппа"),
+        on_delete=models.CASCADE,
+        blank=True,
+        null=True,
+    )
+    settings = models.JSONField(
+        default=dict(), verbose_name=_("Настройки клиента")
+    )
 
     objects = UserManager()
 

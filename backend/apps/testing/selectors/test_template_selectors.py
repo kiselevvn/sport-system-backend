@@ -14,11 +14,11 @@ class TestTemplateSelectors:
     Шаблон тестирования
     """
 
-    @staticmethod
+    @classmethod
     def base_queryset():
         return TestTemplate.objects.all()
 
-    @staticmethod
+    @classmethod
     def all(cls):
         return TestTemplate.objects.prefetch_related(
             Prefetch(
@@ -33,6 +33,6 @@ class TestTemplateSelectors:
             ),
         )
 
-    @staticmethod
+    @classmethod
     def get(cls, id: int):
         return cls.all().get(pk=id)

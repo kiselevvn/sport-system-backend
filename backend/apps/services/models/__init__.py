@@ -1,5 +1,6 @@
 from .import_from_file import ImportFromFile
 from .mixins import (
+    AgeCategoryFKMixin,
     DateCreatedMixin,
     DateUpdatedMixin,
     DescriptionMixin,
@@ -8,9 +9,8 @@ from .mixins import (
     ShortNameMixin,
 )
 
-# from .np import *
-
 __all__ = [
+    "AgeCategoryFKMixin",
     "NameMixin",
     "ShortNameMixin",
     "DescriptionMixin",

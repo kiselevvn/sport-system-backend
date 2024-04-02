@@ -18,18 +18,6 @@ class AnswerTestTemplateSerializer(ModelSerializer):
         fields = "__all__"
 
 
-class QuestionTestTemplateSerializer(ModelSerializer):
-    """
-    Вопрос
-    """
-
-    answers = AnswerTestTemplateSerializer(many=True, read_only=True)
-
-    class Meta:
-        model = Question
-        fields = "__all__"
-
-
 class MediaObjectTestTemplateSerializer(ModelSerializer):
     """
     Медиа объект
@@ -40,15 +28,27 @@ class MediaObjectTestTemplateSerializer(ModelSerializer):
         fields = "__all__"
 
 
+class QuestionTestTemplateSerializer(ModelSerializer):
+    """
+    Вопрос
+    """
+
+    answers = AnswerTestTemplateSerializer(many=True, read_only=True)
+    media_objects = MediaObjectTestTemplateSerializer(
+        many=True,
+        read_only=True,
+    )
+
+    class Meta:
+        model = Question
+        fields = "__all__"
+
+
 class TestTemplateSerializer(ModelSerializer):
     """
     Шаблон тестирования
     """
 
-    media_objects = MediaObjectTestTemplateSerializer(
-        many=True,
-        read_only=True,
-    )
     questions = QuestionTestTemplateSerializer(many=True, read_only=True)
 
     class Meta:

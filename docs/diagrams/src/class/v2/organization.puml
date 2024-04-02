@@ -1,0 +1,67 @@
+@startuml
+
+    class "Explanation of the symbols used" as DESCRIPTION #FFF {
+    - AutoField (identifiers)
+    ..
+    + Regular field (anything)
+    ..
+    # ForeignKey (ManyToMany)
+    ..
+    ~ ForeignKey (OneToOne, OneToMany)
+    --
+}
+
+
+class "organization.ChildGroup <7. Физкультурно-спортивные организации>" as organization.ChildGroup #f4f2d6 {
+    Группа
+    ..
+    Образоватеьная Подгруппа
+    --
+    + id (BigAutoField) - ID
+    + сhar_code (CharField) - Символьный код
+    + order (PositiveIntegerField) - Фактический порядковый номер
+    ~ education_group (ForeignKey) - Группа
+    # users (ManyToManyField) - users
+    --
+}
+organization.ChildGroup *-- organization.EducationGroup
+organization.ChildGroup *--* users.User
+
+
+class "organization.EducationGroup <7. Физкультурно-спортивные организации>" as organization.EducationGroup #f4f2d6 {
+    Группа
+    ..
+    Группа
+    --
+    + id (BigAutoField) - ID
+    + level (IntegerField) - Уровень образования группы
+    + сhar_code (CharField) - Символьный код
+    + is_training_started (BooleanField) - Начат процесс обучения
+    + date_training_started (DateField) - Дата начала обучения
+    + is_training_completed (BooleanField) - Процесс обучения завершен
+    + date_training_completed (DateField) - Дата окончания обучения
+    + is_archival (BooleanField) - Является архивной
+    + archive_date (DateTimeField) - Дата архивации
+    ~ organization (ForeignKey) - Организация
+    --
+}
+organization.EducationGroup *-- organization.Organization
+
+
+class "organization.Organization <7. Физкультурно-спортивные организации>" as organization.Organization #f4f2d6 {
+    Организация
+    ..
+    Организация
+    --
+    + id (BigAutoField) - ID
+    + full_name (TextField) - Наименование организации полное
+    + short_name (CharField) - Краткое наименование
+    + inn (CharField) - ИНН
+    + kpp (CharField) - КПП
+    + ogrn (CharField) - ОГРН
+    + address (TextField) - Адрес
+    --
+}
+
+
+@enduml

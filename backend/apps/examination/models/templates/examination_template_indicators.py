@@ -24,6 +24,8 @@ class ExaminationTemplateIndicators(models.Model):
         verbose_name=_("Группа показателей"),
         on_delete=models.CASCADE,
         related_name="examination_template_indicators",
+        blank=True,
+        null=True,
     )
 
     class Meta:

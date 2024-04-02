@@ -1,10 +1,8 @@
 from django.db import models
 from django.utils.translation import gettext as _
 
-from backend.apps.services.models import DateCreatedMixin
 
-
-class ResultQuestion(DateCreatedMixin):
+class ResultQuestion(models.Model):
     """
     Вопрос результатов тестирования
     """
@@ -21,6 +19,12 @@ class ResultQuestion(DateCreatedMixin):
         verbose_name=_("Вопрос"),
         on_delete=models.CASCADE,
     )
+    date_created = models.DateTimeField(
+        auto_now_add=True, verbose_name=_("Дата создания")
+    )
+
+    def __str__(self):
+        return f"{self.question.text}"
 
     class Meta:
         verbose_name = _("Ответы на вопрос")

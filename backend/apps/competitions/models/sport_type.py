@@ -128,7 +128,7 @@ class SportType(models.Model):
     @property
     def is_discipline(self):
         """
-        Вида спорта является дисциплиной
+        Является дисциплиной
         """
         return self.code_id[3:6] != "000"
 
@@ -172,28 +172,31 @@ class SportType(models.Model):
     @property
     def get_extra_id(self):
         return self.code_id[9]
+        # return ""
 
     @property
     def get_extra_label(self):
-        print(self.code_id)
         return self.EXTRA[self.code_id[9]]
+        # return ""
 
     @property
     def get_group_id(self):
-        return self.code_id[10]
+        return self.code_id[9]
+        # return ""
 
     @property
     def get_group_label(self):
-        return self.GROUPS[self.code_id[10]]
+        return self.GROUPS[self.code_id[9]]
+        # return ""
 
     list_fields = [
         "id",
         "name",
         "is_actual",
         "code_id",
-        "is_discipline",
-        "discipline_id",
-        "public_id",
+        # "is_discipline",
+        # "discipline_id",
+        # "public_id",
         "get_seaseon_id",
         "get_seaseon_label",
         "get_propagation_id",
@@ -205,6 +208,10 @@ class SportType(models.Model):
         "get_group_label",
     ]
 
+    def __str__(self):
+        return f"{self.code_id}. {self.name}"
+
     class Meta:
+        abstract = True
         verbose_name = _("Вид спорта")
         verbose_name_plural = _("Виды спорта")

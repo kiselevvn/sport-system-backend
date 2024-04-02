@@ -2,7 +2,7 @@ from rest_framework.generics import ListAPIView
 
 from backend.apps.services.views.helpers import StandardPagination
 
-from .....selectors import get_sportsmans
+from .....selectors import SportsmanSelector
 from .....serializers import (  # SportsmanShortSerializer,
     SportsmanRetriveSerializer,
 )
@@ -16,7 +16,7 @@ class SportsmanPageAPIView(ListAPIView):
 
     # serializer_class = SportsmanShortSerializer
     serializer_class = SportsmanRetriveSerializer
-    queryset = get_sportsmans()
+    queryset = SportsmanSelector.all()
     pagination_class = StandardPagination
     filterset_class = SportsmansFilter
 

@@ -1,0 +1,42 @@
+@startjson
+[
+  {
+    "id": 0,
+    "questions": [
+      {
+        "id": 0,
+        "answers": [
+          {
+            "id": 0,
+            "text": "string",
+            "number": 2147483647,
+            "isWin": true,
+            "score": 2147483647
+          }
+        ],
+        "mediaObjects": [
+          {
+            "id": 0,
+            "name": "string",
+            "number": 2147483647,
+            "url": "string",
+            "picture": "string",
+            "html": "string"
+          }
+        ],
+        "text": "string",
+        "number": 2147483647,
+        "winScore": 2147483647,
+        "allowIncorrectAnswers": true,
+        "testTemplate": 0
+      }
+    ],
+    "name": "string",
+    "description": "string",
+    "slug": "ln1_HizS5lIlXOzuZy98Qvt",
+    "isOpen": true,
+    "isPublished": true,
+    "maxWinScore": 2147483647
+  }
+]
+@enduml

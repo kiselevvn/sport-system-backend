@@ -1,10 +1,8 @@
 from django.db import models
 from django.utils.translation import gettext as _
 
-from backend.apps.services.models import DateCreatedMixin, DescriptionMixin
 
-
-class EducationGroup(DateCreatedMixin, DescriptionMixin):
+class EducationGroup(models.Model):
     """
     Группа
     """
@@ -36,6 +34,13 @@ class EducationGroup(DateCreatedMixin, DescriptionMixin):
         _("Дата архивации"),
         auto_now=False,
         auto_now_add=False,
+        blank=True,
+        null=True,
+    )
+    organization = models.ForeignKey(
+        "organization.Organization",
+        verbose_name=_("Организация"),
+        on_delete=models.CASCADE,
         blank=True,
         null=True,
     )

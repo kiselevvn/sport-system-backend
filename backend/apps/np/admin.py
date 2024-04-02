@@ -1,3 +1,6 @@
-from django.contrib import admin
+from .services import NpService
 
-# Register your models here.
+NpService.get_admins()
+# NpService.create_instance_from_xml()
+
+# print(NpService.get_model_names())

@@ -1,1 +1,3 @@
-from .np_generate import *
+from ..services import NpService
+
+NpService.get_models()

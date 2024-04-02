@@ -22,6 +22,6 @@ class ExaminationTemplateSerializer(ModelSerializer):
             "id",
             "name",
             "description",
-            "groups_indicators",
+            # "groups_indicators",
             "examination_template_indicators",
         ]

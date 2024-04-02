@@ -1,22 +1,19 @@
 from django.db import models
 from django.utils.translation import gettext as _
 
-from backend.apps.services.models import DescriptionMixin, NameMixin
 
-from .group_indicators import GroupIndicators
-
-
-class ExaminationTemplate(NameMixin, DescriptionMixin):
+class ExaminationTemplate(models.Model):
     """
     Medical Examination Template
     Шаблон медицинского обследования
 
-    groups_indicators - группа показателей медецинского обследования
-    сгрупированных по общему признаку
     """
 
-    groups_indicators = models.ManyToManyField(
-        GroupIndicators, verbose_name=_("Группа показателей")
+    name = models.CharField(
+        verbose_name=_("Наименование"), max_length=125, blank=True, null=True
+    )
+    description = models.TextField(
+        verbose_name=_("Описание"), blank=True, null=True
     )
 
     scheme = models.JSONField(

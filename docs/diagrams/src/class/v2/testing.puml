@@ -1,0 +1,113 @@
+@startuml
+
+    class "Explanation of the symbols used" as DESCRIPTION #FFF {
+    - AutoField (identifiers)
+    ..
+    + Regular field (anything)
+    ..
+    # ForeignKey (ManyToMany)
+    ..
+    ~ ForeignKey (OneToOne, OneToMany)
+    --
+}
+
+
+class "testing.ResultAnswer <4. Тестирование спортсменов>" as testing.ResultAnswer #d6f4f4 {
+    Ответы на вопрос
+    ..
+    - id (AutoField) - ID
+    ~ result_question (ForeignKey) - Результат тестирования
+    + date_created (DateTimeField) - Дата создания
+    # answers (ManyToManyField) - Ответы
+    --
+}
+testing.ResultAnswer *-- testing.ResultQuestion
+testing.ResultAnswer *--* testing.Answer
+
+
+class "testing.ResultQuestion <4. Тестирование спортсменов>" as testing.ResultQuestion #d6f4f4 {
+    Ответы на вопрос
+    ..
+    - id (AutoField) - ID
+    ~ result_test (ForeignKey) - Результат тестирования
+    ~ question (ForeignKey) - Вопрос
+    + date_created (DateTimeField) - Дата создания
+    --
+}
+testing.ResultQuestion *-- testing.ResultTest
+testing.ResultQuestion *-- testing.Question
+
+
+class "testing.ResultTest <4. Тестирование спортсменов>" as testing.ResultTest #d6f4f4 {
+    Результат тестирования
+    ..
+    - id (AutoField) - ID
+    ~ test_template (ForeignKey) - Тест
+    ~ user (ForeignKey) - Пользователь
+    + result_score (PositiveIntegerField) - Кол-во баллов
+    + date (DateField) - Дата проведения
+    + date_created (DateTimeField) - Дата создания
+    --
+}
+testing.ResultTest *-- testing.TestTemplate
+testing.ResultTest *-- users.User
+
+
+class "testing.Answer <4. Тестирование спортсменов>" as testing.Answer #d6f4f4 {
+    Вариант ответа
+    ..
+    - id (AutoField) - ID
+    ~ question (ForeignKey) - Тест
+    + text (TextField) - Текст ответа
+    + number (PositiveIntegerField) - Порядковый номер
+    + is_win (BooleanField) - Является верным
+    + score (PositiveIntegerField) - Кол-во баллов
+    --
+}
+testing.Answer *-- testing.Question
+
+
+class "testing.MediaObject <4. Тестирование спортсменов>" as testing.MediaObject #d6f4f4 {
+    Медиа объект
+    ..
+    - id (AutoField) - ID
+    + name (CharField) - Наименование
+    ~ question (ForeignKey) - Тест
+    + number (PositiveIntegerField) - Порядковый номер
+    + url (URLField) - Ссылка
+    + picture (ImageField) - Изображение
+    + html (TextField) - html код
+    --
+}
+testing.MediaObject *-- testing.Question
+
+
+class "testing.Question <4. Тестирование спортсменов>" as testing.Question #d6f4f4 {
+    Вопрос теста
+    ..
+    - id (AutoField) - ID
+    ~ test_template (ForeignKey) - Тест
+    + text (TextField) - Текст вопроса
+    + number (PositiveIntegerField) - Порядковый номер
+    + win_score (PositiveIntegerField) - Кол-во баллов
+    + allow_incorrect_answers (BooleanField) - Допускать неверные ответы
+    --
+}
+testing.Question *-- testing.TestTemplate
+
+
+class "testing.TestTemplate <4. Тестирование спортсменов>" as testing.TestTemplate #d6f4f4 {
+    Шаблон тестирования
+    ..
+    - id (AutoField) - ID
+    + name (CharField) - Наименование
+    + description (TextField) - Описание
+    + slug (SlugField) - Постоянная ссылка
+    + is_open (BooleanField) - Является открытым
+    + is_published (BooleanField) - Является опубликованным
+    + max_win_score (IntegerField) - Максимальный балл
+    --
+}
+
+
+@enduml

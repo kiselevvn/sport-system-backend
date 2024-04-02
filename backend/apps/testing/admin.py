@@ -6,10 +6,53 @@ from django.utils.http import urlencode
 from . import models
 
 
+@admin.register(models.ResultAnswer)
+class ResultAnswerAdmin(admin.ModelAdmin):
+    list_display = ("result_question", "date_created")
+
+
+@admin.register(models.ResultQuestion)
+class ResultQuestionAdmin(admin.ModelAdmin):
+    list_display = ("question", "result_answers_link")
+
+    def result_answers_link(self, obj):
+        count = obj.answers.count()
+        if count == 0:
+            return format_html("Открыть {}", count)
+        url = (
+            reverse("admin:testing_resultanswer_changelist")
+            + "?"
+            + urlencode({"result_question_id": f"{obj.id}"})
+        )
+        return format_html('<a href="{}">Открыть {}</a>', url, count)
+
+    result_answers_link.short_description = "Ответы"
+
+
 @admin.register(models.ResultTest)
 class ResultTestAdmin(admin.ModelAdmin):
-    list_filter = ("test",)
-    list_display = ("test", "user", "result_score", "date_created")
+    list_filter = ("test_template",)
+    list_display = (
+        "test_template",
+        "user",
+        "result_score",
+        "date",
+        "date_created",
+        "result_question_link",
+    )
+
+    def result_question_link(self, obj):
+        count = obj.questions.count()
+        if count == 0:
+            return format_html("Открыть {}", count)
+        url = (
+            reverse("admin:testing_resultquestion_changelist")
+            + "?"
+            + urlencode({"result_test_id": f"{obj.id}"})
+        )
+        return format_html('<a href="{}">Открыть {}</a>', url, count)
+
+    result_question_link.short_description = "Ответы"
 
 
 class QuestionInline(admin.TabularInline):
@@ -24,7 +67,6 @@ class TestTemplateAdmin(admin.ModelAdmin):
         "is_published",
         "questions_link",
         "result_test_link",
-        "date_created",
     )
     inlines = [
         QuestionInline,
@@ -44,7 +86,7 @@ class TestTemplateAdmin(admin.ModelAdmin):
     questions_link.short_description = "Вопросы теста"
 
     def result_test_link(self, obj):
-        count = obj.result_tests.count()
+        count = obj.results_tests.count()
         if count == 0:
             return format_html("Открыть {}", count)
         url = (
@@ -68,7 +110,11 @@ class AnswerInline(admin.StackedInline):
 @admin.register(models.Question)
 class QuestionAdmin(admin.ModelAdmin):
     list_filter = ("test_template",)
-    list_display = ("text", "number", "answers_link", "date_created")
+    list_display = (
+        "text",
+        "number",
+        "answers_link",
+    )
     inlines = [
         AnswerInline,
     ]

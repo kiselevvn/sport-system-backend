@@ -4,6 +4,7 @@ from .get_fake_full_name import (
     get_fake_full_male_name,
 )
 from .get_fake_email import get_fake_email
+from .date_manager import DateManager
 
 __all__ = [
     "ServiceBase",

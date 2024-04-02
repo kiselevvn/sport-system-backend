@@ -2,6 +2,20 @@ from django.db import models
 from django.utils.translation import gettext as _
 
 
+class AgeCategoryFKMixin:
+
+    age_category = models.ForeignKey(
+        "np.P011",
+        verbose_name=_("Возростная группа"),
+        on_delete=models.CASCADE,
+        blank=True,
+        null=True,
+    )
+
+    class Meta:
+        abstract = True
+
+
 class NameMixin(models.Model):
     """
     Name Mixin;

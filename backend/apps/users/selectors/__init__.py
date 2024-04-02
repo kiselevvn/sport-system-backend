@@ -1,4 +1,4 @@
 from .employee import get_employees
-from .sportsman import get_sportsmans
+from .sportsman import SportsmanSelector
 
-__all__ = ["get_sportsmans", "get_employees"]
+__all__ = ["SportsmanSelector", "get_employees"]

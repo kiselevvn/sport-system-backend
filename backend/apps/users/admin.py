@@ -5,7 +5,7 @@ from django.contrib.auth.models import Group as BaseGroup
 from django.utils.translation import gettext_lazy as _
 
 from .models import Employee, ProxyGroup, Sportsman, User
-from .selectors import get_employees, get_sportsmans
+from .selectors import get_employees, SportsmanSelector
 
 
 @admin.register(User)

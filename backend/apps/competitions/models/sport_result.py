@@ -12,7 +12,11 @@ class SportResult(models.Model):
     sport_competition = models.ForeignKey(
         "competitions.User", verbose_name=_("Спортивное испытание")
     )
-    sportsman = models.ForeignKey("users.User", verbose_name=_("Спортсмен"))
+    sportsman = models.ForeignKey(
+        "users.User",
+        verbose_name=_("Спортсмен"),
+        related_name="results_sport_competition",
+    )
 
     class Meta:
         verbose_name = _("Спортивный результат")

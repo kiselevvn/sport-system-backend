@@ -16,20 +16,20 @@ DEFAULT_APPS = [
 ]
 
 PROJECT_APPS = [
+    # Справочная база NP
+    "backend.apps.np",
     # Главное приложение
     "backend.src",
     # Вспомогательные функции
     "backend.apps.services",
-    # Справочная база NP
-    # "backend.apps.np",
+    # Физкультурно-спортивные организации
+    "backend.apps.organization",
     # Пользователи
     "backend.apps.users",
     # Рейтинговые списки
     "backend.apps.ekp",
-    # Социальный модуль
-    # "backend.apps.social",
     # Спортивные испытания
-    # "backend.apps.competitions",
+    "backend.apps.competitions",
     # Обследования
     "backend.apps.examination",
     # Тестирование

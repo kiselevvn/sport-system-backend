@@ -2,10 +2,8 @@ from django.contrib.auth import get_user_model
 from django.db import models
 from django.utils.translation import gettext as _
 
-from .mixins import DateCreatedMixin
 
-
-class ImportFromFile(DateCreatedMixin):
+class ImportFromFile(models.Model):
     """
     Импорт данных из файла
     """
@@ -32,6 +30,9 @@ class ImportFromFile(DateCreatedMixin):
         blank=True,
         null=True,
         choices=ImportStatus.choices,
+    )
+    date_created = models.DateTimeField(
+        auto_now_add=True, verbose_name=_("Дата создания")
     )
 
     class Meta:

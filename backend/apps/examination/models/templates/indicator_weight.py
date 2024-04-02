@@ -1,8 +1,10 @@
 from django.db import models
 from django.utils.translation import gettext as _
 
+from backend.apps.services.models import AgeCategoryFKMixin
 
-class IndicatorWeight(models.Model):
+
+class IndicatorWeight(models.Model, AgeCategoryFKMixin):
     """
     Вес показателя
     """

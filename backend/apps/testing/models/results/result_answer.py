@@ -1,10 +1,8 @@
 from django.db import models
 from django.utils.translation import gettext as _
 
-from backend.apps.services.models import DateCreatedMixin
 
-
-class ResultAnswer(DateCreatedMixin):
+class ResultAnswer(models.Model):
     """
     Ответ результатов тестирования
     """
@@ -18,6 +16,9 @@ class ResultAnswer(DateCreatedMixin):
 
     answers = models.ManyToManyField(
         "testing.Answer", verbose_name=_("Ответы")
+    )
+    date_created = models.DateTimeField(
+        auto_now_add=True, verbose_name=_("Дата создания")
     )
 
     class Meta:
