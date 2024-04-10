@@ -6,8 +6,17 @@ from .unit import Unit
 
 class Indicator(models.Model):
     """
-    Indicator
-    Показатель
+    Показатель медицинского
+
+    физиологические («внутренние»), физические («внешние») и психологические параметры тренировочной нагрузки   и восстановления;
+
+    параметры качеств силы, быстроты, выносливости, гибкости и ловкости;
+
+    функциональные параметры сердечно-сосудистой и дыхательной систем;
+
+    биомеханические параметры спортивной техники;
+
+    параметры размеров тела.
     """
 
     class ValueProperty(models.IntegerChoices):
@@ -27,7 +36,7 @@ class Indicator(models.Model):
         INTEGER = 1, _("Целочисленный")
         FLOAT = 2, _("С плавающей точкой")
         IS_NORMAL = 3, _("Является нормой")
-        PERCENT = 4, _("Процентное значение")
+        PERCENT = 4, _("Процент")
 
     name = models.CharField(
         verbose_name=_("Наименование"), max_length=125, blank=True, null=True
@@ -61,7 +70,13 @@ class Indicator(models.Model):
         blank=True,
     )
 
-    property_data = models.JSONField(_("Данные"), blank=True, null=True)
+    property_data = models.JSONField(
+        _("Данные"),
+        help_text=_("Для работы свойства, необходимо задать набор аргументов"),
+        blank=True,
+        null=True,
+        default=dict,
+    )
     property_function = models.CharField(
         _("Функция"), max_length=25, blank=True, null=True
     )
