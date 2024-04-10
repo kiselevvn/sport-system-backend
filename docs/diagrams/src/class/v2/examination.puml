@@ -14,8 +14,6 @@
 
 class "examination.Examination <2. Медицинские обследования>" as examination.Examination #f3d6f4 {
     Обследование
-    ..
-    Обследование
     --
     - id (AutoField) - ID
     + name (CharField) - Наименование
@@ -25,8 +23,6 @@ class "examination.Examination <2. Медицинские обследовани
 
 
 class "examination.GroupExaminations <2. Медицинские обследования>" as examination.GroupExaminations #f3d6f4 {
-    Группа обследований
-    ..
     Группа обследований
     --
     - id (AutoField) - ID
@@ -40,8 +36,6 @@ examination.GroupExaminations *--* examination.Examination
 
 
 class "examination.ResultExamination <2. Медицинские обследования>" as examination.ResultExamination #f3d6f4 {
-    Результат обследования
-    ..
     Результат обследования
     --
     - id (AutoField) - ID
@@ -59,8 +53,6 @@ examination.ResultExamination *-- users.User
 
 class "examination.ResultIndicator <2. Медицинские обследования>" as examination.ResultIndicator #f3d6f4 {
     Результат показателя
-    ..
-    Результат показателя
     --
     - id (AutoField) - ID
     + value (FloatField) - Значение
@@ -77,9 +69,6 @@ examination.ResultIndicator *-- examination.Indicator
 
 class "examination.Unit <2. Медицинские обследования>" as examination.Unit #f3d6f4 {
     Единица измерения
-    ..
-    Unit
-    Единица измерения
     --
     - id (AutoField) - ID
     + name (CharField) - Наименование
@@ -90,9 +79,6 @@ class "examination.Unit <2. Медицинские обследования>" as
 
 
 class "examination.Indicator <2. Медицинские обследования>" as examination.Indicator #f3d6f4 {
-    Показатель
-    ..
-    Indicator
     Показатель
     --
     - id (AutoField) - ID
@@ -113,8 +99,6 @@ examination.Indicator *-- examination.Unit
 
 class "examination.CategoryIndicators <2. Медицинские обследования>" as examination.CategoryIndicators #f3d6f4 {
     Категория медецинских показателей
-    ..
-    Категория медецинских показателей
     --
     - id (AutoField) - ID
     + name (CharField) - Наименование
@@ -123,9 +107,6 @@ class "examination.CategoryIndicators <2. Медицинские обследо�
 
 
 class "examination.ExaminationTemplate <2. Медицинские обследования>" as examination.ExaminationTemplate #f3d6f4 {
-    Шаблон медицинского обследования
-    ..
-    Medical Examination Template
     Шаблон медицинского обследования
     --
     - id (AutoField) - ID
@@ -138,8 +119,6 @@ class "examination.ExaminationTemplate <2. Медицинские обследо
 
 
 class "examination.ExaminationTemplateIndicators <2. Медицинские обследования>" as examination.ExaminationTemplateIndicators #f3d6f4 {
-    Показатель шаблона обследований
-    ..
     Показатель шаблона обследований
     --
     - id (AutoField) - ID
@@ -155,8 +134,6 @@ examination.ExaminationTemplateIndicators *-- examination.GroupIndicators
 
 class "examination.GroupIndicators <2. Медицинские обследования>" as examination.GroupIndicators #f3d6f4 {
     Группа медецинских показателей
-    ..
-    Группа медецинских показателей
     --
     - id (AutoField) - ID
     + name (CharField) - Наименование
@@ -167,8 +144,6 @@ class "examination.GroupIndicators <2. Медицинские обследова
 
 
 class "examination.IndicatorWeight <2. Медицинские обследования>" as examination.IndicatorWeight #f3d6f4 {
-    Вес показателя
-    ..
     Вес показателя
     --
     - id (AutoField) - ID
